@@ -34,4 +34,3 @@ Then a player's position is predicted with different position classification sch
 - Forward
 - Center
 
-The data is then grouped into year-by-year statistics to predict player description (weight, height) and statistics (ppg, trb, ast, etc)
