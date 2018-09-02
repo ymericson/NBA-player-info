@@ -34,4 +34,12 @@ Based on the data I web scraped from [Basketball Reference](https://www.basketba
 - hs_state: state or country (if foreign player) of high school
 - url: player page in www.basketball-reference.com
 
-Here is a preview of the data:
+Using all the counting statistics, such as career per-game statstics and advanced stats, I created four models to predict a player's hall of fame induction probability. 
+
+With these inputs and outputs, I created four models:
+Logistic regression
+Decision tree and random forest classifier
+Naive Bayes classifier
+Support vector regression (SVM)
+
+The models were trained and tested on hall of fame data from 1947-2015, and then made predictions for current players and players retired since 2015.
