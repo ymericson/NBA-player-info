@@ -37,9 +37,14 @@ Based on the data I web scraped from [Basketball Reference](https://www.basketba
 Using all the counting statistics, such as career per-game statstics and advanced stats, I created four models to predict a player's hall of fame induction probability. 
 
 With these inputs and outputs, I created four models:
-Logistic regression
-Decision tree and random forest classifier
-Naive Bayes classifier
-Support vector regression (SVM)
+- Logistic regression
+- Decision tree and random forest classifier
+- Naive Bayes classifier
+- Support vector regression (SVM)
 
 The models were trained and tested on hall of fame data from 1947-2015, and then made predictions for current players and players retired since 2015.
+
+## Conclusion
+The model predicts tha LeBron James - based on current achievements - has the highest likelyhood of becoming inducted into the hall of fame. Recently-retired players like Tim Duncan, Kevin Garnett, and Kobe Bryant - all likely to be in the hall of fame class of 2021 - will be inducted within a few years. We also saw the model's limitations, since it does not take account for international career, team success, awards, cultural impact, etc. However, the model is mostly accurate in predicting which active and recently-retired players will be inducted.
+
+
