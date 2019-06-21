@@ -33,7 +33,7 @@ ppg,trb,ast,fgp,per,ws,position,shooting_hand,draft,high_school,hof,url,hs_city,
 4.6,1.2,1.2,27.3,7.2,-0.2,Point Guard,Right,,"De Smet Jesuit  in  Creve Coeur,        Missouri",0,/players/a/ahearbl01.html,Creve Coeur,Missouri,De Smet Jesuit ,Guard
 11.5,2.7,4.0,46.9,14.7,71.5,Shooting Guard,Right,"Boston Celtics, 2nd round (8th pick, 31st overall), 1981 NBA Draft","Eugene  in  North Eugene,        Oregon",0,/players/a/aingeda01.html,North Eugene,Oregon,Eugene ,Guard
 5.6,3.6,0.4,40.5,11.9,0.5,Power Forward,Right,"Detroit Pistons, 13th round (2nd pick, 135th overall), 1967 NBA Draft","Maplewood-Richmond Heights  in  Maplewood,        Missouri",0,/players/a/aitchma01.html,Maplewood,Missouri,Maplewood-Richmond Heights ,Forward
-5.3,3.9,0.5,50.3,14.9,7.5,Power Forward,Right,"Charlotte Bobcats, 1st round (20th pick, 20th overall), 2008 NBA Draft",,0,/players/a/ajincal01.html,,,,Forward
+5.3,3.9,0.5,50.3,14.9,7.5,Center,Right,"Charlotte Bobcats, 1st round (20th pick, 20th overall), 2008 NBA Draft",,0,/players/a/ajincal01.html,,,,Center
 3.5,2.1,0.5,35.0,7.4,-1.2,Center,Right,"New York Knicks, 2nd round (1st pick, 11th overall), 1966 NBA Draft",,0,/players/a/akinhe01.html,,,,Center
 1.7,0.3,0.3,50.0,15.3,0.0,Point Guard,Right,,"Casa Grande  in  Petaluma,        California",0,/players/a/akognjo01.html,Petaluma,California,Casa Grande ,Guard
 1.0,0.6,0.9,30.0,8.2,0.0,Shooting Guard,Right,,"West Oaks Academy  in  Orlando,        Florida",0,/players/a/akoonde01.html,Orlando,Florida,West Oaks Academy ,Guard
@@ -138,7 +138,7 @@ ppg,trb,ast,fgp,per,ws,position,shooting_hand,draft,high_school,hof,url,hs_city,
 4.7,5.5,0.6,31.7,12.6,0.0,Power Forward,Right,"Fort Wayne Pistons, 2nd round (7th pick, 13th overall), 1955 NBA Draft","New Rochelle  in  New Rochelle,        New York",0,/players/a/arnelje01.html,New Rochelle,New York,New Rochelle ,Forward
 3.7,1.0,1.2,36.5,7.7,0.1,Point Guard,Right,"Cincinnati Royals, 2nd round (1st pick, 9th overall), 1960 NBA Draft","McCallum  in  Austin,        Texas",0,/players/a/arnetja01.html,Austin,Texas,McCallum ,Guard
 4.0,2.0,0.3,46.5,13.6,1.4,Small Forward,Right,"Detroit Pistons, 8th round (4th pick, 103rd overall), 1969 NBA Draft","Saint Xavier  in  Cincinnati,        Ohio",0,/players/a/arnzebo01.html,Cincinnati,Ohio,Saint Xavier ,Forward
-6.6,1.7,3.1,43.8,13.4,20.1,Point Guard,Right,,"Colegio Santiago Apostol  in  Fajardo,      Puerto Rico  ",0,/players/a/arroyca01.html,Fajardo,Puerto Rico,Colegio Santiago Apostol ,Guard
+6.6,1.7,3.1,43.8,13.4,20.1,Shooting Guard,Right,,"Colegio Santiago Apostol  in  Fajardo,      Puerto Rico  ",0,/players/a/arroyca01.html,Fajardo,Puerto Rico,Colegio Santiago Apostol ,Guard
 6.5,3.5,0.8,44.4,12.2,12.3,Power Forward,Right,"New Orleans Hornets, 1st round (27th pick, 27th overall), 2008 NBA Draft","South Oak Cliff  in  Dallas,        Texas",0,/players/a/arthuda01.html,Dallas,Texas,South Oak Cliff ,Forward
 3.2,1.3,1.5,34.3,11.3,0.0,Point Guard,Right,"Milwaukee Bucks, 6th round (2nd pick, 73rd overall), 1969 NBA Draft","De La Salle  in  New Orleans,        Louisiana",0,/players/a/arthujo01.html,New Orleans,Louisiana,De La Salle ,Guard
 5.1,2.5,1.2,39.2,6.9,0.0,Shooting Guard,Right,,"Notre Dame Prep  in  Fitchburg,        Massachusetts",0,/players/a/artisja01.html,Fitchburg,Massachusetts,Notre Dame Prep ,Guard
@@ -161,11 +161,11 @@ ppg,trb,ast,fgp,per,ws,position,shooting_hand,draft,high_school,hof,url,hs_city,
 2.7,0.7,1.4,33.0,7.3,-0.9,Point Guard,Right,"Minnesota Timberwolves, 1st round (14th pick, 14th overall), 1999 NBA Draft","Oak Hill Academy  in  Mouth of Wilson,        Virginia",0,/players/a/averywi01.html,Mouth of Wilson,Virginia,Oak Hill Academy ,Guard
 4.8,4.6,2.0,45.9,10.5,22.4,Center,Right,"Philadelphia 76ers, 3rd round (12th pick, 46th overall), 1970 NBA Draft","Blackford  in  San Jose,        California",0,/players/a/awtrede01.html,San Jose,California,Blackford ,Center
 4.7,4.4,1.3,53.6,14.7,5.1,Power Forward,Right,,,0,/players/a/ayongu01.html,,,,Forward
-2.9,2.7,0.4,55.3,12.4,6.3,Center,Right,"Sacramento Kings, 2nd round (1st pick, 31st overall), 2009 NBA Draft","Etiwanda  in  Rancho Cucamonga,        California",0,/players/p/pendeje02.html,Rancho Cucamonga,California,Etiwanda ,Center
+2.9,2.7,0.4,55.3,12.4,6.3,Power Forward,Right,"Sacramento Kings, 2nd round (1st pick, 31st overall), 2009 NBA Draft","Etiwanda  in  Rancho Cucamonga,        California",0,/players/p/pendeje02.html,Rancho Cucamonga,California,Etiwanda ,Forward
 16.3,10.3,1.8,58.5,20.5,5.8,Center,Right,"Phoenix Suns, 1st round (1st pick, 1st overall), 2018 NBA Draft","Hillcrest Prep Academy  in  Phoenix,        Arizona",0,/players/a/aytonde01.html,Phoenix,Arizona,Hillcrest Prep Academy ,Center
 10.5,4.0,1.1,45.9,14.3,9.3,Small Forward,Right,,"Victory Christian  in  Tulsa,        Oklahoma",0,/players/a/azubuke01.html,Tulsa,Oklahoma,Victory Christian ,Forward
 1.6,1.2,0.2,26.7,3.7,0.0,Shooting Guard,Right,,"The Oakridge School  in  Arlington,        Texas",0,/players/b/babbch01.html,Arlington,Texas,The Oakridge School ,Guard
-4.8,2.2,0.6,40.8,10.1,7.2,Small Forward,Left,"Minnesota Timberwolves, 1st round (16th pick, 16th overall), 2010 NBA Draft","Galena  in  Reno,        Nevada",0,/players/b/babbilu01.html,Reno,Nevada,Galena ,Forward
+4.8,2.2,0.6,40.8,10.1,7.2,Power Forward,Left,"Minnesota Timberwolves, 1st round (16th pick, 16th overall), 2010 NBA Draft","Galena  in  Reno,        Nevada",0,/players/b/babbilu01.html,Reno,Nevada,Galena ,Forward
 1.8,1.0,0.5,37.5,10.9,-0.1,Center,Right,"Phoenix Suns, 2nd round (23rd pick, 50th overall), 1990 NBA Draft","Kraljevo  in  Kraljevo,      Serbia  ",0,/players/b/babicmi01.html,Kraljevo,Serbia,Kraljevo ,Center
 3.5,-,0.7,28.6,-,0.8,Small Forward,Right,"Boston Celtics, 1948 BAA Draft","St. John's Preparatory School  in  Brooklyn,        New York",0,/players/b/bachjo01.html,Brooklyn,New York,St. John's Preparatory School ,Forward
 5.1,2.2,0.9,43.2,8.8,1.1,Shooting Guard,Right,"New Orleans Pelicans, 2nd round (10th pick, 40th overall), 2017 NBA Draft","Oak Hill Academy  in  Mouth of Wilson,        Virginia",0,/players/b/bacondw01.html,Mouth of Wilson,Virginia,Oak Hill Academy ,Guard
@@ -297,7 +297,7 @@ ppg,trb,ast,fgp,per,ws,position,shooting_hand,draft,high_school,hof,url,hs_city,
 5.5,2.2,0.6,41.7,10.9,3.8,Small Forward,Right,"Toronto Raptors, 1st round (5th pick, 5th overall), 1999 NBA Draft","Picayune Memorial  in  Picayune,        Mississippi",0,/players/b/bendejo01.html,Picayune,Mississippi,Picayune Memorial ,Forward
 0.0,1.5,0.0,-,4.7,0.0,Power Forward,Right,,"Fauquier  in  Warrenton,        Virginia",0,/players/b/benimje01.html,Warrenton,Virginia,Fauquier ,Forward
 11.4,7.5,1.3,49.7,14.8,32.7,Center,Right,"Los Angeles Clippers, 1st round (3rd pick, 3rd overall), 1985 NBA Draft","Carroll  in  Monroe,        Louisiana",0,/players/b/benjabe01.html,Monroe,Louisiana,Carroll ,Center
-5.5,1.7,0.9,39.0,8.9,-0.9,Point Guard,Right,"Chicago Bulls, 1st round (28th pick, 28th overall), 1998 NBA Draft","Fontana  in  Fontana,        California",0,/players/b/benjaco01.html,Fontana,California,Fontana ,Guard
+5.5,1.7,0.9,39.0,8.9,-0.9,Shooting Guard,Right,"Chicago Bulls, 1st round (28th pick, 28th overall), 1998 NBA Draft","Fontana  in  Fontana,        California",0,/players/b/benjaco01.html,Fontana,California,Fontana ,Guard
 4.4,3.1,0.5,39.2,10.2,0.5,Power Forward,Right,"Cleveland Cavaliers, 1st round (1st pick, 1st overall), 2013 NBA Draft","Findlay College Prep  in  Henderson,        Nevada",0,/players/b/bennean01.html,Henderson,Nevada,Findlay College Prep ,Forward
 2.3,0.5,1.0,34.0,6.2,-0.3,Point Guard,Right,"Atlanta Hawks, 2nd round (11th pick, 38th overall), 1992 NBA Draft","Bellaire  in  Bellaire,        Texas",0,/players/b/benneel01.html,Bellaire,Texas,Bellaire ,Guard
 4.0,2.7,0.4,53.4,18.2,1.9,Power Forward,Right,"Phoenix Suns, 1st round (27th pick, 27th overall), 1995 NBA Draft","Denton  in  Denton,        Texas",0,/players/b/bennema01.html,Denton,Texas,Denton ,Forward
@@ -318,7 +318,7 @@ ppg,trb,ast,fgp,per,ws,position,shooting_hand,draft,high_school,hof,url,hs_city,
 6.2,2.3,1.0,44.4,13.3,9.3,Power Forward,Right,"Indiana Pacers, 2nd round (12th pick, 42nd overall), 2011 NBA Draft",,0,/players/b/bertada01.html,,,,Forward
 3.5,0.9,2.0,35.2,6.4,-0.9,Point Guard,Right,,"Red Land  in  New Cumberland,        Pennsylvania",0,/players/b/beshode01.html,New Cumberland,Pennsylvania,Red Land ,Guard
 7.6,1.8,3.5,43.1,13.8,30.9,Point Guard,Left,"Indiana Pacers, 1st round (23rd pick, 23rd overall), 1995 NBA Draft","Springfield Central  in  Springfield,        Massachusetts",0,/players/b/besttr01.html,Springfield,Massachusetts,Springfield Central ,Guard
-9.0,4.3,3.5,41.2,12.5,24.8,Point Guard,Right,"Los Angeles Lakers, 2nd round (12th pick, 42nd overall), 2009 NBA Draft","Marshall  in  Chicago,        Illinois",0,/players/b/beverpa01.html,Chicago,Illinois,Marshall ,Guard
+9.0,4.3,3.5,41.2,12.5,24.8,Shooting Guard,Right,"Los Angeles Lakers, 2nd round (12th pick, 42nd overall), 2009 NBA Draft","Marshall  in  Chicago,        Illinois",0,/players/b/beverpa01.html,Chicago,Illinois,Marshall ,Guard
 0.7,0.3,0.3,50.0,44.3,0.0,Center,Right,,"Huntington Prep  in  Huntington,        West Virginia",0,/players/b/bhullsi01.html,Huntington,West Virginia,Huntington Prep ,Center
 8.7,1.3,0.8,41.8,12.9,1.5,Shooting Guard,Right,"St. Louis Hawks, 4th round (6th pick, 37th overall), 1967 NBA Draft","Franklin D Roosevelt  in  Hyde Park,        New York",0,/players/b/bialowe01.html,Hyde Park,New York,Franklin D Roosevelt ,Guard
 8.1,2.5,2.2,37.4,9.6,8.2,Shooting Guard,Right,"Minneapolis Lakers, 2nd round (9th pick, 18th overall), 1954 NBA Draft","Long Island City HS  in  Long Island City,        New York",0,/players/b/biancal01.html,Long Island City,New York,Long Island City HS ,Guard
@@ -396,7 +396,7 @@ ppg,trb,ast,fgp,per,ws,position,shooting_hand,draft,high_school,hof,url,hs_city,
 21.4,3.5,4.2,43.7,16.1,9.8,Shooting Guard,Right,"Phoenix Suns, 1st round (13th pick, 13th overall), 2015 NBA Draft","Moss Point  in  Moss Point,        Mississippi",0,/players/b/bookede01.html,Moss Point,Mississippi,Moss Point ,Guard
 5.2,1.2,2.3,40.0,8.2,-0.1,Point Guard,Right,,"Moss Point  in  Moss Point,        Mississippi",0,/players/b/bookeme01.html,Moss Point,Mississippi,Moss Point ,Guard
 6.9,5.5,1.1,51.5,15.0,26.2,Power Forward,Left,"Minnesota Timberwolves, 1st round (23rd pick, 23rd overall), 2010 NBA Draft","Union County  in  Union,        South Carolina",0,/players/b/booketr01.html,Union,South Carolina,Union County ,Forward
-5.2,4.9,0.5,54.4,14.2,9.1,Power Forward,Right,"New Jersey Nets, 1st round (23rd pick, 23rd overall), 2006 NBA Draft","West Nottingham Academy  in  Colora,        Maryland",0,/players/b/boonejo01.html,Colora,Maryland,West Nottingham Academy ,Forward
+5.2,4.9,0.5,54.4,14.2,9.1,Center,Right,"New Jersey Nets, 1st round (23rd pick, 23rd overall), 2006 NBA Draft","West Nottingham Academy  in  Colora,        Maryland",0,/players/b/boonejo01.html,Colora,Maryland,West Nottingham Academy ,Center
 16.8,4.2,3.7,46.1,15.4,59.3,Shooting Guard,Right,"Phoenix Suns, 11th round (13th pick, 147th overall), 1968 NBA Draft","Omaha Technical  in  Omaha,        Nebraska",0,/players/b/boonero01.html,Omaha,Nebraska,Omaha Technical ,Guard
 3.3,2.8,0.4,45.1,12.4,8.0,Center,Left,"Washington Wizards, 2nd round (6th pick, 35th overall), 1999 NBA Draft","Groveport Madison  in  Reynoldsburg,        Ohio",0,/players/b/boothca01.html,Reynoldsburg,Ohio,Groveport Madison ,Center
 2.9,2.2,0.9,32.5,7.3,-0.8,Small Forward,Right,"Chicago Bulls, 1st round (28th pick, 28th overall), 1997 NBA Draft","Paul Laurence Dunbar  in  Baltimore,        Maryland",0,/players/b/boothke01.html,Baltimore,Maryland,Paul Laurence Dunbar ,Forward
@@ -464,7 +464,7 @@ ppg,trb,ast,fgp,per,ws,position,shooting_hand,draft,high_school,hof,url,hs_city,
 2.5,1.9,0.4,30.2,7.2,-0.1,Small Forward,Right,"New York Knicks, 1st round (4th pick, 4th overall), 1958 NBA Draft","Saint Augustine  in  Brooklyn,        New York",0,/players/b/brennpe01.html,Brooklyn,New York,Saint Augustine ,Forward
 0.9,0.5,0.2,45.5,5.6,0.1,Small Forward,Right,"Philadelphia Warriors, 1952 NBA Draft, and Philadelphia Warriors, 8th round (5th pick, 60th overall), 1958 NBA Draft",,0,/players/b/brennto01.html,,,,Forward
 6.8,4.4,0.9,46.7,13.2,20.9,Center,Right,"Milwaukee Bucks, 1st round (18th pick, 18th overall), 1983 NBA Draft","Lincoln  in  Lake City,        Minnesota",0,/players/b/breuera01.html,Lake City,Minnesota,Lincoln ,Center
-8.7,2.8,1.5,42.5,11.8,22.5,Shooting Guard,Right,"Minnesota Timberwolves, 1st round (7th pick, 7th overall), 2007 NBA Draft","Portland  in  Portland,        Tennessee",0,/players/b/breweco01.html,Portland,Tennessee,Portland ,Guard
+8.7,2.8,1.5,42.5,11.8,22.5,Small Forward,Right,"Minnesota Timberwolves, 1st round (7th pick, 7th overall), 2007 NBA Draft","Portland  in  Portland,        Tennessee",0,/players/b/breweco01.html,Portland,Tennessee,Portland ,Forward
 1.6,0.9,1.0,37.2,7.0,0.0,Shooting Guard,Right,"Indiana Pacers, 2nd round (12th pick, 41st overall), 2001 NBA Draft","Newport School  in  Silver Spring,        Maryland",0,/players/b/breweja01.html,Silver Spring,Maryland,Newport School ,Guard
 5.8,6.3,1.5,44.8,12.2,29.3,Power Forward,Right,"Cleveland Cavaliers, 1st round (2nd pick, 2nd overall), 1973 NBA Draft","Proviso East  in  Maywood,        Illinois",0,/players/b/breweji01.html,Maywood,Illinois,Proviso East ,Forward
 11.9,1.9,1.8,45.9,13.0,17.3,Shooting Guard,Right,"Portland Trail Blazers, 1st round (7th pick, 7th overall), 1978 NBA Draft","Northside  in  Fort Smith,        Arkansas",0,/players/b/brewero01.html,Fort Smith,Arkansas,Northside ,Guard
@@ -537,7 +537,7 @@ ppg,trb,ast,fgp,per,ws,position,shooting_hand,draft,high_school,hof,url,hs_city,
 7.6,1.9,1.1,42.0,12.4,9.2,Shooting Guard,Right,"Cleveland Cavaliers, 1st round (25th pick, 25th overall), 2006 NBA Draft","Proviso East  in  Maywood,        Illinois",0,/players/b/brownsh01.html,Maywood,Illinois,Proviso East ,Guard
 3.1,1.1,0.3,30.6,6.1,0.2,Small Forward,Right,,"South Philadelphia  in  Philadelphia,        Pennsylvania",0,/players/b/brownst01.html,Philadelphia,Pennsylvania,South Philadelphia ,Forward
 5.3,2.9,1.0,43.9,10.1,2.8,Shooting Guard,Right,"Philadelphia 76ers, 2nd round (16th pick, 46th overall), 2017 NBA Draft","Proviso East  in  Maywood,        Illinois",0,/players/b/brownst02.html,Maywood,Illinois,Proviso East ,Guard
-3.9,1.2,2.0,38.4,10.8,-0.4,Point Guard,Right,,"Iowa  in  Iowa,        Louisiana",0,/players/b/brownti01.html,Iowa,Louisiana,Iowa ,Guard
+3.9,1.2,2.0,38.4,10.8,-0.4,Shooting Guard,Right,,"Iowa  in  Iowa,        Louisiana",0,/players/b/brownti01.html,Iowa,Louisiana,Iowa ,Guard
 6.0,2.1,1.6,43.7,9.9,4.9,Small Forward,Right,"New Jersey Nets, 4th round (13th pick, 82nd overall), 1982 NBA Draft","Farragut Career Academy  in  Chicago,        Illinois",0,/players/b/brownto01.html,Chicago,Illinois,Farragut Career Academy ,Forward
 4.8,2.8,1.5,41.5,11.1,0.6,Small Forward,Right,"Washington Wizards, 1st round (15th pick, 15th overall), 2018 NBA Draft","Centennial HS  in  Las Vegas,        Nevada",0,/players/b/browntr01.html,Las Vegas,Nevada,Centennial HS ,Forward
 1.4,-,0.2,36.0,-,0.1,Center,Right,,"Tilden  in  Chicago,        Illinois",0,/players/b/brownji01.html,Chicago,Illinois,Tilden ,Center
@@ -606,7 +606,7 @@ ppg,trb,ast,fgp,per,ws,position,shooting_hand,draft,high_school,hof,url,hs_city,
 6.3,1.6,1.7,40.2,11.7,0.3,Point Guard,Right,,"Bay View  in  Milwaukee,        Wisconsin",0,/players/b/buyckdw01.html,Milwaukee,Wisconsin,Bay View ,Guard
 5.0,5.5,0.5,27.3,14.9,0.1,Power Forward,Right,"Portland Trail Blazers, 2nd round (12th pick, 42nd overall), 2007 NBA Draft","Ridgeway  in  Memphis,        Tennessee",0,/players/b/byarsde01.html,Memphis,Tennessee,Ridgeway ,Forward
 11.5,7.7,1.2,55.6,19.6,37.4,Center,Right,"Los Angeles Lakers, 1st round (10th pick, 10th overall), 2005 NBA Draft","St. Joseph  in  Metuchen,        New Jersey",0,/players/b/bynuman01.html,Metuchen,New Jersey,St. Joseph ,Center
-8.1,1.6,3.3,44.2,14.6,7.0,Point Guard,Right,,"Crane Technical Preparatory  in  Chicago,        Illinois",0,/players/b/bynumwi01.html,Chicago,Illinois,Crane Technical Preparatory ,Guard
+8.1,1.6,3.3,44.2,14.6,7.0,Shooting Guard,Right,,"Crane Technical Preparatory  in  Chicago,        Illinois",0,/players/b/bynumwi01.html,Chicago,Illinois,Crane Technical Preparatory ,Guard
 1.5,1.1,0.3,32.6,2.3,-0.3,Power Forward,Right,,,0,/players/b/byrdwa01.html,,,,Forward
 5.7,2.2,1.6,46.3,10.8,4.2,Small Forward,Right,"Phoenix Suns, 1st round (19th pick, 19th overall), 1978 NBA Draft","Sutherland  in  Pittsford,        New York",0,/players/b/byrnema01.html,Pittsford,New York,Sutherland ,Forward
 6.5,1.5,1.2,29.9,-,6.7,Small Forward,Right,,"DeWitt Clinton  in  Bronx,        New York",0,/players/b/byrneto01.html,Bronx,New York,DeWitt Clinton ,Forward
@@ -639,7 +639,7 @@ ppg,trb,ast,fgp,per,ws,position,shooting_hand,draft,high_school,hof,url,hs_city,
 12.0,9.2,0.9,63.5,22.2,31.4,Center,Right,"Houston Rockets, 1st round (25th pick, 25th overall), 2014 NBA Draft",,0,/players/c/capelca01.html,,,,Center
 2.0,1.0,0.2,48.5,10.0,0.3,Center,Right,"Los Angeles Lakers, 2nd round (28th pick, 58th overall), 2010 NBA Draft","Notre Dame Preparatory School  in  Fitchburg,        Massachusetts",0,/players/c/caracde01.html,Fitchburg,Massachusetts,Notre Dame Preparatory School ,Center
 9.5,5.6,1.2,46.1,12.3,11.1,Small Forward,Right,"Philadelphia 76ers, 7th round (10th pick, 77th overall), 1967 NBA Draft","West Philadelphia  in  Philadelphia,        Pennsylvania",0,/players/c/cardfr01.html,Philadelphia,Pennsylvania,West Philadelphia ,Forward
-4.6,2.3,1.0,40.8,12.7,15.4,Power Forward,Right,"Detroit Pistons, 2nd round (15th pick, 44th overall), 2000 NBA Draft","Unity  in  Tolonto,        Illinois",0,/players/c/cardibr01.html,Tolonto,Illinois,Unity ,Forward
+4.6,2.3,1.0,40.8,12.7,15.4,Small Forward,Right,"Detroit Pistons, 2nd round (15th pick, 44th overall), 2000 NBA Draft","Unity  in  Tolonto,        Illinois",0,/players/c/cardibr01.html,Tolonto,Illinois,Unity ,Forward
 5.5,1.3,1.8,33.3,9.4,-0.5,Point Guard,Right,"Chicago Packers, 5th round (9th pick, 50th overall), 1961 NBA Draft","Von Steuben  in  Chicago,        Illinois",0,/players/c/carlho01.html,Chicago,Illinois,Von Steuben ,Guard
 5.0,-,0.3,26.8,-,1.6,Power Forward,Right,,,0,/players/c/carlich01.html,,,,Forward
 1.3,0.2,0.2,66.7,18.1,0.1,Shooting Guard,Right,,"Ottawa Hills  in  Grand Rapids,        Michigan",0,/players/c/carlige01.html,Grand Rapids,Michigan,Ottawa Hills ,Guard
@@ -718,7 +718,7 @@ ppg,trb,ast,fgp,per,ws,position,shooting_hand,draft,high_school,hof,url,hs_city,
 1.9,0.6,1.0,26.3,5.8,0.0,Point Guard,Right,,"McClymonds  in  Oakland,        California",0,/players/c/cherrwi01.html,Oakland,California,McClymonds ,Guard
 7.1,2.4,0.7,44.3,11.8,2.7,Small Forward,Right,"Houston Rockets, 1st round (16th pick, 16th overall), 1988 NBA Draft","Holy Cross  in  Flushing,        New York",0,/players/c/chievde01.html,Flushing,New York,Holy Cross ,Forward
 4.3,3.3,0.8,44.1,11.9,10.6,Power Forward,Right,"Sacramento Kings, 1st round (27th pick, 27th overall), 1991 NBA Draft","Tuscaloosa Academy  in  Tuscaloosa,        Alabama",0,/players/c/chilcpe01.html,Tuscaloosa,Alabama,Tuscaloosa Academy ,Forward
-9.1,4.7,1.6,52.2,15.6,25.7,Shooting Guard,Right,"Atlanta Hawks, 1st round (6th pick, 6th overall), 2004 NBA Draft","Mayfair  in  Lakewood,        California",0,/players/c/childjo01.html,Lakewood,California,Mayfair ,Guard
+9.1,4.7,1.6,52.2,15.6,25.7,Small Forward,Right,"Atlanta Hawks, 1st round (6th pick, 6th overall), 2004 NBA Draft","Mayfair  in  Lakewood,        California",0,/players/c/childjo01.html,Lakewood,California,Mayfair ,Forward
 2.4,0.5,1.0,32.8,5.9,-0.2,Point Guard,Right,"Detroit Pistons, 1st round (19th pick, 19th overall), 1995 NBA Draft","Flint Hill School  in  Oakton,        Virginia",0,/players/c/childra01.html,Oakton,Virginia,Flint Hill School ,Guard
 6.9,2.4,4.9,40.3,11.2,22.9,Point Guard,Right,,"Foothill  in  Bakersfield,        California",0,/players/c/childch01.html,Bakersfield,California,Foothill ,Guard
 0.9,0.6,0.6,25.0,7.0,0.0,Point Guard,Right,,"White Station HS  in  Memphis,        Tennessee",0,/players/c/chiozch01.html,Memphis,Tennessee,White Station HS ,Guard
@@ -778,7 +778,7 @@ ppg,trb,ast,fgp,per,ws,position,shooting_hand,draft,high_school,hof,url,hs_city,
 3.6,3.7,0.9,41.1,7.0,20.1,Center,Right,"Houston Rockets, 1st round (18th pick, 18th overall), 2001 NBA Draft","Harvard-Westlake School  in  North Hollywood,        California",0,/players/c/collija04.html,North Hollywood,California,Harvard-Westlake School ,Center
 3.8,0.9,0.9,41.4,12.2,0.6,Shooting Guard,Right,"Chicago Bulls, 1st round (11th pick, 11th overall), 1970 NBA Draft","Corcoran  in  Syracuse,        New York",0,/players/c/colliji01.html,Syracuse,New York,Corcoran ,Guard
 14.6,8.4,1.6,56.6,20.1,11.4,Power Forward,Right,"Atlanta Hawks, 1st round (19th pick, 19th overall), 2017 NBA Draft","Cardinal Newman  in  West Palm Beach,        Florida",0,/players/c/collijo01.html,West Palm Beach,Florida,Cardinal Newman ,Forward
-3.9,1.8,1.7,38.0,7.9,-1.6,Small Forward,Right,"New York Knicks, 1st round (29th pick, 29th overall), 2006 NBA Draft","Simon Gratz  in  Philadelphia,        Pennsylvania",0,/players/c/collima01.html,Philadelphia,Pennsylvania,Simon Gratz ,Forward
+3.9,1.8,1.7,38.0,7.9,-1.6,Point Guard,Right,"New York Knicks, 1st round (29th pick, 29th overall), 2006 NBA Draft","Simon Gratz  in  Philadelphia,        Pennsylvania",0,/players/c/collima01.html,Philadelphia,Pennsylvania,Simon Gratz ,Guard
 0.9,0.3,0.4,28.0,3.6,-0.2,Point Guard,Right,,"Crane Technical Preparatory  in  Chicago,        Illinois",0,/players/c/collish01.html,Chicago,Illinois,Crane Technical Preparatory ,Guard
 5.6,3.8,0.9,44.1,10.9,3.6,Center,Right,"Sacramento Kings, 1st round (10th pick, 10th overall), 2017 NBA Draft","Bishop Gorman  in  Las Vegas,        Nevada",0,/players/c/colliza01.html,Las Vegas,Nevada,Bishop Gorman ,Center
 3.2,3.3,1.8,38.4,10.0,0.5,Small Forward,Right,,"Provo  in  Provo,        Utah",0,/players/c/colliky01.html,Provo,Utah,Provo ,Forward
@@ -817,7 +817,7 @@ ppg,trb,ast,fgp,per,ws,position,shooting_hand,draft,high_school,hof,url,hs_city,
 0.5,0.2,0.1,14.3,-5.1,-0.2,Shooting Guard,Right,,"Trenton Catholic  in  Trenton,        New Jersey",0,/players/c/cookech01.html,Trenton,New Jersey,Trenton Catholic ,Guard
 1.5,1.7,0.2,18.2,6.7,0.0,Power Forward,Right,,"Christian Brothers  in  Sacramento,        California",0,/players/c/cookeda01.html,Sacramento,California,Christian Brothers ,Forward
 4.3,1.6,1.3,39.3,10.4,-0.4,Shooting Guard,Right,"Cleveland Cavaliers, 6th round (9th pick, 94th overall), 1970 NBA Draft","Libby  in  Toledo,        Ohio",0,/players/c/cookejo01.html,Toledo,Ohio,Libby ,Guard
-2.9,2.4,0.3,44.9,15.6,0.5,Center,Right,,"Glenbrook South  in  Glenview,        Illinois",0,/players/c/cooleja01.html,Glenview,Illinois,Glenbrook South ,Center
+2.9,2.4,0.3,44.9,15.6,0.5,Power Forward,Right,,"Glenbrook South  in  Glenview,        Illinois",0,/players/c/cooleja01.html,Glenview,Illinois,Glenbrook South ,Forward
 6.7,5.9,1.8,33.9,11.0,11.6,Power Forward,Right,"Boston Celtics, 2nd round, 1950 NBA Draft","Westinghouse  in  Pittsburgh,        Pennsylvania",1,/players/c/coopech01.html,Pittsburgh,Pennsylvania,Westinghouse ,Forward
 2.3,0.7,2.0,40.2,7.7,-0.5,Point Guard,Right,"Los Angeles Lakers, 2nd round (9th pick, 36th overall), 1992 NBA Draft","Lakewood  in  Lakewood,        California",0,/players/c/coopedu01.html,Lakewood,California,Lakewood ,Guard
 4.5,4.0,0.8,50.6,10.5,0.3,Center,Right,"New Jersey Nets, 5th round (3rd pick, 95th overall), 1981 NBA Draft","Kashmere  in  Houston,        Texas",0,/players/c/coopejo01.html,Houston,Texas,Kashmere ,Center
@@ -961,7 +961,7 @@ ppg,trb,ast,fgp,per,ws,position,shooting_hand,draft,high_school,hof,url,hs_city,
 10.1,2.1,1.7,42.4,12.2,5.0,Shooting Guard,Right,"Baltimore Bullets, 1st round (14th pick, 14th overall), 1969 NBA Draft","Eastern District  in  Brooklyn,        New York",0,/players/d/davismi01.html,Brooklyn,New York,Eastern District ,Guard
 1.8,1.3,0.0,40.0,21.1,0.1,Power Forward,Right,,"Bishop Mose Davis  in  Jacksonville,        Florida",0,/players/d/davismi03.html,Jacksonville,Florida,Bishop Mose Davis ,Forward
 1.5,2.0,0.0,20.0,4.5,-0.1,Power Forward,Right,"Philadelphia 76ers, 1st round (21st pick, 21st overall), 1980 NBA Draft","Harding  in  Warren,        Ohio",0,/players/d/davismo01.html,Warren,Ohio,Harding ,Forward
-2.6,1.9,0.4,40.2,10.6,0.5,Power Forward,Right,"Los Angeles Clippers, 2nd round (4th pick, 34th overall), 2006 NBA Draft","Rochester  in  Rochester,        Michigan",0,/players/d/davispa01.html,Rochester,Michigan,Rochester ,Forward
+2.6,1.9,0.4,40.2,10.6,0.5,Center,Right,"Los Angeles Clippers, 2nd round (4th pick, 34th overall), 2006 NBA Draft","Rochester  in  Rochester,        Michigan",0,/players/d/davispa01.html,Rochester,Michigan,Rochester ,Center
 8.0,1.7,2.8,40.9,9.3,0.4,Shooting Guard,Right,"Cincinnati Royals, 3rd round (1st pick, 17th overall), 1960 NBA Draft","Lewis County  in  Vanceburg,        Kentucky",0,/players/d/davisra01.html,Vanceburg,Kentucky,Lewis County ,Guard
 0.7,1.3,0.3,0.0,-3.3,-0.1,Center,Right,"Rochester Royals, 6th round (7th pick, 52nd overall), 1954 NBA Draft","Manhattan College High School  in  New York,        New York",0,/players/d/davisre01.html,New York,New York,Manhattan College High School ,Center
 13.5,3.5,3.3,44.6,14.7,28.0,Shooting Guard,Right,"Charlotte Hornets, 1st round (21st pick, 21st overall), 1998 NBA Draft","North  in  Davenport,        Iowa",0,/players/d/davisri01.html,Davenport,Iowa,North ,Guard
@@ -1023,10 +1023,10 @@ ppg,trb,ast,fgp,per,ws,position,shooting_hand,draft,high_school,hof,url,hs_city,
 5.5,4.6,0.4,58.5,17.3,5.0,Power Forward,Right,"Los Angeles Clippers, 2nd round (3rd pick, 33rd overall), 2016 NBA Draft","New American  in  Centereach,        New York",0,/players/d/diallch01.html,Centereach,New York,New American ,Forward
 3.7,1.9,0.3,45.5,10.1,0.8,Shooting Guard,Right,"Brooklyn Nets, 2nd round (15th pick, 45th overall), 2018 NBA Draft","Putnam Science Academy  in  Putnam,        Connecticut",0,/players/d/diallha01.html,Putnam,Connecticut,Putnam Science Academy ,Guard
 8.6,4.4,3.5,49.3,12.9,51.6,Shooting Guard,Right,"Atlanta Hawks, 1st round (21st pick, 21st overall), 2003 NBA Draft",,0,/players/d/diawbo01.html,,,,Guard
-3.5,1.4,0.7,35.7,6.1,1.7,Shooting Guard,Right,,"Tremblay En France  in  Paris,      France  ",0,/players/d/diawaya01.html,Paris,France,Tremblay En France ,Guard
+3.5,1.4,0.7,35.7,6.1,1.7,Small Forward,Right,,"Tremblay En France  in  Paris,      France  ",0,/players/d/diawaya01.html,Paris,France,Tremblay En France ,Forward
 0.8,0.3,0.2,25.0,9.9,0.0,Shooting Guard,Right,"Los Angeles Clippers, 2nd round (22nd pick, 52nd overall), 2006 NBA Draft","Miami Christian School  in  Miami,        Florida",0,/players/d/diazgu01.html,Miami,Florida,Miami Christian School ,Guard
 5.8,1.4,2.5,40.1,12.9,5.9,Point Guard,Right,"Sacramento Kings, 1st round (28th pick, 28th overall), 2002 NBA Draft","Prairie  in  Vancouver,        Washington",0,/players/d/dickada01.html,Vancouver,Washington,Prairie ,Guard
-1.2,0.6,0.1,40.0,9.0,0.1,Small Forward,Right,"Utah Jazz, 2nd round (21st pick, 50th overall), 2000 NBA Draft","East  in  Denver,        Colorado",0,/players/d/dickeka01.html,Denver,Colorado,East ,Forward
+1.2,0.6,0.1,40.0,9.0,0.1,Power Forward,Right,"Utah Jazz, 2nd round (21st pick, 50th overall), 2000 NBA Draft","East  in  Denver,        Colorado",0,/players/d/dickeka01.html,Denver,Colorado,East ,Forward
 2.0,0.2,0.8,36.6,6.0,-0.2,Shooting Guard,Right,,,0,/players/d/dickehe01.html,,,,Guard
 15.4,2.9,2.6,43.2,13.4,9.6,Shooting Guard,Right,"Houston Rockets, 1st round (14th pick, 14th overall), 1998 NBA Draft","Federal Way  in  Seattle,        Washington",0,/players/d/dickemi01.html,Seattle,Washington,Federal Way ,Guard
 2.8,1.1,0.8,35.0,5.5,-0.8,Shooting Guard,Right,"Phoenix Suns, 7th round (4th pick, 112th overall), 1974 NBA Draft",,0,/players/d/dickecl01.html,,,,Guard
@@ -1067,7 +1067,7 @@ ppg,trb,ast,fgp,per,ws,position,shooting_hand,draft,high_school,hof,url,hs_city,
 5.6,-,0.8,32.7,-,1.0,Point Guard,Right,"New York Knicks, 2nd round, 1949 BAA Draft","Union Hill  in  Union Hill,        New Jersey",0,/players/d/donovha01.html,Union Hill,New Jersey,Union Hill ,Guard
 7.0,1.3,2.2,41.6,11.5,18.5,Shooting Guard,Right,"Orlando Magic, 1st round (10th pick, 10th overall), 2000 NBA Draft","Dillard  in  Fort Lauderdale,        Florida",0,/players/d/doolike01.html,Fort Lauderdale,Florida,Dillard ,Guard
 2.4,2.4,0.3,38.9,8.4,0.3,Small Forward,Right,"New Orleans Jazz, 2nd round (9th pick, 26th overall), 1976 NBA Draft","Archer  in  Atlanta,        Georgia",0,/players/d/dorseja01.html,Atlanta,Georgia,Archer ,Forward
-2.6,3.9,0.4,53.4,12.1,2.9,Center,Right,"Portland Trail Blazers, 2nd round (3rd pick, 33rd overall), 2008 NBA Draft","Laurinburg Institute  in  Laurinburg,        North Carolina",0,/players/d/dorsejo01.html,Laurinburg,North Carolina,Laurinburg Institute ,Center
+2.6,3.9,0.4,53.4,12.1,2.9,Power Forward,Right,"Portland Trail Blazers, 2nd round (3rd pick, 33rd overall), 2008 NBA Draft","Laurinburg Institute  in  Laurinburg,        North Carolina",0,/players/d/dorsejo01.html,Laurinburg,North Carolina,Laurinburg Institute ,Forward
 4.0,5.0,0.0,25.0,-3.0,-0.1,Small Forward,Right,"Phoenix Suns, 13th round (9th pick, 204th overall), 1971 NBA Draft",,0,/players/d/dorsero01.html,,,,Forward
 6.7,2.3,1.3,38.9,10.5,1.0,Shooting Guard,Right,"Atlanta Hawks, 2nd round (11th pick, 41st overall), 2017 NBA Draft","Maranatha  in  Los Angeles,        California",0,/players/d/dorsety01.html,Los Angeles,California,Maranatha ,Guard
 8.2,3.0,1.4,42.1,10.9,2.1,Shooting Guard,Right,"New York Knicks, 2nd round (14th pick, 44th overall), 2017 NBA Draft","Jack Yates  in  Houston,        Texas",0,/players/d/dotsoda01.html,Houston,Texas,Jack Yates ,Guard
@@ -1087,7 +1087,7 @@ ppg,trb,ast,fgp,per,ws,position,shooting_hand,draft,high_school,hof,url,hs_city,
 3.4,1.8,1.0,27.7,5.2,-0.1,Shooting Guard,Right,,"Marshall  in  Chicago,        Illinois",0,/players/d/doylemi01.html,Chicago,Illinois,Marshall ,Guard
 2.6,2.3,0.6,39.1,14.8,0.1,Shooting Guard,Right,,"Spring Valley  in  Columbia,        South Carolina",0,/players/d/doziepj01.html,Columbia,South Carolina,Spring Valley ,Guard
 2.4,1.7,0.3,33.3,5.1,-0.2,Small Forward,Right,,"Paul Laurence Dunbar  in  Baltimore,        Maryland",0,/players/d/doziete01.html,Baltimore,Maryland,Paul Laurence Dunbar ,Forward
-13.7,3.1,4.8,46.6,17.1,51.0,Point Guard,Left,"San Antonio Spurs, 2nd round (15th pick, 45th overall), 2008 NBA Draft",,0,/players/d/dragigo01.html,,,,Guard
+13.7,3.1,4.8,46.6,17.1,51.0,Shooting Guard,Left,"San Antonio Spurs, 2nd round (15th pick, 45th overall), 2008 NBA Draft",,0,/players/d/dragigo01.html,,,,Guard
 1.8,0.5,0.3,36.7,8.2,-0.1,Shooting Guard,Left,,,0,/players/d/dragizo01.html,,,,Guard
 2.1,2.1,0.4,46.7,7.4,4.0,Center,Right,"Indiana Pacers, 2nd round (2nd pick, 26th overall), 1986 NBA Draft","Kapaun Mt. Carmel  in  Wichita,        Kansas",0,/players/d/dreilgr01.html,Wichita,Kansas,Kapaun Mt. Carmel ,Center
 4.4,1.2,2.2,38.2,9.6,2.4,Point Guard,Right,"Houston Rockets, 1st round (16th pick, 16th overall), 1998 NBA Draft","Valparaiso  in  Valparaiso,        Indiana",0,/players/d/drewbr01.html,Valparaiso,Indiana,Valparaiso ,Guard
@@ -1173,7 +1173,7 @@ ppg,trb,ast,fgp,per,ws,position,shooting_hand,draft,high_school,hof,url,hs_city,
 8.6,3.6,2.8,45.3,13.4,41.2,Shooting Guard,Right,"Houston Rockets, 3rd round (1st pick, 48th overall), 1983 NBA Draft","Monterey  in  Lubbock,        Texas",0,/players/e/ehlocr01.html,Lubbock,Texas,Monterey ,Guard
 2.0,1.0,3.0,50.0,12.2,0.0,Point Guard,Right,,"Hancock  in  St. Louis,        Missouri",0,/players/e/eichhdi01.html,St. Louis,Missouri,Hancock ,Guard
 6.5,1.7,3.5,40.7,11.5,19.5,Shooting Guard,Right,"Minnesota Timberwolves, 2nd round (3rd pick, 30th overall), 1994 NBA Draft","Southwestern  in  Detroit,        Michigan",0,/players/e/eisleho01.html,Detroit,Michigan,Southwestern ,Guard
-3.6,2.7,0.2,42.3,11.2,1.7,Center,Right,"Vancouver Grizzlies, 2nd round (8th pick, 37th overall), 1999 NBA Draft","Worcester Academy  in  Worcester,        Massachusetts",0,/players/e/ekeziob01.html,Worcester,Massachusetts,Worcester Academy ,Center
+3.6,2.7,0.2,42.3,11.2,1.7,Power Forward,Right,"Vancouver Grizzlies, 2nd round (8th pick, 37th overall), 1999 NBA Draft","Worcester Academy  in  Worcester,        Massachusetts",0,/players/e/ekeziob01.html,Worcester,Massachusetts,Worcester Academy ,Forward
 6.3,1.6,2.9,37.0,12.2,0.6,Point Guard,Right,"Chicago Bulls, 2nd round (5th pick, 34th overall), 2000 NBA Draft","North Community  in  Minneapolis,        Minnesota",0,/players/e/elamikh01.html,Minneapolis,Minnesota,North Community ,Guard
 0.0,-,0.0,0.0,-,0.0,Small Forward,Right,,"Harding  in  Saint Paul,        Minnesota",0,/players/e/eliasdo01.html,Saint Paul,Minnesota,Harding ,Forward
 8.6,2.8,2.6,47.3,13.1,48.9,Small Forward,Right,"Milwaukee Bucks, 7th round (21st pick, 160th overall), 1985 NBA Draft","Power Memorial  in  New York,        New York",0,/players/e/eliema01.html,New York,New York,Power Memorial ,Forward
@@ -1198,7 +1198,7 @@ ppg,trb,ast,fgp,per,ws,position,shooting_hand,draft,high_school,hof,url,hs_city,
 5.3,3.2,0.7,46.0,10.6,4.0,Power Forward,Right,"Los Angeles Clippers, 1st round (12th pick, 12th overall), 2002 NBA Draft","Thornton Township  in  Harvey,        Illinois",0,/players/e/elyme01.html,Harvey,Illinois,Thornton Township ,Forward
 24.3,11.4,3.2,48.1,24.5,16.8,Center,Right,"Philadelphia 76ers, 1st round (3rd pick, 3rd overall), 2014 NBA Draft","The Rock School  in  Gainesville,        Florida",0,/players/e/embiijo01.html,Gainesville,Florida,The Rock School ,Center
 12.5,9.1,1.4,44.0,15.1,37.8,Center,Right,"St. Louis Hawks, 3rd round (7th pick, 22nd overall), 1958 NBA Draft","Tecumseh  in  New Carlisle,        Ohio",0,/players/e/embrywa01.html,New Carlisle,Ohio,Tecumseh ,Center
-1.4,0.6,0.1,46.2,8.5,0.1,Small Forward,Right,"Seattle SuperSonics, 2nd round (6th pick, 35th overall), 2004 NBA Draft","David W. Carter  in  Dallas,        Texas",0,/players/e/emmetan01.html,Dallas,Texas,David W. Carter ,Forward
+1.4,0.6,0.1,46.2,8.5,0.1,Shooting Guard,Right,"Seattle SuperSonics, 2nd round (6th pick, 35th overall), 2004 NBA Draft","David W. Carter  in  Dallas,        Texas",0,/players/e/emmetan01.html,Dallas,Texas,David W. Carter ,Guard
 0.9,-,0.3,12.0,-,-0.1,Small Forward,Right,,,0,/players/e/endrene01.html,,,,Forward
 1.8,2.0,0.2,41.1,7.2,0.6,Center,Right,"Golden State Warriors, 3rd round (14th pick, 60th overall), 1982 NBA Draft","Stillwater  in  Stillwater,        Minnesota",0,/players/e/englech01.html,Stillwater,Minnesota,Stillwater ,Center
 2.5,1.5,0.6,37.9,12.4,0.0,Power Forward,Right,,"Don Bosco Technical Institute  in  Rosemead,        California",0,/players/e/englewa01.html,Rosemead,California,Don Bosco Technical Institute ,Forward
@@ -1226,12 +1226,12 @@ ppg,trb,ast,fgp,per,ws,position,shooting_hand,draft,high_school,hof,url,hs_city,
 4.4,2.1,1.0,45.0,10.3,0.1,Power Forward,Right,"Detroit Pistons, 8th round (5th pick, 157th overall), 1978 NBA Draft","Lincoln  in  Port Arthur,        Texas",0,/players/e/evansea01.html,Port Arthur,Texas,Lincoln ,Forward
 1.3,0.8,0.8,34.0,3.5,-0.1,Shooting Guard,Right,"Golden State Warriors, 1st round (28th pick, 28th overall), 2018 NBA Draft","St. Michael the Archangel  in  Baton Rouge,        Louisiana",0,/players/e/evansja02.html,Baton Rouge,Louisiana,St. Michael the Archangel ,Guard
 4.2,1.7,2.0,34.5,6.7,-0.4,Point Guard,Right,"Philadelphia 76ers, 2nd round (9th pick, 39th overall), 2017 NBA Draft","Justin F. Kimball  in  Dallas,        Texas",0,/players/e/evansja01.html,Dallas,Texas,Justin F. Kimball ,Guard
-3.5,2.6,0.4,56.9,17.3,8.2,Power Forward,Right,"Utah Jazz, 2nd round (25th pick, 55th overall), 2010 NBA Draft","Crossett  in  Crossett,        Arkansas",0,/players/e/evansje01.html,Crossett,Arkansas,Crossett ,Forward
+3.5,2.6,0.4,56.9,17.3,8.2,Small Forward,Right,"Utah Jazz, 2nd round (25th pick, 55th overall), 2010 NBA Draft","Crossett  in  Crossett,        Arkansas",0,/players/e/evansje01.html,Crossett,Arkansas,Crossett ,Forward
 6.7,2.5,0.7,44.2,11.9,21.7,Shooting Guard,Right,,"Wichita Collegiate  in  Wichita,        Kansas",0,/players/e/evansma01.html,Wichita,Kansas,Wichita Collegiate ,Guard
 7.7,1.4,2.6,45.2,12.0,9.3,Point Guard,Right,"Denver Nuggets, 1st round (21st pick, 21st overall), 1978 NBA Draft","Laurinburg Institute  in  Laurinburg,        North Carolina",0,/players/e/evansmi01.html,Laurinburg,North Carolina,Laurinburg Institute ,Guard
 4.1,7.1,0.6,46.5,11.7,27.1,Power Forward,Right,,"Woodham  in  Pensacola,        Florida",0,/players/e/evansre01.html,Pensacola,Florida,Woodham ,Forward
 15.7,4.6,4.8,44.0,17.1,28.4,Shooting Guard,Right,"Sacramento Kings, 1st round (4th pick, 4th overall), 2009 NBA Draft","American Christian School  in  Aston,        Pennsylvania",0,/players/e/evansty01.html,Aston,Pennsylvania,American Christian School ,Guard
-3.4,1.2,1.4,38.9,8.3,0.8,Point Guard,Right,"Los Angeles Clippers, 2nd round (2nd pick, 32nd overall), 2005 NBA Draft","Willowridge  in  Houston,        Texas",0,/players/e/ewingda01.html,Houston,Texas,Willowridge ,Guard
+3.4,1.2,1.4,38.9,8.3,0.8,Shooting Guard,Right,"Los Angeles Clippers, 2nd round (2nd pick, 32nd overall), 2005 NBA Draft","Willowridge  in  Houston,        Texas",0,/players/e/ewingda01.html,Houston,Texas,Willowridge ,Guard
 21.0,9.8,1.9,50.4,21.0,126.4,Center,Right,"New York Knicks, 1st round (1st pick, 1st overall), 1985 NBA Draft","Cambridge Rindge & Latin  in  Cambridge,        Massachusetts",1,/players/e/ewingpa01.html,Cambridge,Massachusetts,Cambridge Rindge & Latin ,Center
 0.4,0.3,0.3,0.0,0.6,-0.1,Small Forward,Right,"Sacramento Kings, 2nd round (13th pick, 43rd overall), 2008 NBA Draft","National Christian Academy  in  Fort Washington,        Maryland",0,/players/e/ewingpa02.html,Fort Washington,Maryland,National Christian Academy ,Forward
 5.9,1.8,2.3,40.0,8.1,2.7,Point Guard,Right,"Utah Jazz, 1st round (5th pick, 5th overall), 2014 NBA Draft","Lake Ginninderra  in  Canberra,      Australia  ",0,/players/e/exumda01.html,Canberra,Australia,Lake Ginninderra ,Guard
@@ -1255,7 +1255,7 @@ ppg,trb,ast,fgp,per,ws,position,shooting_hand,draft,high_school,hof,url,hs_city,
 0.9,0.9,0.1,30.0,2.2,-0.1,Small Forward,Right,"San Francisco Warriors, 3rd round (7th pick, 23rd overall), 1962 NBA Draft","Zephyr Hills  in  Zephyr Hills,        Florida",0,/players/f/fedorda01.html,Zephyr Hills,Florida,Zephyr Hills ,Forward
 13.3,-,2.0,36.2,-,41.7,Small Forward,Right,,"Lowell  in  San Francisco,        California",0,/players/f/feeribo01.html,San Francisco,California,Lowell ,Forward
 5.2,1.5,0.8,53.1,15.9,1.5,Shooting Guard,Right,"Phoenix Suns, 2nd round (16th pick, 33rd overall), 1976 NBA Draft","Alpena  in  Alpena,        Michigan",0,/players/f/feherbu01.html,Alpena,Michigan,Alpena ,Guard
-4.5,7.1,0.7,42.4,12.4,8.2,Power Forward,Right,"Philadelphia 76ers, 2nd round (19th pick, 48th overall), 1996 NBA Draft","Lexington  in  Lexington,        Ohio",0,/players/f/feickja01.html,Lexington,Ohio,Lexington ,Forward
+4.5,7.1,0.7,42.4,12.4,8.2,Center,Right,"Philadelphia 76ers, 2nd round (19th pick, 48th overall), 1996 NBA Draft","Lexington  in  Lexington,        Ohio",0,/players/f/feickja01.html,Lexington,Ohio,Lexington ,Center
 3.0,0.6,0.6,28.6,12.2,0.0,Point Guard,Right,"Minneapolis Lakers, 1953 NBA Draft","DePaul Academy  in  Chicago,        Illinois",0,/players/f/feierro01.html,Chicago,Illinois,DePaul Academy ,Guard
 3.1,1.4,1.1,22.8,2.2,-0.6,Point Guard,Right,,,0,/players/f/feigege01.html,,,,Guard
 4.3,3.0,0.5,43.3,9.8,1.4,Center,Right,"Houston Rockets, 2nd round (19th pick, 43rd overall), 1986 NBA Draft","Santa Rita  in  Tucson,        Arizona",0,/players/f/feitlda01.html,Tucson,Arizona,Santa Rita ,Center
@@ -1295,7 +1295,7 @@ ppg,trb,ast,fgp,per,ws,position,shooting_hand,draft,high_school,hof,url,hs_city,
 4.7,1.7,1.8,33.7,10.2,0.1,Point Guard,Right,,"Westside  in  Macon,        Georgia",0,/players/f/fitchge01.html,Macon,Georgia,Westside ,Guard
 3.1,-,0.6,19.4,-,-0.2,Power Forward,Right,,"Newtown  in  Elmhurst,        New York",0,/players/f/fitzgbo01.html,Elmhurst,New York,Newtown ,Forward
 4.5,-,0.7,23.7,-,-0.9,Small Forward,Right,,"Newtown  in  Elmhurst,        New York",0,/players/f/fitzgdi01.html,Elmhurst,New York,Newtown ,Forward
-9.6,4.6,1.2,43.5,13.4,2.7,Power Forward,Right,"Chicago Bulls, 1st round (4th pick, 4th overall), 2000 NBA Draft","Arcadia  in  Arcadia,        Louisiana",0,/players/f/fizerma01.html,Arcadia,Louisiana,Arcadia ,Forward
+9.6,4.6,1.2,43.5,13.4,2.7,Small Forward,Right,"Chicago Bulls, 1st round (4th pick, 4th overall), 2000 NBA Draft","Arcadia  in  Arcadia,        Louisiana",0,/players/f/fizerma01.html,Arcadia,Louisiana,Arcadia ,Forward
 5.8,4.6,1.6,27.7,13.7,7.8,Shooting Guard,Left,,"Erasmus Hall  in  Brooklyn,        New York",0,/players/f/fleisje01.html,Brooklyn,New York,Erasmus Hall ,Guard
 2.0,1.5,0.4,48.4,10.7,0.0,Small Forward,Right,"Phoenix Suns, 2nd round (13th pick, 30th overall), 1976 NBA Draft","Elston  in  Michigan City,        Indiana",0,/players/f/flemial01.html,Michigan City,Indiana,Elston ,Forward
 8.6,5.2,1.9,35.9,14.1,9.8,Shooting Guard,Right,"Rochester Royals, 3rd round (2nd pick, 16th overall), 1955 NBA Draft","Westinghouse  in  Pittsburgh,        Pennsylvania",0,/players/f/flemied01.html,Pittsburgh,Pennsylvania,Westinghouse ,Guard
@@ -1311,8 +1311,8 @@ ppg,trb,ast,fgp,per,ws,position,shooting_hand,draft,high_school,hof,url,hs_city,
 3.8,0.4,0.6,36.6,12.1,-0.3,Shooting Guard,Right,"San Francisco Warriors, 5th round (2nd pick, 70th overall), 1970 NBA Draft",,0,/players/f/fontale01.html,,,,Guard
 1.0,1.5,0.0,33.3,-0.9,-0.1,Center,Right,,"Spencer-Van Etten  in  Spencer,        New York",0,/players/f/footeje01.html,Spencer,New York,Spencer-Van Etten ,Center
 8.2,1.9,1.4,43.7,10.5,6.0,Shooting Guard,Right,,"Sexton  in  Lansing,        Michigan",0,/players/f/forbebr01.html,Lansing,Michigan,Sexton ,Guard
-5.8,2.0,0.9,43.4,12.4,1.7,Shooting Guard,Right,,"Benjamin Banneker Academy  in  Brooklyn,        New York",0,/players/f/forbega01.html,Brooklyn,New York,Benjamin Banneker Academy ,Guard
-3.2,1.8,0.9,30.8,4.4,-0.4,Point Guard,Right,"Philadelphia 76ers, 2nd round (5th pick, 32nd overall), 1993 NBA Draft","Amanda Elzy  in  Greenwood,        Mississippi",0,/players/f/fordal01.html,Greenwood,Mississippi,Amanda Elzy ,Guard
+5.8,2.0,0.9,43.4,12.4,1.7,Small Forward,Right,,"Benjamin Banneker Academy  in  Brooklyn,        New York",0,/players/f/forbega01.html,Brooklyn,New York,Benjamin Banneker Academy ,Forward
+3.2,1.8,0.9,30.8,4.4,-0.4,Shooting Guard,Right,"Philadelphia 76ers, 2nd round (5th pick, 32nd overall), 1993 NBA Draft","Amanda Elzy  in  Greenwood,        Mississippi",0,/players/f/fordal01.html,Greenwood,Mississippi,Amanda Elzy ,Guard
 2.5,1.7,0.2,50.7,9.4,0.8,Power Forward,Right,"Phoenix Suns, 2nd round (22nd pick, 51st overall), 2001 NBA Draft","Milby  in  Houston,        Texas",0,/players/f/fordal02.html,Houston,Texas,Milby ,Forward
 1.6,1.3,0.4,29.4,2.8,-0.1,Small Forward,Right,"New York Knicks, 5th round (11th pick, 74th overall), 1972 NBA Draft","North  in  Evansville,        Indiana",0,/players/f/fordbo01.html,Evansville,Indiana,North ,Forward
 9.2,3.0,3.4,46.0,12.2,35.6,Shooting Guard,Right,"Detroit Pistons, 2nd round (4th pick, 17th overall), 1972 NBA Draft","Holy Spirit  in  Absecon,        New Jersey",0,/players/f/fordch01.html,Absecon,New Jersey,Holy Spirit ,Guard
@@ -1344,7 +1344,7 @@ ppg,trb,ast,fgp,per,ws,position,shooting_hand,draft,high_school,hof,url,hs_city,
 9.6,3.8,2.8,45.0,13.6,44.7,Small Forward,Right,"Boston Celtics, 1st round (24th pick, 24th overall), 1991 NBA Draft","Warsaw Community  in  Warsaw,        Indiana",0,/players/f/foxri01.html,Warsaw,Indiana,Warsaw Community ,Forward
 10.3,2.2,2.8,40.1,12.0,23.5,Shooting Guard,Right,"Boston Celtics, 1st round (7th pick, 7th overall), 2006 NBA Draft","East Side  in  Newark,        New Jersey",0,/players/f/foyera01.html,Newark,New Jersey,East Side ,Guard
 4.1,4.7,0.5,47.7,12.3,18.7,Center,Right,"Golden State Warriors, 1st round (8th pick, 8th overall), 1997 NBA Draft","Hamilton Central  in  Hamilton,        New York",0,/players/f/foylead01.html,Hamilton,New York,Hamilton Central ,Center
-3.6,1.2,0.6,41.1,12.0,2.8,Small Forward,Right,,"Battle Ground  in  Battle Ground,        Washington",0,/players/f/frahmri01.html,Battle Ground,Washington,Battle Ground ,Forward
+3.6,1.2,0.6,41.1,12.0,2.8,Shooting Guard,Right,,"Battle Ground  in  Battle Ground,        Washington",0,/players/f/frahmri01.html,Battle Ground,Washington,Battle Ground ,Guard
 18.1,5.6,6.0,42.9,18.3,54.1,Point Guard,Right,"Vancouver Grizzlies, 1st round (2nd pick, 2nd overall), 1999 NBA Draft","Montgomery Blair  in  Silver Spring,        Maryland",0,/players/f/francst01.html,Silver Spring,Maryland,Montgomery Blair ,Guard
 6.5,3.9,1.0,43.9,10.3,4.0,Power Forward,Right,"Golden State Warriors, 1st round (14th pick, 14th overall), 1987 NBA Draft","Lew Wallace  in  Gary,        Indiana",0,/players/f/frankte01.html,Gary,Indiana,Lew Wallace ,Forward
 2.7,-,0.5,14.8,-,-0.2,Small Forward,Right,,,0,/players/f/frankna01.html,,,,Forward
@@ -1358,7 +1358,7 @@ ppg,trb,ast,fgp,per,ws,position,shooting_hand,draft,high_school,hof,url,hs_city,
 4.9,1.9,0.9,43.9,12.3,0.7,Small Forward,Right,"Denver Nuggets, 6th round (17th pick, 133rd overall), 1986 NBA Draft","Gardena  in  Gardena,        California",0,/players/f/fredean01.html,Gardena,California,Gardena ,Forward
 6.0,1.0,1.4,40.9,12.5,2.2,Point Guard,Right,"Milwaukee Bucks, 1st round (10th pick, 10th overall), 2011 NBA Draft","Glens Falls  in  Glens Falls,        New York",0,/players/f/fredeji01.html,Glens Falls,New York,Glens Falls ,Guard
 20.3,2.7,3.7,45.6,18.8,67.7,Point Guard,Right,"Philadelphia 76ers, 2nd round (5th pick, 23rd overall), 1975 NBA Draft","Canarsie  in  Brooklyn,        New York",0,/players/f/freewo01.html,Brooklyn,New York,Canarsie ,Guard
-3.2,3.4,0.4,45.9,11.1,3.2,Power Forward,Right,"Portland Trail Blazers, 1st round (30th pick, 30th overall), 2006 NBA Draft","Farnham Heath End School  in  Farnham,      United Kingdom  ",0,/players/f/freeljo01.html,Farnham,United Kingdom,Farnham Heath End School ,Forward
+3.2,3.4,0.4,45.9,11.1,3.2,Center,Right,"Portland Trail Blazers, 1st round (30th pick, 30th overall), 2006 NBA Draft","Farnham Heath End School  in  Farnham,      United Kingdom  ",0,/players/f/freeljo01.html,Farnham,United Kingdom,Farnham Heath End School ,Center
 18.9,3.5,3.5,45.6,18.2,58.0,Point Guard,Right,"Philadelphia 76ers, 3rd round (9th pick, 29th overall), 1966 NBA Draft","Madison  in  Madison,        Illinois",0,/players/f/freemdo01.html,Madison,Illinois,Madison ,Guard
 3.2,2.0,0.7,51.5,15.0,1.2,Small Forward,Right,"Milwaukee Bucks, 1st round (16th pick, 16th overall), 1970 NBA Draft","Borah  in  Boise,        Idaho",0,/players/f/freemga01.html,Boise,Idaho,Borah ,Forward
 3.0,1.5,0.4,37.9,10.9,0.0,Small Forward,Right,"Philadelphia 76ers, 11th round (1st pick, 166th overall), 1973 NBA Draft","Anderson  in  Anderson,        Indiana",0,/players/f/freemro01.html,Anderson,Indiana,Anderson ,Forward
@@ -1427,7 +1427,7 @@ ppg,trb,ast,fgp,per,ws,position,shooting_hand,draft,high_school,hof,url,hs_city,
 7.3,2.6,0.8,41.7,10.7,18.7,Small Forward,Right,"Milwaukee Bucks, 1st round (19th pick, 19th overall), 1998 NBA Draft","Lewis Palmer  in  Monument,        Colorado",0,/players/g/garripa01.html,Monument,Colorado,Lewis Palmer ,Forward
 0.3,0.8,0.0,25.0,3.9,0.0,Power Forward,Right,"Buffalo Braves, 17th round (2nd pick, 204th overall), 1973 NBA Draft",,0,/players/g/garviji01.html,,,,Forward
 15.0,7.7,3.4,48.3,18.5,79.5,Center,Right,"Los Angeles Lakers, 2nd round (18th pick, 48th overall), 2007 NBA Draft","Lausanne Collegiate School  in  Memphis,        Tennessee",0,/players/g/gasolma01.html,Memphis,Tennessee,Lausanne Collegiate School ,Center
-17.0,9.2,3.2,50.7,21.4,144.1,Power Forward,Right,"Atlanta Hawks, 1st round (3rd pick, 3rd overall), 2001 NBA Draft",,0,/players/g/gasolpa01.html,,,,Forward
+17.0,9.2,3.2,50.7,21.4,144.1,Center,Right,"Atlanta Hawks, 1st round (3rd pick, 3rd overall), 2001 NBA Draft",,0,/players/g/gasolpa01.html,,,,Center
 4.5,-,1.4,28.1,-,1.3,Point Guard,Right,,,0,/players/g/gatesfr01.html,,,,Guard
 10.3,5.3,0.7,51.3,17.6,32.1,Center,Left,"Golden State Warriors, 1st round (16th pick, 16th overall), 1991 NBA Draft","Elizabeth  in  Elizabeth,        New Jersey",0,/players/g/gatlich01.html,Elizabeth,New Jersey,Elizabeth ,Center
 7.9,4.7,0.9,52.0,13.0,16.9,Power Forward,Right,"Phoenix Suns, 3rd round (8th pick, 55th overall), 1986 NBA Draft","New Hanover  in  Wilmington,        North Carolina",0,/players/g/gattike01.html,Wilmington,North Carolina,New Hanover ,Forward
@@ -1446,7 +1446,7 @@ ppg,trb,ast,fgp,per,ws,position,shooting_hand,draft,high_school,hof,url,hs_city,
 1.6,0.5,0.2,41.8,7.5,0.3,Shooting Guard,Right,,"North Clayton  in  College Park,        Georgia",0,/players/g/georgma01.html,College Park,Georgia,North Clayton ,Guard
 8.4,4.1,1.3,43.8,13.8,11.1,Small Forward,Right,"Portland Trail Blazers, 3rd round (14th pick, 50th overall), 1975 NBA Draft","Laurel Highlands  in  Uniontown,        Pennsylvania",0,/players/g/gerargu01.html,Uniontown,Pennsylvania,Laurel Highlands ,Forward
 8.8,2.3,0.5,43.5,16.3,2.1,Power Forward,Right,"Philadelphia 76ers, 4th round (20th pick, 90th overall), 1985 NBA Draft","Martin Luther King  in  Detroit,        Michigan",0,/players/g/gervide01.html,Detroit,Michigan,Martin Luther King ,Forward
-25.1,5.3,2.6,50.4,21.4,116.3,Shooting Guard,Right,"Phoenix Suns, 3rd round (4th pick, 40th overall), 1974 NBA Draft","Martin Luther King  in  Detroit,        Michigan",1,/players/g/gervige01.html,Detroit,Michigan,Martin Luther King ,Guard
+25.1,5.3,2.6,50.4,21.4,116.3,Small Forward,Right,"Phoenix Suns, 3rd round (4th pick, 40th overall), 1974 NBA Draft","Martin Luther King  in  Detroit,        Michigan",1,/players/g/gervige01.html,Detroit,Michigan,Martin Luther King ,Forward
 0.3,-,0.0,0.0,-,-0.1,Center,Right,,"Jenkintown  in  Jenkintown,        Pennsylvania",0,/players/g/getchgo01.html,Jenkintown,Pennsylvania,Jenkintown ,Center
 7.8,5.9,1.5,47.0,11.7,23.0,Center,Right,"Houston Rockets, 2nd round (7th pick, 20th overall), 1972 NBA Draft","Edison  in  Stockton,        California",0,/players/g/gianejo01.html,Stockton,California,Edison ,Center
 5.2,1.9,0.8,40.2,9.8,2.6,Small Forward,Right,"Chicago Bulls, 3rd round (14th pick, 49th overall), 1971 NBA Draft","Ames  in  Ames,        Iowa",0,/players/g/gibbsdi01.html,Ames,Iowa,Ames ,Forward
@@ -1489,7 +1489,7 @@ ppg,trb,ast,fgp,per,ws,position,shooting_hand,draft,high_school,hof,url,hs_city,
 11.3,8.0,4.2,43.1,14.1,53.2,Shooting Guard,Right,"Philadelphia Warriors, 1955 NBA Draft (territorial selection)","La Salle College  in  Philadelphia,        Pennsylvania",1,/players/g/golato01.html,Philadelphia,Pennsylvania,La Salle College ,Guard
 1.0,-,0.0,0.0,-,0.0,Small Forward,Right,,,0,/players/g/goldfbe01.html,,,,Forward
 6.3,1.3,2.8,40.7,12.7,6.4,Point Guard,Right,"Phoenix Suns, 2nd round (25th pick, 52nd overall), 1994 NBA Draft","Suncoast  in  Riviera Beach,        Florida",0,/players/g/goldwan01.html,Riviera Beach,Florida,Suncoast ,Guard
-10.1,4.6,1.5,44.5,12.5,19.4,Small Forward,Right,"Boston Celtics, 2nd round (20th pick, 50th overall), 2005 NBA Draft","Wilby  in  Waterbury,        Connecticut",0,/players/g/gomesry01.html,Waterbury,Connecticut,Wilby ,Forward
+10.1,4.6,1.5,44.5,12.5,19.4,Power Forward,Right,"Boston Celtics, 2nd round (20th pick, 50th overall), 2005 NBA Draft","Wilby  in  Waterbury,        Connecticut",0,/players/g/gomesry01.html,Waterbury,Connecticut,Wilby ,Forward
 5.8,4.5,1.4,47.3,13.7,15.9,Small Forward,Right,"New York Knicks, 2nd round (4th pick, 26th overall), 1977 NBA Draft","Boulder  in  Boulder,        Colorado",0,/players/g/gondrgl01.html,Boulder,Colorado,Boulder ,Forward
 5.0,1.6,1.3,43.8,11.1,0.8,Shooting Guard,Right,"Phoenix Suns, 4th round (7th pick, 77th overall), 1986 NBA Draft","Boulder  in  Boulder,        Colorado",0,/players/g/gondrgr01.html,Boulder,Colorado,Boulder ,Guard
 11.0,7.1,1.1,46.2,16.3,43.9,Center,Right,"Memphis Grizzlies, 1st round (4th pick, 4th overall), 2002 NBA Draft","El Cerrito  in  El Cerrito,        California",0,/players/g/goodedr01.html,El Cerrito,California,El Cerrito ,Center
@@ -1634,7 +1634,7 @@ ppg,trb,ast,fgp,per,ws,position,shooting_hand,draft,high_school,hof,url,hs_city,
 5.5,6.6,0.4,34.7,10.1,0.3,Center,Right,"Syracuse Nationals, 1956 NBA Draft","Lincoln  in  Portland,        Oregon",0,/players/h/halbrsw01.html,Portland,Oregon,Lincoln ,Center
 9.1,1.9,3.0,33.3,-,9.2,Point Guard,Right,,"Galileo  in  San Francisco,        California",0,/players/h/halebr01.html,San Francisco,California,Galileo ,Guard
 5.0,2.9,2.0,32.6,5.6,1.0,Point Guard,Right,,,0,/players/h/haleha01.html,,,,Guard
-3.5,2.7,0.2,42.5,9.7,2.9,Center,Right,"Chicago Bulls, 4th round (10th pick, 79th overall), 1987 NBA Draft","Huntington Beach  in  Huntington Beach,        California",0,/players/h/haleyja01.html,Huntington Beach,California,Huntington Beach ,Center
+3.5,2.7,0.2,42.5,9.7,2.9,Power Forward,Right,"Chicago Bulls, 4th round (10th pick, 79th overall), 1987 NBA Draft","Huntington Beach  in  Huntington Beach,        California",0,/players/h/haleyja01.html,Huntington Beach,California,Huntington Beach ,Forward
 6.2,3.1,1.7,40.0,11.8,0.5,Shooting Guard,Left,"Philadelphia 76ers, 1st round (14th pick, 14th overall), 1968 NBA Draft","Romulus  in  Romulus,        Michigan",0,/players/h/halimsh01.html,Romulus,Michigan,Romulus ,Guard
 1.0,1.0,0.5,25.0,3.1,0.0,Small Forward,Right,,"Alan B. Shephard  in  Palos Heights,        Illinois",0,/players/h/hallmi01.html,Palos Heights,Illinois,Alan B. Shephard ,Forward
 6.1,1.6,1.3,44.0,13.9,1.4,Shooting Guard,Right,"Atlanta Hawks, 3rd round (4th pick, 39th overall), 1971 NBA Draft","Malverne  in  Malverne,        New York",0,/players/h/hallije01.html,Malverne,New York,Malverne ,Guard
@@ -1683,7 +1683,7 @@ ppg,trb,ast,fgp,per,ws,position,shooting_hand,draft,high_school,hof,url,hs_city,
 7.3,5.7,0.6,42.3,15.4,3.0,Power Forward,Right,"St. Louis Hawks, 3rd round (3rd pick, 19th overall), 1962 NBA Draft","Carver Vocational  in  Atlanta,        Georgia",0,/players/h/hardnch01.html,Atlanta,Georgia,Carver Vocational ,Forward
 3.2,0.9,0.4,43.1,9.7,0.0,Shooting Guard,Right,,"Northwestern  in  Detroit,        Michigan",0,/players/h/hardyal01.html,Detroit,Michigan,Northwestern ,Guard
 5.2,3.3,0.5,43.2,19.3,0.5,Small Forward,Right,"Detroit Pistons, 3rd round (2nd pick, 21st overall), 1967 NBA Draft","Jefferson Davis  in  Houston,        Texas",0,/players/h/hardyda01.html,Houston,Texas,Jefferson Davis ,Forward
-5.7,5.3,1.3,48.1,11.4,6.3,Small Forward,Right,"New Orleans Jazz, 1st round (11th pick, 11th overall), 1978 NBA Draft","Jordan  in  Long Beach,        California",0,/players/h/hardyja01.html,Long Beach,California,Jordan ,Forward
+5.7,5.3,1.3,48.1,11.4,6.3,Power Forward,Right,"New Orleans Jazz, 1st round (11th pick, 11th overall), 1978 NBA Draft","Jordan  in  Long Beach,        California",0,/players/h/hardyja01.html,Long Beach,California,Jordan ,Forward
 10.3,11.6,1.7,45.0,12.5,16.3,Center,Right,"Detroit Pistons, 7th round (4th pick, 57th overall), 1963 NBA Draft, and Philadelphia 76ers, 2nd round (4th pick, 11th overall), 1964 NBA Draft",,0,/players/h/hargeir01.html,,,,Center
 8.6,2.3,1.4,40.0,-,9.1,Point Guard,Right,,"Nacogdoches  in  Nacogdoches,        Texas",0,/players/h/hargijo01.html,Nacogdoches,Texas,Nacogdoches ,Guard
 7.3,3.7,0.9,47.6,12.5,19.2,Small Forward,Right,"Philadelphia 76ers, 1st round (15th pick, 15th overall), 2012 NBA Draft","South Kent School  in  South Kent,        Connecticut",0,/players/h/harklma01.html,South Kent,Connecticut,South Kent School ,Forward
@@ -1726,10 +1726,10 @@ ppg,trb,ast,fgp,per,ws,position,shooting_hand,draft,high_school,hof,url,hs_city,
 7.9,3.9,1.3,43.5,10.6,5.5,Shooting Guard,Right,"Utah Jazz, 1st round (30th pick, 30th overall), 2017 NBA Draft","Sidwell Friends  in  Washington,        District of Columbia",0,/players/h/hartjo01.html,Washington,District of Columbia,Sidwell Friends ,Guard
 1.9,1.7,0.5,48.8,10.0,0.5,Power Forward,Left,"Houston Rockets, 2nd round (13th pick, 43rd overall), 2017 NBA Draft",,0,/players/h/harteis01.html,,,,Forward
 3.0,2.3,0.3,40.7,9.7,0.3,Power Forward,Right,,"Pascagoula  in  Pascagoula,        Mississippi",0,/players/h/harvean01.html,Pascagoula,Mississippi,Pascagoula ,Forward
-5.6,4.0,0.8,46.0,12.5,4.7,Small Forward,Left,"New York Knicks, 1st round (22nd pick, 22nd overall), 2000 NBA Draft","Randolph-Clay  in  Cuthbert,        Georgia",0,/players/h/harvedo01.html,Cuthbert,Georgia,Randolph-Clay ,Forward
+5.6,4.0,0.8,46.0,12.5,4.7,Power Forward,Left,"New York Knicks, 1st round (22nd pick, 22nd overall), 2000 NBA Draft","Randolph-Clay  in  Cuthbert,        Georgia",0,/players/h/harvedo01.html,Cuthbert,Georgia,Randolph-Clay ,Forward
 2.0,2.0,0.2,46.7,11.3,0.3,Center,Right,"Indiana Pacers, 1st round (14th pick, 14th overall), 1993 NBA Draft","Beaumont  in  Beaumont,        California",0,/players/h/haskisc01.html,Beaumont,California,Beaumont ,Center
 12.8,3.1,3.5,44.9,15.2,35.8,Point Guard,Right,"Chicago Bulls, 1st round (3rd pick, 3rd overall), 1967 NBA Draft","Taylor County  in  Campbellsville,        Kentucky",0,/players/h/haskicl01.html,Campbellsville,Kentucky,Taylor County ,Guard
-7.6,6.7,0.9,49.0,13.0,50.7,Center,Right,,"Miami  in  Miami,        Florida",0,/players/h/hasleud01.html,Miami,Florida,Miami ,Center
+7.6,6.7,0.9,49.0,13.0,50.7,Power Forward,Right,,"Miami  in  Miami,        Florida",0,/players/h/hasleud01.html,Miami,Florida,Miami ,Forward
 5.8,2.8,1.8,44.5,8.4,13.8,Small Forward,Right,"Chicago Bulls, 2nd round (1st pick, 30th overall), 2001 NBA Draft","Clarksville  in  Clarksville,        Tennessee",0,/players/h/hassetr01.html,Clarksville,Tennessee,Clarksville ,Forward
 4.5,1.1,2.0,27.9,-,1.6,Point Guard,Right,,"La Salle Academy  in  New York,        New York",0,/players/h/hassebi01.html,New York,New York,La Salle Academy ,Guard
 5.9,1.1,1.3,42.1,12.9,6.4,Shooting Guard,Right,"Seattle SuperSonics, 3rd round (8th pick, 52nd overall), 1977 NBA Draft","La Salle Academy  in  Providence,        Rhode Island",0,/players/h/hassejo01.html,Providence,Rhode Island,La Salle Academy ,Guard
@@ -1813,7 +1813,7 @@ ppg,trb,ast,fgp,per,ws,position,shooting_hand,draft,high_school,hof,url,hs_city,
 9.5,6.8,0.8,50.5,16.1,21.9,Power Forward,Right,"Cleveland Cavaliers, 1st round (19th pick, 19th overall), 2008 NBA Draft","Wheeler  in  Marietta,        Georgia",0,/players/h/hicksjj01.html,Marietta,Georgia,Wheeler ,Forward
 14.9,4.0,2.0,44.6,15.4,10.0,Shooting Guard,Right,"New Orleans Pelicans, 1st round (6th pick, 6th overall), 2016 NBA Draft","Sunrise Christian Academy  in  Bel Aire,        Kansas",0,/players/h/hieldbu01.html,Bel Aire,Kansas,Sunrise Christian Academy ,Guard
 9.2,1.4,2.1,43.9,6.1,-0.6,Shooting Guard,Right,"New Orleans Jazz, 7th round (1st pick, 109th overall), 1975 NBA Draft",,0,/players/h/higgibi01.html,,,,Guard
-3.7,0.9,0.9,32.4,4.7,-1.3,Shooting Guard,Right,,"Monte Vista  in  Danville,        California",0,/players/h/higgico01.html,Danville,California,Monte Vista ,Guard
+3.7,0.9,0.9,32.4,4.7,-1.3,Point Guard,Right,,"Monte Vista  in  Danville,        California",0,/players/h/higgico01.html,Danville,California,Monte Vista ,Guard
 4.4,2.4,0.7,46.6,13.6,0.8,Power Forward,Right,"San Francisco Warriors, 3rd round (2nd pick, 36th overall), 1970 NBA Draft","Ann Arbor  in  Ann Arbor,        Michigan",0,/players/h/higgiea01.html,Ann Arbor,Michigan,Ann Arbor ,Forward
 1.7,0.5,0.3,50.0,7.2,0.2,Small Forward,Right,,"West  in  Greeley,        Colorado",0,/players/h/higgimi01.html,Greeley,Colorado,West ,Forward
 9.0,3.6,1.6,46.5,13.5,37.8,Power Forward,Right,"Chicago Bulls, 2nd round (8th pick, 31st overall), 1982 NBA Draft","Thornton Township  in  Harvey,        Illinois",0,/players/h/higgiro01.html,Harvey,Illinois,Thornton Township ,Forward
@@ -1924,7 +1924,7 @@ ppg,trb,ast,fgp,per,ws,position,shooting_hand,draft,high_school,hof,url,hs_city,
 3.9,2.3,0.4,48.6,10.9,0.1,Power Forward,Right,,"Walnut Hills  in  Cincinnati,        Ohio",0,/players/h/hugheri02.html,Cincinnati,Ohio,Walnut Hills ,Forward
 3.9,2.7,0.5,41.8,9.6,1.9,Small Forward,Right,"Minnesota Timberwolves, 2nd round (28th pick, 58th overall), 2012 NBA Draft","Valparaiso  in  Valparaiso,        Indiana",0,/players/h/hummero01.html,Valparaiso,Indiana,Valparaiso ,Forward
 6.9,5.3,1.7,43.8,10.2,4.8,Power Forward,Right,"Buffalo Braves, 1st round (15th pick, 15th overall), 1970 NBA Draft","Washington-Lee  in  Arlington,        Virginia",0,/players/h/hummejo01.html,Arlington,Virginia,Washington-Lee ,Forward
-2.3,2.2,0.2,34.4,6.6,-0.4,Small Forward,Right,"Utah Jazz, 1st round (19th pick, 19th overall), 2002 NBA Draft","Booker T. Washington  in  Tulsa,        Oklahoma",0,/players/h/humphry01.html,Tulsa,Oklahoma,Booker T. Washington ,Forward
+2.3,2.2,0.2,34.4,6.6,-0.4,Power Forward,Right,"Utah Jazz, 1st round (19th pick, 19th overall), 2002 NBA Draft","Booker T. Washington  in  Tulsa,        Oklahoma",0,/players/h/humphry01.html,Tulsa,Oklahoma,Booker T. Washington ,Forward
 3.0,2.2,0.0,28.6,3.4,-0.1,Center,Right,,"La Lumiere School  in  La Porte,        Indiana",0,/players/h/humphis01.html,La Porte,Indiana,La Lumiere School ,Center
 11.1,2.5,5.5,47.6,13.9,45.0,Shooting Guard,Right,"Phoenix Suns, 1st round (13th pick, 13th overall), 1984 NBA Draft","Inglewood  in  Inglewood,        California",0,/players/h/humphja01.html,Inglewood,California,Inglewood ,Guard
 6.7,5.4,0.7,46.3,15.4,30.3,Small Forward,Right,"Utah Jazz, 1st round (14th pick, 14th overall), 2004 NBA Draft","Hopkins  in  Minnetonka,        Minnesota",0,/players/h/humphkr01.html,Minnetonka,Minnesota,Hopkins ,Forward
@@ -1934,7 +1934,7 @@ ppg,trb,ast,fgp,per,ws,position,shooting_hand,draft,high_school,hof,url,hs_city,
 4.5,2.8,0.6,50.2,12.2,1.3,Center,Right,,"West Side  in  Gary,        Indiana",0,/players/h/huntech01.html,Gary,Indiana,West Side ,Center
 12.3,6.9,1.6,44.3,14.8,25.5,Power Forward,Right,"Detroit Pistons, 2nd round (2nd pick, 9th overall), 1964 NBA Draft","Pearl  in  Nashville,        Tennessee",0,/players/h/huntele01.html,Nashville,Tennessee,Pearl ,Forward
 8.5,2.2,2.7,38.8,12.1,32.9,Point Guard,Right,"Detroit Pistons, 1st round (10th pick, 10th overall), 1993 NBA Draft","Murrah  in  Jackson,        Mississippi",0,/players/h/hunteli01.html,Jackson,Mississippi,Murrah ,Guard
-1.4,1.6,0.0,46.9,11.0,0.2,Small Forward,Right,,"R.J. Reynolds  in  Winston-Salem,        North Carolina",0,/players/h/hunteot01.html,Winston-Salem,North Carolina,R.J. Reynolds ,Forward
+1.4,1.6,0.0,46.9,11.0,0.2,Power Forward,Right,,"R.J. Reynolds  in  Winston-Salem,        North Carolina",0,/players/h/hunteot01.html,Winston-Salem,North Carolina,R.J. Reynolds ,Forward
 3.0,1.0,0.4,37.1,8.4,0.4,Shooting Guard,Right,"Boston Celtics, 1st round (28th pick, 28th overall), 2015 NBA Draft","Pike  in  Indianapolis,        Indiana",0,/players/h/hunterj01.html,Indianapolis,Indiana,Pike ,Guard
 4.5,3.2,0.2,56.0,13.0,10.6,Power Forward,Right,"Orlando Magic, 1st round (15th pick, 15th overall), 2001 NBA Draft","Proviso East  in  Maywood,        Illinois",0,/players/h/huntest01.html,Maywood,Illinois,Proviso East ,Forward
 1.5,0.8,0.0,60.0,35.8,0.0,Power Forward,Right,,"Consortium Prep  in  Detroit,        Michigan",0,/players/h/huntevi01.html,Detroit,Michigan,Consortium Prep ,Forward
@@ -1955,7 +1955,7 @@ ppg,trb,ast,fgp,per,ws,position,shooting_hand,draft,high_school,hof,url,hs_city,
 10.6,5.8,1.1,44.3,15.4,44.9,Power Forward,Right,"Milwaukee Bucks, 2nd round (6th pick, 36th overall), 2005 NBA Draft",,0,/players/i/ilyaser01.html,,,,Forward
 7.2,7.6,1.8,45.8,12.3,30.1,Center,Left,"New York Knicks, 1st round (3rd pick, 3rd overall), 1960 NBA Draft","Alhambra  in  Alhambra,        California",0,/players/i/imhofda01.html,Alhambra,California,Alhambra ,Center
 3.2,1.3,1.0,42.4,11.0,0.8,Point Guard,Right,"Atlanta Hawks, 2nd round (9th pick, 27th overall), 1973 NBA Draft","Cardinal O'Hara  in  Springfield,        Pennsylvania",0,/players/i/ingelto01.html,Springfield,Pennsylvania,Cardinal O'Hara ,Guard
-8.0,3.1,3.4,44.7,12.5,23.1,Power Forward,Left,,"Lake Ginninderra  in  Canberra,      Australia  ",0,/players/i/inglejo01.html,Canberra,Australia,Lake Ginninderra ,Forward
+8.0,3.1,3.4,44.7,12.5,23.1,Small Forward,Left,,"Lake Ginninderra  in  Canberra,      Australia  ",0,/players/i/inglejo01.html,Canberra,Australia,Lake Ginninderra ,Forward
 1.8,1.6,0.5,35.1,6.7,-0.1,Small Forward,Right,"Milwaukee Bucks, 2nd round (1st pick, 31st overall), 2014 NBA Draft",,0,/players/i/inglida01.html,,,,Forward
 4.0,1.3,1.2,34.8,10.9,0.1,Shooting Guard,Right,,"Highland Springs High School  in  Highland Springs,        Virginia",0,/players/i/ingraan01.html,Highland Springs,Virginia,Highland Springs High School ,Guard
 13.9,4.7,2.9,45.8,11.7,4.5,Small Forward,Right,"Los Angeles Lakers, 1st round (2nd pick, 2nd overall), 2016 NBA Draft","Kinston  in  Kinston,        North Carolina",0,/players/i/ingrabr01.html,Kinston,North Carolina,Kinston ,Forward
@@ -1967,7 +1967,7 @@ ppg,trb,ast,fgp,per,ws,position,shooting_hand,draft,high_school,hof,url,hs_city,
 8.5,5.0,1.0,41.9,12.3,4.2,Power Forward,Right,"Orlando Magic, 1st round (6th pick, 6th overall), 2017 NBA Draft","IMG Academy  in  Bradenton,        Florida",0,/players/i/isaacjo01.html,Bradenton,Florida,IMG Academy ,Forward
 22.6,9.1,2.4,49.9,21.4,157.8,Power Forward,Right,"Detroit Pistons, 8th round (3rd pick, 122nd overall), 1970 NBA Draft","Batavia  in  Batavia,        Illinois",1,/players/i/isselda01.html,Batavia,Illinois,Batavia ,Forward
 9.0,2.0,4.3,45.7,12.9,3.7,Point Guard,Right,"Dallas Mavericks, 2nd round (8th pick, 35th overall), 1991 NBA Draft","Altoona Area  in  Altoona,        Pennsylvania",0,/players/i/iuzzomi01.html,Altoona,Pennsylvania,Altoona Area ,Guard
-26.7,3.7,6.2,42.5,20.9,99.0,Shooting Guard,Right,"Philadelphia 76ers, 1st round (1st pick, 1st overall), 1996 NBA Draft","Bethel  in  Hampton,        Virginia",1,/players/i/iversal01.html,Hampton,Virginia,Bethel ,Guard
+26.7,3.7,6.2,42.5,20.9,99.0,Point Guard,Right,"Philadelphia 76ers, 1st round (1st pick, 1st overall), 1996 NBA Draft","Bethel  in  Hampton,        Virginia",1,/players/i/iversal01.html,Hampton,Virginia,Bethel ,Guard
 4.9,1.6,2.9,34.2,4.7,-0.1,Point Guard,Right,,"Pershing  in  Detroit,        Michigan",0,/players/i/iverswi01.html,Detroit,Michigan,Pershing ,Guard
 3.3,1.1,1.0,40.6,8.4,4.5,Point Guard,Right,"Atlanta Hawks, 2nd round (8th pick, 37th overall), 2004 NBA Draft","Blair Academy  in  Blairstown,        New Jersey",0,/players/i/iveyro01.html,Blairstown,New Jersey,Blair Academy ,Guard
 4.4,3.3,0.5,43.7,14.9,0.1,Small Forward,Right,,"Hayes  in  Birmingham,        Alabama",0,/players/i/ivoryel01.html,Birmingham,Alabama,Hayes ,Forward
@@ -1984,7 +1984,7 @@ ppg,trb,ast,fgp,per,ws,position,shooting_hand,draft,high_school,hof,url,hs_city,
 3.7,1.4,2.0,41.5,7.6,-0.1,Shooting Guard,Right,"New York Knicks, 5th round (14th pick, 86th overall), 1974 NBA Draft","Tilden  in  Brooklyn,        New York",0,/players/j/jacksgr01.html,Brooklyn,New York,Tilden ,Guard
 5.5,1.8,1.2,39.1,10.1,11.5,Shooting Guard,Right,,"Walter Cohen  in  New Orleans,        Louisiana",0,/players/j/jacksja01.html,New Orleans,Louisiana,Walter Cohen ,Guard
 13.8,4.7,1.1,50.6,16.4,3.3,Power Forward,Right,"Memphis Grizzlies, 1st round (4th pick, 4th overall), 2018 NBA Draft","La Lumiere School  in  La Porte,        Indiana",0,/players/j/jacksja02.html,La Porte,Indiana,La Lumiere School ,Forward
-1.9,1.1,1.4,40.1,8.8,1.0,Point Guard,Right,,"Finney  in  Detroit,        Michigan",0,/players/j/jacksje01.html,Detroit,Michigan,Finney ,Guard
+1.9,1.1,1.4,40.1,8.8,1.0,Shooting Guard,Right,,"Finney  in  Detroit,        Michigan",0,/players/j/jacksje01.html,Detroit,Michigan,Finney ,Guard
 14.3,4.7,3.2,42.8,13.5,35.8,Shooting Guard,Right,"Dallas Mavericks, 1st round (4th pick, 4th overall), 1992 NBA Draft","Macomber-Whitney  in  Toledo,        Ohio",0,/players/j/jacksji01.html,Toledo,Ohio,Macomber-Whitney ,Guard
 12.3,4.5,1.9,41.5,11.2,-2.4,Shooting Guard,Right,"Phoenix Suns, 1st round (4th pick, 4th overall), 2017 NBA Draft","Prolific Prep/Justin-Siena HS  in  Napa,        California",0,/players/j/jacksjo02.html,Napa,California,Prolific Prep/Justin-Siena HS ,Guard
 7.0,2.7,1.1,44.5,10.3,3.9,Small Forward,Right,"Portland Trail Blazers, 1st round (15th pick, 15th overall), 2017 NBA Draft","Homeschool Christian Youth Association  in  Houston,        Texas",0,/players/j/jacksju01.html,Houston,Texas,Homeschool Christian Youth Association ,Forward
@@ -2029,8 +2029,8 @@ ppg,trb,ast,fgp,per,ws,position,shooting_hand,draft,high_school,hof,url,hs_city,
 7.1,2.7,3.6,40.4,12.0,12.1,Point Guard,Right,"Los Angeles Clippers, 2nd round (1st pick, 30th overall), 2000 NBA Draft",,0,/players/j/jaricma01.html,,,,Guard
 5.4,2.1,0.9,30.6,-,8.5,Small Forward,Right,,"Edison  in  Minneapolis,        Minnesota",0,/players/j/jarosto01.html,Minneapolis,Minnesota,Edison ,Forward
 5.8,1.9,1.2,37.4,10.2,0.9,Point Guard,Right,"San Francisco Warriors, 6th round (1st pick, 45th overall), 1965 NBA Draft","Roseburg  in  Roseburg,        Oregon",0,/players/j/jarviji01.html,Roseburg,Oregon,Roseburg ,Guard
-6.8,1.6,2.9,39.7,12.7,4.5,Shooting Guard,Right,,"Solanco  in  Quarryville,        Pennsylvania",0,/players/j/jasiksa01.html,Quarryville,Pennsylvania,Solanco ,Guard
-2.8,2.4,0.5,43.5,10.2,0.2,Center,Right,"Indiana Pacers, 2nd round (11th pick, 41st overall), 2008 NBA Draft","Australian Institute of Sport  in  Canberra,      Australia  ",0,/players/j/jawaina01.html,Canberra,Australia,Australian Institute of Sport ,Center
+6.8,1.6,2.9,39.7,12.7,4.5,Point Guard,Right,,"Solanco  in  Quarryville,        Pennsylvania",0,/players/j/jasiksa01.html,Quarryville,Pennsylvania,Solanco ,Guard
+2.8,2.4,0.5,43.5,10.2,0.2,Power Forward,Right,"Indiana Pacers, 2nd round (11th pick, 41st overall), 2008 NBA Draft","Australian Institute of Sport  in  Canberra,      Australia  ",0,/players/j/jawaina01.html,Canberra,Australia,Australian Institute of Sport ,Forward
 7.2,-,2.1,34.1,-,15.7,Point Guard,Right,,"New Kensington  in  New Kensington,        Pennsylvania",1,/players/j/jeannbu01.html,New Kensington,Pennsylvania,New Kensington ,Guard
 9.0,3.5,1.1,47.3,17.2,5.4,Small Forward,Right,,"Washington Park  in  Racine,        Wisconsin",0,/players/j/jeelaab01.html,Racine,Wisconsin,Washington Park ,Forward
 3.9,1.2,0.4,38.3,7.2,-0.5,Small Forward,Right,"Los Angeles Lakers, 1st round (27th pick, 27th overall), 2002 NBA Draft","Washington Union  in  Fresno,        California",0,/players/j/jeffech01.html,Fresno,California,Washington Union ,Forward
@@ -2077,7 +2077,7 @@ ppg,trb,ast,fgp,per,ws,position,shooting_hand,draft,high_school,hof,url,hs_city,
 3.5,1.1,0.3,36.5,7.5,-0.3,Shooting Guard,Right,"Portland Trail Blazers, 1st round (26th pick, 26th overall), 1992 NBA Draft","Maine Central Institute  in  Pittsfield,        Maine",0,/players/j/johnsda01.html,Pittsfield,Maine,Maine Central Institute ,Guard
 1.2,1.4,0.0,33.3,0.5,-0.1,Power Forward,Right,"New York Knicks, 2nd round (9th pick, 38th overall), 1998 NBA Draft","North Mecklenburg  in  Charlotte,        North Carolina",0,/players/j/johnsde02.html,Charlotte,North Carolina,North Mecklenburg ,Forward
 14.1,3.9,5.0,44.5,14.6,82.6,Shooting Guard,Right,"Seattle SuperSonics, 2nd round (12th pick, 29th overall), 1976 NBA Draft","Dominguez  in  Compton,        California",1,/players/j/johnsde01.html,Compton,California,Dominguez ,Guard
-6.2,2.2,0.9,41.1,11.0,6.4,Shooting Guard,Right,"Atlanta Hawks, 1st round (6th pick, 6th overall), 2000 NBA Draft","Maine Central Institute  in  Pittsfield,        Maine",0,/players/j/johnsde03.html,Pittsfield,Maine,Maine Central Institute ,Guard
+6.2,2.2,0.9,41.1,11.0,6.4,Small Forward,Right,"Atlanta Hawks, 1st round (6th pick, 6th overall), 2000 NBA Draft","Maine Central Institute  in  Pittsfield,        Maine",0,/players/j/johnsde03.html,Pittsfield,Maine,Maine Central Institute ,Forward
 12.3,10.2,1.1,47.4,14.0,8.5,Center,Right,"Seattle SuperSonics, 3rd round (12th pick, 34th overall), 1968 NBA Draft","David T. Howard  in  Atlanta,        Georgia",0,/players/j/johnsed01.html,Atlanta,Georgia,David T. Howard ,Center
 15.1,2.3,5.1,47.6,16.0,41.0,Shooting Guard,Right,"Atlanta Hawks, 3rd round (5th pick, 49th overall), 1977 NBA Draft","Lake Weir  in  Summerfield,        Florida",0,/players/j/johnsed02.html,Summerfield,Florida,Lake Weir ,Guard
 16.0,4.0,2.1,47.2,15.9,65.6,Small Forward,Right,"Kansas City Kings, 2nd round (6th pick, 29th overall), 1981 NBA Draft","Westinghouse  in  Chicago,        Illinois",0,/players/j/johnsed03.html,Chicago,Illinois,Westinghouse ,Forward
@@ -2101,7 +2101,7 @@ ppg,trb,ast,fgp,per,ws,position,shooting_hand,draft,high_school,hof,url,hs_city,
 1.5,1.3,1.8,23.1,8.0,-0.1,Shooting Guard,Right,"Buffalo Braves, 2nd round (2nd pick, 24th overall), 1977 NBA Draft","Union County  in  Union County,        Kentucky",0,/players/j/johnsla01.html,Union County,Kentucky,Union County ,Guard
 16.2,7.5,3.3,48.4,16.3,69.7,Small Forward,Right,"Charlotte Hornets, 1st round (1st pick, 1st overall), 1991 NBA Draft","Skyline  in  Dallas,        Texas",0,/players/j/johnsla02.html,Dallas,Texas,Skyline ,Forward
 1.4,1.8,0.1,28.0,0.8,-0.2,Power Forward,Right,"Houston Rockets, 1st round (17th pick, 17th overall), 1979 NBA Draft","Omaha South  in  Omaha,        Nebraska",0,/players/j/johnsle01.html,Omaha,Nebraska,Omaha South ,Forward
-3.9,3.3,0.4,41.6,10.9,2.6,Power Forward,Right,,"Providence St. Mel  in  Chicago,        Illinois",0,/players/j/johnsli01.html,Chicago,Illinois,Providence St. Mel ,Forward
+3.9,3.3,0.4,41.6,10.9,2.6,Small Forward,Right,,"Providence St. Mel  in  Chicago,        Illinois",0,/players/j/johnsli01.html,Chicago,Illinois,Providence St. Mel ,Forward
 19.5,7.2,11.2,52.0,24.1,155.8,Point Guard,Right,"Los Angeles Lakers, 1st round (1st pick, 1st overall), 1979 NBA Draft","Everett  in  Lansing,        Michigan",1,/players/j/johnsma02.html,Lansing,Michigan,Everett ,Guard
 20.1,7.0,3.6,51.8,20.1,79.8,Shooting Guard,Right,"Milwaukee Bucks, 1st round (3rd pick, 3rd overall), 1977 NBA Draft","Crenshaw  in  Los Angeles,        California",0,/players/j/johnsma01.html,Los Angeles,California,Crenshaw ,Guard
 14.1,7.2,3.0,44.9,16.9,58.6,Power Forward,Right,"Portland Trail Blazers, 4th round (2nd pick, 56th overall), 1974 NBA Draft","Lindblom  in  Chicago,        Illinois",0,/players/j/johnsmi01.html,Chicago,Illinois,Lindblom ,Forward
@@ -2111,7 +2111,7 @@ ppg,trb,ast,fgp,per,ws,position,shooting_hand,draft,high_school,hof,url,hs_city,
 5.5,2.8,1.8,42.9,10.5,0.1,Power Forward,Right,,"Dorsey  in  Los Angeles,        California",0,/players/j/johnsom01.html,Los Angeles,California,Dorsey ,Forward
 3.2,1.7,0.7,35.8,8.5,1.4,Shooting Guard,Right,"Sacramento Kings, 2nd round (6th pick, 36th overall), 2012 NBA Draft","Palma  in  Salinas,        California",0,/players/j/johnsor01.html,Salinas,California,Palma ,Guard
 8.4,3.6,2.8,32.7,8.8,5.3,Point Guard,Right,,"Union Center  in  Huntington County,        Indiana",0,/players/j/johnsra01.html,Huntington County,Indiana,Union Center ,Guard
-8.4,4.1,0.9,50.5,12.5,11.0,Small Forward,Right,"San Antonio Spurs, 1st round (15th pick, 15th overall), 1980 NBA Draft","Cedar Grove  in  Ellenwood,        Georgia",0,/players/j/johnsre01.html,Ellenwood,Georgia,Cedar Grove ,Forward
+8.4,4.1,0.9,50.5,12.5,11.0,Power Forward,Right,"San Antonio Spurs, 1st round (15th pick, 15th overall), 1980 NBA Draft","Cedar Grove  in  Ellenwood,        Georgia",0,/players/j/johnsre01.html,Ellenwood,Georgia,Cedar Grove ,Forward
 5.0,3.1,0.4,46.1,11.2,2.2,Center,Right,"Boston Celtics, 4th round (10th pick, 46th overall), 1968 NBA Draft",,0,/players/j/johnsri01.html,,,,Center
 2.6,2.1,0.1,30.2,7.5,-0.1,Small Forward,Right,"Detroit Pistons, 2nd round (4th pick, 12th overall), 1960 NBA Draft","New Prague  in  New Prague,        Minnesota",0,/players/j/johnsro01.html,New Prague,Minnesota,New Prague ,Forward
 7.0,3.4,1.5,37.4,8.6,3.3,Small Forward,Right,"Detroit Pistons, 1st round (8th pick, 8th overall), 2015 NBA Draft","Mater Dei  in  Santa Ana,        California",0,/players/j/johnsst04.html,Santa Ana,California,Mater Dei ,Forward
@@ -2123,7 +2123,7 @@ ppg,trb,ast,fgp,per,ws,position,shooting_hand,draft,high_school,hof,url,hs_city,
 12.0,3.2,3.3,46.4,15.2,50.8,Point Guard,Right,"Seattle SuperSonics, 1st round (7th pick, 7th overall), 1979 NBA Draft","Franklin D. Roosevelt  in  Brooklyn,        New York",0,/players/j/johnsvi01.html,Brooklyn,New York,Franklin D. Roosevelt ,Guard
 7.0,3.2,1.1,40.4,10.0,10.7,Shooting Guard,Right,"Minnesota Timberwolves, 1st round (4th pick, 4th overall), 2010 NBA Draft","Corsicana  in  Corsicana,        Texas",0,/players/j/johnswe01.html,Corsicana,Texas,Corsicana ,Guard
 0.0,0.9,0.3,0.0,-18.4,-0.3,Shooting Guard,Left,"Dallas Mavericks, 2nd round (25th pick, 55th overall), 2012 NBA Draft","Wakefield  in  Raleigh,        North Carolina",0,/players/j/johnsda03.html,Raleigh,North Carolina,Wakefield ,Guard
-2.2,1.1,0.0,37.5,14.1,0.1,Small Forward,Right,"Miami Heat, 3rd round (9th pick, 59th overall), 1988 NBA Draft","Belle Glade  in  Belle Glade,        Florida",0,/players/j/johnsna01.html,Belle Glade,Florida,Belle Glade ,Forward
+2.2,1.1,0.0,37.5,14.1,0.1,Power Forward,Right,"Miami Heat, 3rd round (9th pick, 59th overall), 1988 NBA Draft","Belle Glade  in  Belle Glade,        Florida",0,/players/j/johnsna01.html,Belle Glade,Florida,Belle Glade ,Forward
 19.4,11.3,2.5,44.4,24.7,92.0,Center,Right,,"Chillicothe  in  Chillicothe,        Ohio",1,/players/j/johnsne01.html,Chillicothe,Ohio,Chillicothe ,Center
 1.3,2.0,0.5,36.7,4.5,-0.1,Center,Right,"Kansas City Kings, 3rd round (5th pick, 51st overall), 1982 NBA Draft","Lewiston-Porter Central  in  Youngstown,        New York",0,/players/j/johnsji01.html,Youngstown,New York,Lewiston-Porter Central ,Center
 16.3,9.6,5.1,52.3,24.8,38.9,Center,Right,"Denver Nuggets, 2nd round (11th pick, 41st overall), 2014 NBA Draft",,0,/players/j/jokicni01.html,,,,Center
@@ -2151,7 +2151,7 @@ ppg,trb,ast,fgp,per,ws,position,shooting_hand,draft,high_school,hof,url,hs_city,
 0.9,0.7,0.3,38.5,0.2,-0.1,Center,Right,"Los Angeles Lakers, 1st round (23rd pick, 23rd overall), 1984 NBA Draft","Spingarn  in  Washington,        District of Columbia",0,/players/j/jonesea01.html,Washington,District of Columbia,Spingarn ,Center
 14.8,4.0,2.9,43.7,16.7,100.6,Small Forward,Right,"Los Angeles Lakers, 1st round (10th pick, 10th overall), 1994 NBA Draft","Ely  in  Pompano Beach,        Florida",0,/players/j/jonesed02.html,Pompano Beach,Florida,Ely ,Forward
 9.0,4.8,0.9,50.6,15.1,15.0,Power Forward,Right,"Milwaukee Bucks, 2nd round (9th pick, 31st overall), 1979 NBA Draft","Barringer  in  Newark,        New Jersey",0,/players/j/jonesed01.html,Newark,New Jersey,Barringer ,Forward
-7.5,2.2,2.3,41.1,11.3,16.5,Small Forward,Right,"Indiana Pacers, 1st round (14th pick, 14th overall), 2002 NBA Draft","Barlow  in  Gresham,        Oregon",0,/players/j/jonesfr01.html,Gresham,Oregon,Barlow ,Forward
+7.5,2.2,2.3,41.1,11.3,16.5,Shooting Guard,Right,"Indiana Pacers, 1st round (14th pick, 14th overall), 2002 NBA Draft","Barlow  in  Gresham,        Oregon",0,/players/j/jonesfr01.html,Gresham,Oregon,Barlow ,Guard
 3.2,1.3,0.3,42.5,9.2,0.0,Small Forward,Right,,"Bishop Turner  in  Buffalo,        New York",0,/players/j/joneshu01.html,Buffalo,New York,Bishop Turner ,Forward
 4.5,1.5,0.7,38.9,8.6,0.0,Shooting Guard,Right,"Philadelphia 76ers, 6th round (12th pick, 97th overall), 1971 NBA Draft",,0,/players/j/jonesja01.html,,,,Guard
 4.8,2.3,0.3,40.0,11.0,0.4,Small Forward,Right,,"Kimball  in  Dallas,        Texas",0,/players/j/jonesja04.html,Dallas,Texas,Kimball ,Forward
@@ -2159,7 +2159,7 @@ ppg,trb,ast,fgp,per,ws,position,shooting_hand,draft,high_school,hof,url,hs_city,
 4.5,8.2,2.2,36.4,12.1,0.2,Small Forward,Right,,"Melrose HS  in  Nashville,        Tennessee",0,/players/j/jonesje01.html,Nashville,Tennessee,Melrose HS ,Forward
 16.6,4.3,4.5,50.9,17.1,78.8,Shooting Guard,Right,"Baltimore Bullets, 2nd round (1st pick, 13th overall), 1967 NBA Draft","McCall  in  Tallulah,        Louisiana",0,/players/j/jonesji01.html,Tallulah,Louisiana,McCall ,Guard
 5.2,2.9,0.8,35.8,10.5,-0.6,Small Forward,Right,,"DeMatha Catholic  in  Hyattsville,        Maryland",0,/players/j/jonesjo01.html,Hyattsville,Maryland,DeMatha Catholic ,Forward
-7.1,4.2,0.9,42.4,12.5,15.1,Power Forward,Right,"Atlanta Hawks, 1st round (27th pick, 27th overall), 1999 NBA Draft","Mitchell-Baker  in  Camilla,        Georgia",0,/players/j/jonesju01.html,Camilla,Georgia,Mitchell-Baker ,Forward
+7.1,4.2,0.9,42.4,12.5,15.1,Small Forward,Right,"Atlanta Hawks, 1st round (27th pick, 27th overall), 1999 NBA Draft","Mitchell-Baker  in  Camilla,        Georgia",0,/players/j/jonesju01.html,Camilla,Georgia,Mitchell-Baker ,Forward
 7.4,3.5,4.3,38.7,10.4,38.6,Point Guard,Right,"Minneapolis Lakers, 1955 NBA Draft, and Boston Celtics, 2nd round, 1956 NBA Draft","Commerce  in  San Francisco,        California",1,/players/j/joneskc01.html,San Francisco,California,Commerce ,Guard
 3.0,2.4,0.3,40.2,11.1,0.2,Power Forward,Right,,"Mount Vernon  in  ,        New York",0,/players/j/joneske01.html,,New York,Mount Vernon ,Forward
 19.1,4.9,3.7,45.3,18.9,56.4,Point Guard,Right,"Los Angeles Lakers, 5th round (8th pick, 43rd overall), 1963 NBA Draft, and Philadelphia 76ers, 3rd round (4th pick, 20th overall), 1964 NBA Draft","East  in  Columbus,        Ohio",0,/players/j/jonesla01.html,Columbus,Ohio,East ,Guard
@@ -2209,10 +2209,10 @@ ppg,trb,ast,fgp,per,ws,position,shooting_hand,draft,high_school,hof,url,hs_city,
 9.8,4.0,1.6,41.9,13.7,11.0,Power Forward,Right,"Charlotte Hornets, 1st round (9th pick, 9th overall), 2015 NBA Draft","Benet Academy  in  Lisle,        Illinois",0,/players/k/kaminfr01.html,Lisle,Illinois,Benet Academy ,Forward
 11.9,7.6,0.8,54.1,20.6,39.6,Center,Right,"Utah Jazz, 1st round (3rd pick, 3rd overall), 2011 NBA Draft","Stoneridge Preparatory School  in  Simi Valley,        California",0,/players/k/kanteen01.html,Simi Valley,California,Stoneridge Preparatory School ,Center
 5.6,-,0.5,26.3,-,5.2,Point Guard,Right,,"DeWitt Clinton  in  Bronx,        New York",0,/players/k/kaplora01.html,Bronx,New York,DeWitt Clinton ,Guard
-6.7,1.7,0.8,44.2,10.5,10.3,Shooting Guard,Right,"Cleveland Cavaliers, 2nd round (2nd pick, 31st overall), 2003 NBA Draft","Artesia  in  Lakewood,        California",0,/players/k/kaponja01.html,Lakewood,California,Artesia ,Guard
+6.7,1.7,0.8,44.2,10.5,10.3,Small Forward,Right,"Cleveland Cavaliers, 2nd round (2nd pick, 31st overall), 2003 NBA Draft","Artesia  in  Lakewood,        California",0,/players/k/kaponja01.html,Lakewood,California,Artesia ,Forward
 6.5,-,0.5,23.8,-,0.7,Point Guard,Right,,,0,/players/k/kappeto01.html,,,,Guard
-3.0,1.5,0.9,39.5,8.7,0.8,Small Forward,Left,"Cleveland Cavaliers, 1st round (19th pick, 19th overall), 2013 NBA Draft",,0,/players/k/karasse01.html,,,,Forward
-2.4,1.3,1.0,34.5,9.2,0.0,Small Forward,Right,,"Homestead  in  Mequon,        Wisconsin",0,/players/k/karlco01.html,Mequon,Wisconsin,Homestead ,Forward
+3.0,1.5,0.9,39.5,8.7,0.8,Shooting Guard,Left,"Cleveland Cavaliers, 1st round (19th pick, 19th overall), 2013 NBA Draft",,0,/players/k/karasse01.html,,,,Guard
+2.4,1.3,1.0,34.5,9.2,0.0,Shooting Guard,Right,,"Homestead  in  Mequon,        Wisconsin",0,/players/k/karlco01.html,Mequon,Wisconsin,Homestead ,Guard
 1.5,-,0.8,28.6,-,0.0,Point Guard,Right,,,0,/players/k/kasided01.html,,,,Guard
 2.7,2.6,0.2,46.7,10.8,0.8,Center,Right,"Los Angeles Clippers, 2nd round (12th pick, 41st overall), 2002 NBA Draft",,0,/players/k/kasunma01.html,,,,Center
 4.3,-,1.3,31.7,-,1.9,Point Guard,Right,"Washington Capitols, 1948 BAA Draft",,0,/players/k/katkale01.html,,,,Guard
@@ -2287,7 +2287,7 @@ ppg,trb,ast,fgp,per,ws,position,shooting_hand,draft,high_school,hof,url,hs_city,
 5.1,-,0.6,23.7,-,2.6,Point Guard,Right,,"East Lansing  in  East Lansing,        Michigan",0,/players/k/kingto01.html,East Lansing,Michigan,East Lansing ,Guard
 9.5,-,1.5,35.3,-,8.4,Center,Right,,"Jefferson  in  San Antonio,        Texas",0,/players/k/kinnebo01.html,San Antonio,Texas,Jefferson ,Center
 4.7,1.3,0.5,45.3,12.4,1.6,Shooting Guard,Right,,"Jefferson  in  Tampa,        Florida",0,/players/k/kinseta01.html,Tampa,Florida,Jefferson ,Guard
-11.8,5.5,2.7,47.4,18.7,75.4,Small Forward,Right,"Utah Jazz, 1st round (24th pick, 24th overall), 1999 NBA Draft","Frunzenskaya Sport School  in  Saint Petersburg,      Russia  ",0,/players/k/kirilan01.html,Saint Petersburg,Russia,Frunzenskaya Sport School ,Forward
+11.8,5.5,2.7,47.4,18.7,75.4,Power Forward,Right,"Utah Jazz, 1st round (24th pick, 24th overall), 1999 NBA Draft","Frunzenskaya Sport School  in  Saint Petersburg,      Russia  ",0,/players/k/kirilan01.html,Saint Petersburg,Russia,Frunzenskaya Sport School ,Forward
 0.8,0.2,0.2,25.0,8.5,0.0,Center,Right,,"Los Alamos  in  Los Alamos,        New Mexico",0,/players/k/kirkal01.html,Los Alamos,New Mexico,Los Alamos ,Center
 7.7,4.0,2.1,30.5,9.7,7.7,Point Guard,Right,,"Mount Vernon  in  Mount Vernon,        Illinois",0,/players/k/kirkwa01.html,Mount Vernon,Illinois,Mount Vernon ,Guard
 3.0,5.5,0.5,42.9,6.6,0.0,Small Forward,Right,,,0,/players/k/kirklwi01.html,,,,Forward
@@ -2298,7 +2298,7 @@ ppg,trb,ast,fgp,per,ws,position,shooting_hand,draft,high_school,hof,url,hs_city,
 14.1,3.9,2.6,43.9,16.0,44.8,Shooting Guard,Right,"New Jersey Nets, 1st round (8th pick, 8th overall), 1996 NBA Draft","Saint Augustine  in  New Orleans,        Louisiana",0,/players/k/kittlke01.html,New Orleans,Louisiana,Saint Augustine ,Guard
 6.1,3.9,0.8,46.9,13.2,6.3,Power Forward,Right,,,0,/players/k/klebima01.html,,,,Forward
 4.8,4.1,0.6,45.3,10.5,19.1,Center,Right,"Sacramento Kings, 1st round (6th pick, 6th overall), 1985 NBA Draft","Slater  in  Slater,        Missouri",0,/players/k/kleinjo01.html,Slater,Missouri,Slater ,Center
-8.7,3.6,0.8,43.5,12.4,13.6,Power Forward,Right,"Portland Trail Blazers, 1st round (27th pick, 27th overall), 2005 NBA Draft","Montrose Christian School  in  Rockville,        Maryland",0,/players/k/kleizli01.html,Rockville,Maryland,Montrose Christian School ,Forward
+8.7,3.6,0.8,43.5,12.4,13.6,Small Forward,Right,"Portland Trail Blazers, 1st round (27th pick, 27th overall), 2005 NBA Draft","Montrose Christian School  in  Rockville,        Maryland",0,/players/k/kleizli01.html,Rockville,Maryland,Montrose Christian School ,Forward
 7.1,-,1.6,28.0,-,2.6,Small Forward,Right,,"Washington  in  Washington,        Indiana",0,/players/k/klierle01.html,Washington,Indiana,Washington ,Forward
 1.4,-,0.6,22.6,-,-0.1,Point Guard,Right,,"South Philadelphia  in  Philadelphia,        Pennsylvania",0,/players/k/klotzhe01.html,Philadelphia,Pennsylvania,South Philadelphia ,Guard
 8.2,3.0,1.5,36.2,-,6.0,Point Guard,Right,"Boston Celtics, 8th round, 1949 BAA Draft","State  in  Terre Haute,        Indiana",0,/players/k/kluehdu01.html,Terre Haute,Indiana,State ,Guard
@@ -2347,7 +2347,7 @@ ppg,trb,ast,fgp,per,ws,position,shooting_hand,draft,high_school,hof,url,hs_city,
 1.2,0.5,0.4,23.4,-1.9,-0.3,Shooting Guard,Right,"Boston Celtics, 3rd round (9th pick, 53rd overall), 1979 NBA Draft","Neenah  in  Neenah,        Wisconsin",0,/players/k/kreklwa01.html,Neenah,Wisconsin,Neenah ,Guard
 6.0,3.0,2.7,38.7,11.4,2.6,Shooting Guard,Right,"St. Louis Hawks, 3rd round (4th pick, 24th overall), 1966 NBA Draft","Tell City  in  Tell City,        Indiana",0,/players/k/kronto01.html,Tell City,Indiana,Tell City ,Guard
 2.5,0.8,0.6,44.0,9.9,0.5,Shooting Guard,Right,"Washington Bullets, 3rd round (12th pick, 48th overall), 1975 NBA Draft","Aurora  in  Aurora,        Nebraska",0,/players/k/kroppto01.html,Aurora,Nebraska,Aurora ,Guard
-10.0,5.4,0.8,49.4,13.6,21.5,Center,Right,"New Jersey Nets, 1st round (24th pick, 24th overall), 2002 NBA Draft",,0,/players/k/krstine01.html,,,,Center
+10.0,5.4,0.8,49.4,13.6,21.5,Power Forward,Right,"New Jersey Nets, 1st round (24th pick, 24th overall), 2002 NBA Draft",,0,/players/k/krstine01.html,,,,Forward
 8.2,4.9,1.2,45.7,12.0,15.6,Power Forward,Right,"Chicago Bulls, 2nd round (4th pick, 28th overall), 1986 NBA Draft","Big Sky  in  Missoula,        Montana",0,/players/k/krystla01.html,Missoula,Montana,Big Sky ,Forward
 5.5,3.8,0.6,41.7,11.4,11.4,Power Forward,Right,"Boston Celtics, 4th round (9th pick, 52nd overall), 1969 NBA Draft","Moline  in  Moline,        Illinois",0,/players/k/kuberst01.html,Moline,Illinois,Moline ,Forward
 11.5,-,3.2,32.6,-,0.5,Point Guard,Right,"Rochester Royals, 1948 BAA Draft",,0,/players/k/kubiale01.html,,,,Guard
@@ -2389,7 +2389,7 @@ ppg,trb,ast,fgp,per,ws,position,shooting_hand,draft,high_school,hof,url,hs_city,
 4.5,2.1,0.7,46.3,13.5,1.1,Small Forward,Right,"Chicago Bulls, 2nd round (16th pick, 45th overall), 2001 NBA Draft","Saint Francis DeSales  in  Chicago,        Illinois",0,/players/l/lamplse01.html,Chicago,Illinois,Saint Francis DeSales ,Forward
 10.8,4.9,0.7,53.5,17.5,35.9,Power Forward,Right,"Seattle SuperSonics, 2nd round (1st pick, 31st overall), 2007 NBA Draft","Vincent  in  Milwaukee,        Wisconsin",0,/players/l/landrca01.html,Milwaukee,Wisconsin,Vincent ,Forward
 2.4,1.1,0.0,37.2,7.2,-0.1,Small Forward,Right,,"Vincent  in  Milwaukee,        Wisconsin",0,/players/l/landrma01.html,Milwaukee,Wisconsin,Vincent ,Forward
-5.6,6.1,0.5,48.1,12.8,12.2,Power Forward,Right,"Chicago Bulls, 2nd round (13th pick, 35th overall), 1977 NBA Draft","Mounds View  in  Saint Paul,        Minnesota",0,/players/l/landsma01.html,Saint Paul,Minnesota,Mounds View ,Forward
+5.6,6.1,0.5,48.1,12.8,12.2,Center,Right,"Chicago Bulls, 2nd round (13th pick, 35th overall), 1977 NBA Draft","Mounds View  in  Saint Paul,        Minnesota",0,/players/l/landsma01.html,Saint Paul,Minnesota,Mounds View ,Center
 5.3,5.8,1.5,44.1,12.6,2.3,Power Forward,Right,"Denver Nuggets, 1st round (23rd pick, 23rd overall), 1988 NBA Draft","Saint Vincent-Saint Mary  in  Akron,        Ohio",0,/players/l/laneje01.html,Akron,Ohio,Saint Vincent-Saint Mary ,Forward
 6.0,4.8,0.6,47.0,11.7,28.6,Center,Right,"Phoenix Suns, 2nd round (3rd pick, 28th overall), 1988 NBA Draft","Dollarway  in  Pine Bluff,        Arkansas",0,/players/l/langan01.html,Pine Bluff,Arkansas,Dollarway ,Center
 2.3,1.5,0.3,45.5,8.8,1.7,Power Forward,Right,"Phoenix Suns, 2nd round (2nd pick, 29th overall), 1994 NBA Draft","LeFlore Magnet  in  Mobile,        Alabama",0,/players/l/langan02.html,Mobile,Alabama,LeFlore Magnet ,Forward
@@ -2405,13 +2405,13 @@ ppg,trb,ast,fgp,per,ws,position,shooting_hand,draft,high_school,hof,url,hs_city,
 5.0,1.3,1.6,37.6,8.9,0.5,Point Guard,Right,,"Northwest  in  Greensboro,        North Carolina",0,/players/l/larueru01.html,Greensboro,North Carolina,Northwest ,Guard
 15.6,9.4,2.1,43.1,15.4,61.4,Power Forward,Right,"Minneapolis Lakers, 2nd round (4th pick, 10th overall), 1959 NBA Draft","James Madison  in  Brooklyn,        New York",0,/players/l/larusru01.html,Brooklyn,New York,James Madison ,Forward
 7.1,2.4,0.8,39.8,10.9,2.0,Shooting Guard,Right,"Chicago Bulls, 2nd round (14th pick, 32nd overall), 1975 NBA Draft","Saint Joseph  in  South Bend,        Indiana",0,/players/l/laskojo01.html,South Bend,Indiana,Saint Joseph ,Guard
-5.2,3.3,0.2,45.1,11.7,0.3,Small Forward,Right,"Golden State Warriors, 2nd round (16th pick, 46th overall), 2007 NBA Draft","Leon Mba  in  Libreville,      Gabon  ",0,/players/l/lasmest01.html,Libreville,Gabon,Leon Mba ,Forward
+5.2,3.3,0.2,45.1,11.7,0.3,Power Forward,Right,"Golden State Warriors, 2nd round (16th pick, 46th overall), 2007 NBA Draft","Leon Mba  in  Libreville,      Gabon  ",0,/players/l/lasmest01.html,Libreville,Gabon,Leon Mba ,Forward
 7.2,5.1,0.7,47.7,13.6,6.3,Power Forward,Right,"San Francisco Warriors, 1st round (10th pick, 10th overall), 1967 NBA Draft","Evan E. Worthing  in  Houston,        Texas",0,/players/l/lattida01.html,Houston,Texas,Evan E. Worthing ,Forward
 3.4,1.9,0.4,47.2,11.3,-0.8,Center,Left,"Atlanta Hawks, 1st round (28th pick, 28th overall), 1996 NBA Draft","Carver  in  Chicago,        Illinois",0,/players/l/laudepr01.html,Chicago,Illinois,Carver ,Center
 2.4,1.0,0.3,32.3,7.5,0.0,Shooting Guard,Left,"Portland Trail Blazers, 1st round (19th pick, 19th overall), 1977 NBA Draft","Overbrook  in  Philadelphia,        Pennsylvania",0,/players/l/laureri01.html,Philadelphia,Pennsylvania,Overbrook ,Guard
 1.4,1.7,0.9,25.0,0.6,0.0,Point Guard,Right,"Detroit Pistons, 8th round (6th pick, 98th overall), 1968 NBA Draft","Lincoln  in  Jersey City,        New Jersey",0,/players/l/lauriha01.html,Jersey City,New Jersey,Lincoln ,Guard
 4.3,-,1.3,30.1,-,-1.3,Point Guard,Right,,"Plymouth  in  Plymouth,        Wisconsin",0,/players/l/lautewa01.html,Plymouth,Wisconsin,Plymouth ,Guard
-5.6,3.8,0.9,47.9,14.3,5.2,Power Forward,Right,"Memphis Grizzlies, 2nd round (25th pick, 55th overall), 2013 NBA Draft",,0,/players/l/lauvejo01.html,,,,Forward
+5.6,3.8,0.9,47.9,14.3,5.2,Center,Right,"Memphis Grizzlies, 2nd round (25th pick, 55th overall), 2013 NBA Draft",,0,/players/l/lauvejo01.html,,,,Center
 6.9,2.0,0.7,36.7,-,4.7,Small Forward,Right,"Boston Celtics, 1st round (4th pick, 4th overall), 1949 BAA Draft","Somerville  in  Somerville,        Massachusetts",0,/players/l/lavelto01.html,Somerville,Massachusetts,Somerville ,Forward
 16.1,3.4,3.5,44.6,14.8,8.0,Shooting Guard,Right,"Minnesota Timberwolves, 1st round (13th pick, 13th overall), 2014 NBA Draft","Bothell  in  Bothell,        Washington",0,/players/l/lavinza01.html,Bothell,Washington,Bothell ,Guard
 8.2,6.2,1.5,38.4,15.0,15.9,Power Forward,Right,"Indianapolis Olympians, 1st round (8th pick, 8th overall), 1950 NBA Draft","East Aurora  in  Aurora,        Illinois",0,/players/l/lavoybo01.html,Aurora,Illinois,East Aurora ,Forward
@@ -2652,7 +2652,7 @@ ppg,trb,ast,fgp,per,ws,position,shooting_hand,draft,high_school,hof,url,hs_city,
 12.1,4.5,1.6,44.9,12.7,23.1,Shooting Guard,Right,"Seattle SuperSonics, 1st round (17th pick, 17th overall), 2000 NBA Draft","Waxahachie  in  Waxahachie,        Texas",0,/players/m/masonde01.html,Waxahachie,Texas,Waxahachie ,Guard
 6.8,1.9,2.6,39.2,12.8,0.9,Point Guard,Right,"Sacramento Kings, 2nd round (4th pick, 34th overall), 2017 NBA Draft","Petersburg  in  Petersburg,        Virginia",0,/players/m/masonfr01.html,Petersburg,Virginia,Petersburg ,Guard
 6.3,1.7,1.3,40.8,10.9,13.0,Point Guard,Right,"Chicago Bulls, 2nd round (2nd pick, 31st overall), 2002 NBA Draft","Good Counsel  in  Wheaton,        Maryland",0,/players/m/masonro01.html,Wheaton,Maryland,Good Counsel ,Guard
-6.2,4.3,0.4,47.0,11.9,15.6,Power Forward,Right,"San Antonio Spurs, 2nd round (16th pick, 43rd overall), 1990 NBA Draft","Sussex Central  in  Sussex,        Virginia",0,/players/m/masseto01.html,Sussex,Virginia,Sussex Central ,Forward
+6.2,4.3,0.4,47.0,11.9,15.6,Center,Right,"San Antonio Spurs, 2nd round (16th pick, 43rd overall), 1990 NBA Draft","Sussex Central  in  Sussex,        Virginia",0,/players/m/masseto01.html,Sussex,Virginia,Sussex Central ,Center
 2.5,2.4,0.5,38.5,10.0,0.4,Power Forward,Right,"New York Knicks, 3rd round (11th pick, 40th overall), 1969 NBA Draft","Darby-Colwyn  in  Darby,        Pennsylvania",0,/players/m/masted01.html,Darby,Pennsylvania,Darby-Colwyn ,Forward
 1.0,1.5,0.0,25.0,5.7,0.0,Power Forward,Right,,"Bloomfield Hills HS  in  Bloomfield Hills,        Michigan",0,/players/m/matenya01.html,Bloomfield Hills,Michigan,Bloomfield Hills HS ,Forward
 2.0,2.5,0.0,57.1,18.0,0.1,Center,Right,,"IMG Academy  in  Bradenton,        Florida",0,/players/m/mathima01.html,Bradenton,Florida,IMG Academy ,Center
@@ -2672,7 +2672,7 @@ ppg,trb,ast,fgp,per,ws,position,shooting_hand,draft,high_school,hof,url,hs_city,
 4.1,0.7,1.5,30.3,6.4,-0.4,Shooting Guard,Right,,"Hillhouse  in  New Haven,        Connecticut",0,/players/m/mayesth01.html,New Haven,Connecticut,Hillhouse ,Guard
 2.4,1.3,0.1,44.4,6.8,0.0,Small Forward,Right,,"Cass Technical  in  Detroit,        Michigan",0,/players/m/mayfibi01.html,Detroit,Michigan,Cass Technical ,Forward
 2.8,0.6,0.3,37.0,7.3,-0.2,Shooting Guard,Right,"New York Knicks, 3rd round (15th pick, 50th overall), 1971 NBA Draft",,0,/players/m/mayfike01.html,,,,Guard
-4.3,1.3,2.8,39.2,10.6,3.3,Shooting Guard,Right,"Utah Jazz, 1st round (20th pick, 20th overall), 2009 NBA Draft","Westover  in  Fayetteville,        North Carolina",0,/players/m/maynoer01.html,Fayetteville,North Carolina,Westover ,Guard
+4.3,1.3,2.8,39.2,10.6,3.3,Point Guard,Right,"Utah Jazz, 1st round (20th pick, 20th overall), 2009 NBA Draft","Westover  in  Fayetteville,        North Carolina",0,/players/m/maynoer01.html,Fayetteville,North Carolina,Westover ,Guard
 13.8,3.1,2.9,42.9,13.4,21.8,Shooting Guard,Right,"Minnesota Timberwolves, 1st round (3rd pick, 3rd overall), 2008 NBA Draft","Huntington  in  Huntington,        West Virginia",0,/players/m/mayooj01.html,Huntington,West Virginia,Huntington ,Guard
 11.1,2.0,2.8,41.0,11.7,2.4,Point Guard,Right,"Sacramento Kings, 1st round (14th pick, 14th overall), 1990 NBA Draft","Vanguard  in  Ocala,        Florida",0,/players/m/maystr01.html,Ocala,Florida,Vanguard ,Guard
 3.8,-,1.1,30.0,-,0.0,Small Forward,Right,,,0,/players/m/mazzama01.html,,,,Forward
@@ -2682,7 +2682,7 @@ ppg,trb,ast,fgp,per,ws,position,shooting_hand,draft,high_school,hof,url,hs_city,
 9.8,2.6,1.2,32.7,7.9,-0.4,Shooting Guard,Right,"Syracuse Nationals, 1952 NBA Draft","Centralia  in  Centralia,        Illinois",0,/players/m/mcbrike01.html,Centralia,Illinois,Centralia ,Guard
 4.0,1.0,0.0,66.7,9.6,0.0,Shooting Guard,Right,,"Engineering & Science  in  Philadelphia,        Pennsylvania",0,/players/m/mccalta01.html,Philadelphia,Pennsylvania,Engineering & Science ,Guard
 6.0,2.0,2.4,40.8,11.0,2.1,Point Guard,Right,"Sacramento Kings, 2nd round (6th pick, 36th overall), 2013 NBA Draft","Detroit County Day School  in  ,        Michigan",0,/players/m/mccalra01.html,,Michigan,Detroit County Day School ,Guard
-4.2,2.6,0.6,47.9,10.2,2.0,Small Forward,Left,"Milwaukee Bucks, 2nd round (9th pick, 32nd overall), 1987 NBA Draft","Morristown  in  Morristown,        New Jersey",0,/players/m/mccanbo01.html,Morristown,New Jersey,Morristown ,Forward
+4.2,2.6,0.6,47.9,10.2,2.0,Power Forward,Left,"Milwaukee Bucks, 2nd round (9th pick, 32nd overall), 1987 NBA Draft","Morristown  in  Morristown,        New Jersey",0,/players/m/mccanbo01.html,Morristown,New Jersey,Morristown ,Forward
 1.8,1.2,1.6,20.4,6.4,-0.6,Point Guard,Right,"New York Knicks, 1st round (5th pick, 5th overall), 1957 NBA Draft","Manual Training  in  Brooklyn,        New York",0,/players/m/mccanbr01.html,Brooklyn,New York,Manual Training ,Guard
 1.7,0.5,0.2,30.8,5.1,0.0,Small Forward,Right,,"Mount Carmel  in  Chicago,        Illinois",0,/players/m/mccanme01.html,Chicago,Illinois,Mount Carmel ,Forward
 10.0,2.0,1.3,43.1,12.9,3.6,Shooting Guard,Right,"Minnesota Timberwolves, 1st round (14th pick, 14th overall), 2005 NBA Draft","New Hampton School  in  New Hampton,        New Hampshire",0,/players/m/mccanra01.html,New Hampton,New Hampshire,New Hampton School ,Guard
@@ -2719,7 +2719,7 @@ ppg,trb,ast,fgp,per,ws,position,shooting_hand,draft,high_school,hof,url,hs_city,
 10.0,6.5,1.1,46.6,16.8,9.1,Center,Right,"Seattle SuperSonics, 2nd round (6th pick, 23rd overall), 1971 NBA Draft","Allen County  in  Scottsville,        Kentucky",0,/players/m/mcdanji01.html,Scottsville,Kentucky,Allen County ,Center
 5.3,2.2,0.6,41.2,10.8,1.3,Shooting Guard,Right,"Philadelphia 76ers, 2nd round (2nd pick, 32nd overall), 2014 NBA Draft","Central Park Christian School  in  Birmingham,        Alabama",0,/players/m/mcdankj01.html,Birmingham,Alabama,Central Park Christian School ,Guard
 7.8,2.1,0.8,45.9,10.7,10.6,Small Forward,Right,"Denver Nuggets, 1st round (11th pick, 11th overall), 2014 NBA Draft","Ames  in  Ames,        Iowa",0,/players/m/mcderdo01.html,Ames,Iowa,Ames ,Forward
-6.0,3.2,1.3,46.8,8.3,2.5,Small Forward,Right,"Cleveland Cavaliers, 3rd round (3rd pick, 50th overall), 1984 NBA Draft","Long Beach Polytechnic  in  Long Beach,        California",0,/players/m/mcdonbe01.html,Long Beach,California,Long Beach Polytechnic ,Forward
+6.0,3.2,1.3,46.8,8.3,2.5,Power Forward,Right,"Cleveland Cavaliers, 3rd round (3rd pick, 50th overall), 1984 NBA Draft","Long Beach Polytechnic  in  Long Beach,        California",0,/players/m/mcdonbe01.html,Long Beach,California,Long Beach Polytechnic ,Forward
 4.2,1.5,0.7,40.0,10.3,1.1,Small Forward,Right,"Boston Celtics, 1st round (17th pick, 17th overall), 1974 NBA Draft","Jefferson  in  Los Angeles,        California",0,/players/m/mcdongl01.html,Los Angeles,California,Jefferson ,Forward
 0.0,1.0,0.0,-,-22.1,-0.1,Center,Right,"Golden State Warriors, 2nd round (26th pick, 55th overall), 1995 NBA Draft","Longview  in  Longview,        Texas",0,/players/m/mcdonmi01.html,Longview,Texas,Longview ,Center
 3.2,2.3,0.5,44.8,15.2,1.1,Power Forward,Right,"Seattle SuperSonics, 9th round (10th pick, 101st overall), 1967 NBA Draft",,0,/players/m/mcdonro01.html,,,,Forward
@@ -2809,7 +2809,7 @@ ppg,trb,ast,fgp,per,ws,position,shooting_hand,draft,high_school,hof,url,hs_city,
 3.0,3.0,0.2,41.0,12.4,0.4,Power Forward,Right,,"Saint Augustine College Preparatory School  in  Richland,        New Jersey",0,/players/m/mensapo01.html,Richland,New Jersey,Saint Augustine College Preparatory School ,Forward
 9.1,7.8,1.2,37.0,12.0,1.1,Center,Right,,"Central  in  South Bend,        Indiana",0,/players/m/menyade01.html,South Bend,Indiana,Central ,Center
 13.6,3.1,2.1,42.9,12.5,9.4,Shooting Guard,Right,"Boston Celtics, 1st round (6th pick, 6th overall), 1997 NBA Draft","Oak Hill Academy  in  Mouth of Wilson,        Virginia",0,/players/m/mercero01.html,Mouth of Wilson,Virginia,Oak Hill Academy ,Guard
-8.1,5.6,0.9,51.1,12.7,27.6,Center,Right,"Houston Rockets, 1st round (11th pick, 11th overall), 1975 NBA Draft","Central  in  Phenix City,        Alabama",0,/players/m/meriwjo01.html,Phenix City,Alabama,Central ,Center
+8.1,5.6,0.9,51.1,12.7,27.6,Power Forward,Right,"Houston Rockets, 1st round (11th pick, 11th overall), 1975 NBA Draft","Central  in  Phenix City,        Alabama",0,/players/m/meriwjo01.html,Phenix City,Alabama,Central ,Forward
 3.8,0.9,1.4,39.3,12.4,0.2,Point Guard,Right,"Syracuse Nationals, 3rd round (5th pick, 21st overall), 1962 NBA Draft","Lincoln  in  Evansville,        Indiana",0,/players/m/meriwpo01.html,Evansville,Indiana,Lincoln ,Guard
 12.7,8.6,1.7,44.1,13.1,43.6,Power Forward,Right,"Philadelphia Warriors, 1st round (7th pick, 7th overall), 1961 NBA Draft","Lowell  in  San Francisco,        California",0,/players/m/meschto01.html,San Francisco,California,Lowell ,Forward
 1.8,1.2,0.4,32.8,6.4,-0.3,Power Forward,Right,"San Antonio Spurs, 2nd round (19th pick, 49th overall), 2018 NBA Draft","Lawndale HS  in  Lawndale,        California",0,/players/m/metuch01.html,Lawndale,California,Lawndale HS ,Forward
@@ -3054,7 +3054,7 @@ ppg,trb,ast,fgp,per,ws,position,shooting_hand,draft,high_school,hof,url,hs_city,
 6.6,5.8,0.8,47.6,14.9,7.3,Center,Right,"Detroit Pistons, 4th round (6th pick, 42nd overall), 1968 NBA Draft","DuBourg  in  St. Louis,        Missouri",0,/players/n/niemari01.html,St. Louis,Missouri,DuBourg ,Center
 6.0,-,1.8,33.0,-,7.6,Point Guard,Right,,"De La Salle Institute  in  Chicago,        Illinois",0,/players/n/niemiri01.html,Chicago,Illinois,De La Salle Institute ,Guard
 2.6,1.3,0.3,34.8,6.7,-0.3,Small Forward,Right,"Philadelphia 76ers, 4th round (17th pick, 83rd overall), 1979 NBA Draft","Jefferson  in  Los Angeles,        California",0,/players/n/nilesmi01.html,Los Angeles,California,Jefferson ,Forward
-6.4,4.4,1.2,48.7,11.8,17.5,Center,Right,"Denver Nuggets, 3rd round (1st pick, 47th overall), 1980 NBA Draft","South Milwaukee  in  South Milwaukee,        Wisconsin",0,/players/n/nimphku01.html,South Milwaukee,Wisconsin,South Milwaukee ,Center
+6.4,4.4,1.2,48.7,11.8,17.5,Power Forward,Right,"Denver Nuggets, 3rd round (1st pick, 47th overall), 1980 NBA Draft","South Milwaukee  in  South Milwaukee,        Wisconsin",0,/players/n/nimphku01.html,South Milwaukee,Wisconsin,South Milwaukee ,Forward
 2.0,1.3,0.3,35.9,8.2,0.0,Small Forward,Right,"Charlotte Hornets, 2nd round (2nd pick, 29th overall), 1989 NBA Draft","Fort Walton Beach  in  Fort Walton Beach,        Florida",0,/players/n/nixdy01.html,Fort Walton Beach,Florida,Fort Walton Beach ,Forward
 15.7,2.6,8.3,48.3,15.3,47.6,Point Guard,Right,"Los Angeles Lakers, 1st round (22nd pick, 22nd overall), 1977 NBA Draft","Southwest  in  Macon,        Georgia",0,/players/n/nixonno01.html,Macon,Georgia,Southwest ,Guard
 8.8,9.1,2.8,49.1,17.6,61.8,Center,Right,"Chicago Bulls, 1st round (9th pick, 9th overall), 2007 NBA Draft","The Lawrenceville School  in  Lawrenceville,        New Jersey",0,/players/n/noahjo01.html,Lawrenceville,New Jersey,The Lawrenceville School ,Center
@@ -3114,7 +3114,7 @@ ppg,trb,ast,fgp,per,ws,position,shooting_hand,draft,high_school,hof,url,hs_city,
 0.4,-,0.1,18.2,-,-0.1,Point Guard,Right,,,0,/players/o/oshiega01.html,,,,Guard
 1.8,1.4,0.2,39.7,8.3,0.3,Center,Right,,"Bayonne  in  Bayonne,        New Jersey",0,/players/o/osullda01.html,Bayonne,New Jersey,Bayonne ,Center
 9.7,9.5,2.5,47.1,13.4,89.7,Center,Right,"Cleveland Cavaliers, 1st round (9th pick, 9th overall), 1985 NBA Draft","John Hay  in  Cleveland,        Ohio",0,/players/o/oaklech01.html,Cleveland,Ohio,John Hay ,Center
-3.2,3.5,0.9,57.6,11.2,13.6,Power Forward,Right,,,0,/players/o/obertfa01.html,,,,Forward
+3.2,3.5,0.9,57.6,11.2,13.6,Center,Right,,,0,/players/o/obertfa01.html,,,,Center
 1.3,1.2,0.2,44.4,6.6,0.0,Center,Right,,"Downingtown East  in  Downingtown,        Pennsylvania",0,/players/o/ochefda01.html,Downingtown,Pennsylvania,Downingtown East ,Center
 8.0,6.2,0.5,57.4,18.7,7.3,Center,Right,"Portland Trail Blazers, 1st round (1st pick, 1st overall), 2007 NBA Draft","Lawrence North  in  Indianapolis,        Indiana",0,/players/o/odengr01.html,Indianapolis,Indiana,Lawrence North ,Center
 13.3,8.4,3.7,46.3,16.5,77.0,Small Forward,Left,"Los Angeles Clippers, 1st round (4th pick, 4th overall), 1999 NBA Draft","Redemption Christian Academy  in  Troy,        New York",0,/players/o/odomla01.html,Troy,New York,Redemption Christian Academy ,Forward
@@ -3144,7 +3144,7 @@ ppg,trb,ast,fgp,per,ws,position,shooting_hand,draft,high_school,hof,url,hs_city,
 8.3,6.8,0.7,43.5,10.7,2.5,Center,Right,"Los Angeles Clippers, 1st round (1st pick, 1st overall), 1998 NBA Draft","Newlands Manorium  in  East Sussex,      United Kingdom  ",0,/players/o/olowomi01.html,East Sussex,United Kingdom,Newlands Manorium ,Center
 4.3,3.3,1.2,43.3,10.9,6.2,Power Forward,Right,"Cincinnati Royals, 2nd round (6th pick, 13th overall), 1962 NBA Draft","Belmont  in  Dayton,        Ohio",0,/players/o/olsenbu01.html,Dayton,Ohio,Belmont ,Forward
 9.9,4.9,1.9,47.8,15.8,24.9,Power Forward,Right,"Dallas Mavericks, 1st round (13th pick, 13th overall), 2013 NBA Draft","South Kamloops  in  Kamloops,      Canada  ",0,/players/o/olynyke01.html,Kamloops,Canada,South Kamloops ,Forward
-1.8,1.8,0.5,65.2,14.5,0.2,Power Forward,Right,,"Episcopal  in  Alexandria,        Virginia",0,/players/o/onuakar01.html,Alexandria,Virginia,Episcopal ,Forward
+1.8,1.8,0.5,65.2,14.5,0.2,Center,Right,,"Episcopal  in  Alexandria,        Virginia",0,/players/o/onuakar01.html,Alexandria,Virginia,Episcopal ,Center
 3.0,2.3,0.7,58.3,7.7,0.1,Center,Right,"Houston Rockets, 2nd round (7th pick, 37th overall), 2016 NBA Draft","Riverdale Baptist  in  Upper Marlboro,        Maryland",0,/players/o/onuakch01.html,Upper Marlboro,Maryland,Riverdale Baptist ,Center
 6.3,3.6,1.3,37.0,6.4,-0.8,Point Guard,Right,"Baltimore Bullets, 8th round (4th pick, 96th overall), 1968 NBA Draft",,0,/players/o/ormsba01.html,,,,Guard
 2.7,-,0.6,33.9,-,-0.1,Small Forward,Right,"Minneapolis Lakers, 1948 BAA Draft, and St. Louis Bombers, 2nd round, 1949 BAA Draft","Taylorville  in  Taylorville,        Illinois",0,/players/o/orrjo01.html,Taylorville,Illinois,Taylorville ,Forward
@@ -3192,12 +3192,12 @@ ppg,trb,ast,fgp,per,ws,position,shooting_hand,draft,high_school,hof,url,hs_city,
 0.0,0.0,0.0,-,0.0,0.0,Small Forward,Right,,"Bishop McDevitt  in  Harrisburg,        Pennsylvania",0,/players/p/pankoan01.html,Harrisburg,Pennsylvania,Bishop McDevitt ,Forward
 4.1,3.2,0.7,51.4,12.6,0.4,Center,Right,"Phoenix Suns, 1st round (13th pick, 13th overall), 2016 NBA Draft","Westtown  in  West Chester,        Pennsylvania",0,/players/p/papagge01.html,West Chester,Pennsylvania,Westtown ,Center
 3.6,2.3,1.5,35.4,7.3,0.3,Small Forward,Left,"New York Knicks, 2nd round (18th pick, 48th overall), 2012 NBA Draft",,0,/players/p/papanko01.html,,,,Forward
-6.4,1.4,2.0,39.1,11.8,4.9,Shooting Guard,Right,,"Robeson  in  Chicago,        Illinois",0,/players/p/pargoja01.html,Chicago,Illinois,Robeson ,Guard
-4.7,1.0,1.8,37.3,8.1,-0.8,Shooting Guard,Right,,"Paul Robeson  in  Chicago,        Illinois",0,/players/p/pargoje01.html,Chicago,Illinois,Paul Robeson ,Guard
+6.4,1.4,2.0,39.1,11.8,4.9,Point Guard,Right,,"Robeson  in  Chicago,        Illinois",0,/players/p/pargoja01.html,Chicago,Illinois,Robeson ,Guard
+4.7,1.0,1.8,37.3,8.1,-0.8,Point Guard,Right,,"Paul Robeson  in  Chicago,        Illinois",0,/players/p/pargoje01.html,Chicago,Illinois,Paul Robeson ,Guard
 5.4,1.3,2.1,31.6,-,0.4,Small Forward,Right,"St. Louis Bombers, 1948 BAA Draft",,0,/players/p/parhaea01.html,,,,Forward
 14.5,9.1,1.4,53.7,19.2,147.0,Center,Right,"Golden State Warriors, 1st round (8th pick, 8th overall), 1976 NBA Draft","Woodlawn  in  Shreveport,        Louisiana",1,/players/p/parisro01.html,Shreveport,Louisiana,Woodlawn ,Center
 6.1,3.1,1.7,37.9,11.3,7.5,Shooting Guard,Right,,"Lexington  in  Lexington,        Missouri",0,/players/p/parkme01.html,Lexington,Missouri,Lexington ,Guard
-9.1,3.2,2.3,44.4,12.2,24.5,Shooting Guard,Right,"New Jersey Nets, 1st round (21st pick, 21st overall), 1997 NBA Draft","Central  in  Naperville,        Illinois",0,/players/p/parkean01.html,Naperville,Illinois,Central ,Guard
+9.1,3.2,2.3,44.4,12.2,24.5,Small Forward,Right,"New Jersey Nets, 1st round (21st pick, 21st overall), 1997 NBA Draft","Central  in  Naperville,        Illinois",0,/players/p/parkean01.html,Naperville,Illinois,Central ,Forward
 15.1,5.7,2.1,49.1,16.2,11.6,Power Forward,Right,"Milwaukee Bucks, 1st round (2nd pick, 2nd overall), 2014 NBA Draft","Simeon Career Academy  in  Chicago,        Illinois",0,/players/p/parkeja01.html,Chicago,Illinois,Simeon Career Academy ,Forward
 9.0,2.4,2.9,42.6,11.7,7.4,Point Guard,Right,,"Newtown  in  Queens,        New York",0,/players/p/parkesm01.html,Queens,New York,Newtown ,Guard
 9.9,4.1,2.1,50.1,15.6,26.9,Small Forward,Right,"Golden State Warriors, 1st round (17th pick, 17th overall), 1976 NBA Draft","Farragut Career Academy  in  Chicago,        Illinois",0,/players/p/parkeso01.html,Chicago,Illinois,Farragut Career Academy ,Forward
@@ -3268,7 +3268,7 @@ ppg,trb,ast,fgp,per,ws,position,shooting_hand,draft,high_school,hof,url,hs_city,
 9.5,8.8,1.9,45.5,13.5,29.6,Center,Right,"San Diego Rockets, 3rd round (1st pick, 35th overall), 1970 NBA Draft","Western  in  Washington,        District of Columbia",0,/players/p/perrycu01.html,Washington,District of Columbia,Western ,Center
 6.3,1.4,3.1,45.9,14.3,14.0,Point Guard,Left,"Los Angeles Clippers, 2nd round (10th pick, 37th overall), 1991 NBA Draft","Treadwell  in  Memphis,        Tennessee",0,/players/p/perryel01.html,Memphis,Tennessee,Treadwell ,Guard
 11.9,2.8,2.2,38.2,10.1,6.0,Point Guard,Right,"Baltimore Bullets, 7th round (1st pick, 68th overall), 1967 NBA Draft",,0,/players/p/perryro01.html,,,,Guard
-6.8,4.0,0.9,48.5,12.4,14.6,Center,Right,"Phoenix Suns, 1st round (7th pick, 7th overall), 1988 NBA Draft","Freehold  in  Freehold,        New Jersey",0,/players/p/perryti01.html,Freehold,New Jersey,Freehold ,Center
+6.8,4.0,0.9,48.5,12.4,14.6,Power Forward,Right,"Phoenix Suns, 1st round (7th pick, 7th overall), 1988 NBA Draft","Freehold  in  Freehold,        New Jersey",0,/players/p/perryti01.html,Freehold,New Jersey,Freehold ,Forward
 14.7,5.1,2.8,45.8,13.7,38.9,Small Forward,Right,"Indiana Pacers, 1st round (4th pick, 4th overall), 1986 NBA Draft","Brantley  in  Brantley,        Alabama",0,/players/p/persoch01.html,Brantley,Alabama,Brantley ,Forward
 11.2,3.3,1.7,45.7,14.1,44.0,Shooting Guard,Right,"Phoenix Suns, 1st round (23rd pick, 23rd overall), 1994 NBA Draft","Brantley  in  Brantley,        Alabama",0,/players/p/persowe01.html,Brantley,Alabama,Brantley ,Guard
 4.1,1.9,0.6,37.8,10.7,0.3,Power Forward,Right,"Phoenix Suns, 2nd round (24th pick, 54th overall), 2017 NBA Draft","Washington  in  Washington,        Illinois",0,/players/p/peteral01.html,Washington,Illinois,Washington ,Forward
@@ -3345,7 +3345,7 @@ ppg,trb,ast,fgp,per,ws,position,shooting_hand,draft,high_school,hof,url,hs_city,
 6.2,3.8,0.3,51.5,16.8,12.0,Small Forward,Right,"Denver Nuggets, 2nd round (19th pick, 49th overall), 2006 NBA Draft","Oakland Technical  in  Oakland,        California",0,/players/p/powele01.html,Oakland,California,Oakland Technical ,Forward
 16.3,7.6,2.2,47.2,16.7,41.1,Small Forward,Right,"St. Louis Hawks, 8th round (5th pick, 66th overall), 1965 NBA Draft","McKinley  in  Baton Rouge,        Louisiana",0,/players/p/powelci01.html,Baton Rouge,Louisiana,McKinley ,Forward
 7.5,4.5,0.9,55.3,18.5,22.4,Power Forward,Right,"Charlotte Hornets, 2nd round (15th pick, 45th overall), 2014 NBA Draft","IMG Academy  in  Bradenton,        Florida",0,/players/p/poweldw01.html,Bradenton,Florida,IMG Academy ,Forward
-3.9,2.9,0.5,43.8,9.2,2.5,Center,Right,,"Riverdale  in  Riverdale,        Georgia",0,/players/p/poweljo01.html,Riverdale,Georgia,Riverdale ,Center
+3.9,2.9,0.5,43.8,9.2,2.5,Power Forward,Right,,"Riverdale  in  Riverdale,        Georgia",0,/players/p/poweljo01.html,Riverdale,Georgia,Riverdale ,Forward
 7.6,4.0,1.6,36.8,9.0,0.0,Small Forward,Right,,"Teaneck  in  Teaneck,        New Jersey",0,/players/p/powelka01.html,Teaneck,New Jersey,Teaneck ,Forward
 7.1,2.1,1.2,44.2,12.4,7.3,Shooting Guard,Right,"Milwaukee Bucks, 2nd round (16th pick, 46th overall), 2015 NBA Draft","Lincoln  in  San Diego,        California",0,/players/p/powelno01.html,San Diego,California,Lincoln ,Guard
 0.7,1.0,0.0,0.0,-8.3,-0.1,Small Forward,Right,,"Joliet  in  Joliet,        Illinois",0,/players/p/powelro01.html,Joliet,Illinois,Joliet ,Forward
@@ -3355,7 +3355,7 @@ ppg,trb,ast,fgp,per,ws,position,shooting_hand,draft,high_school,hof,url,hs_city,
 10.6,3.9,5.1,48.5,15.5,49.0,Shooting Guard,Right,"Milwaukee Bucks, 1st round (20th pick, 20th overall), 1982 NBA Draft","George Wythe  in  Richmond,        Virginia",0,/players/p/presspa01.html,Richmond,Virginia,George Wythe ,Guard
 3.2,1.5,2.9,34.1,9.9,0.8,Point Guard,Right,,"Episcopal School of Dallas  in  Dallas,        Texas",0,/players/p/pressph01.html,Dallas,Texas,Episcopal School of Dallas ,Guard
 1.8,1.2,2.0,29.0,5.3,-0.2,Point Guard,Right,"Seattle SuperSonics, 5th round (6th pick, 99th overall), 1986 NBA Draft","Mackin  in  Washington,        District of Columbia",0,/players/p/pressdo01.html,Washington,District of Columbia,Mackin ,Guard
-9.0,4.5,2.1,43.7,13.8,10.0,Power Forward,Right,"Sacramento Kings, 1st round (17th pick, 17th overall), 1986 NBA Draft","Saint Bernard  in  Uncasville,        Connecticut",0,/players/p/pressha01.html,Uncasville,Connecticut,Saint Bernard ,Forward
+9.0,4.5,2.1,43.7,13.8,10.0,Small Forward,Right,"Sacramento Kings, 1st round (17th pick, 17th overall), 1986 NBA Draft","Saint Bernard  in  Uncasville,        Connecticut",0,/players/p/pressha01.html,Uncasville,Connecticut,Saint Bernard ,Forward
 1.8,0.5,0.8,38.3,6.3,-0.1,Point Guard,Right,"Boston Celtics, 7th round (14th pick, 111th overall), 1972 NBA Draft","Bethel Park  in  Bethel Park,        Pennsylvania",0,/players/p/previst01.html,Bethel Park,Pennsylvania,Bethel Park ,Guard
 5.8,1.4,2.2,38.0,12.2,4.7,Shooting Guard,Right,"Indiana Pacers, 2nd round (22nd pick, 52nd overall), 2009 NBA Draft","Amityville Memorial  in  Amityville,        New York",0,/players/p/priceaj01.html,Amityville,New York,Amityville Memorial ,Guard
 5.9,1.6,3.0,42.6,13.3,12.0,Point Guard,Right,"Washington Bullets, 2nd round (5th pick, 32nd overall), 1992 NBA Draft","Enid  in  Enid,        Oklahoma",0,/players/p/pricebr01.html,Enid,Oklahoma,Enid ,Guard
@@ -3369,8 +3369,8 @@ ppg,trb,ast,fgp,per,ws,position,shooting_hand,draft,high_school,hof,url,hs_city,
 11.1,4.3,2.4,45.5,13.7,63.1,Small Forward,Left,"Detroit Pistons, 1st round (23rd pick, 23rd overall), 2002 NBA Draft","Dominguez  in  Compton,        California",0,/players/p/princta01.html,Compton,California,Dominguez ,Forward
 3.1,-,1.1,31.0,-,-0.2,Center,Right,"St. Louis Bombers, 7th round, 1949 BAA Draft",,0,/players/p/pritcjo01.html,,,,Center
 3.6,1.0,1.6,39.9,8.2,0.4,Point Guard,Right,"Golden State Warriors, 2nd round (7th pick, 34th overall), 1990 NBA Draft","Thomas Edison  in  Tulsa,        Oklahoma",0,/players/p/pritcke01.html,Tulsa,Oklahoma,Thomas Edison ,Guard
-3.3,1.5,1.2,41.9,10.6,0.7,Point Guard,Right,"Orlando Magic, 2nd round (9th pick, 38th overall), 1999 NBA Draft","Caesar Rodney  in  Dover,        Delaware",0,/players/p/profila01.html,Dover,Delaware,Caesar Rodney ,Guard
-2.0,0.8,0.8,32.1,7.7,0.4,Point Guard,Right,"Boston Celtics, 2nd round (2nd pick, 32nd overall), 2007 NBA Draft","Westchester  in  Los Angeles,        California",0,/players/p/pruitga01.html,Los Angeles,California,Westchester ,Guard
+3.3,1.5,1.2,41.9,10.6,0.7,Shooting Guard,Right,"Orlando Magic, 2nd round (9th pick, 38th overall), 1999 NBA Draft","Caesar Rodney  in  Dover,        Delaware",0,/players/p/profila01.html,Dover,Delaware,Caesar Rodney ,Guard
+2.0,0.8,0.8,32.1,7.7,0.4,Shooting Guard,Right,"Boston Celtics, 2nd round (2nd pick, 32nd overall), 2007 NBA Draft","Westchester  in  Los Angeles,        California",0,/players/p/pruitga01.html,Los Angeles,California,Westchester ,Guard
 3.9,6.2,0.4,55.2,12.0,23.0,Center,Right,"Houston Rockets, 1st round (9th pick, 9th overall), 2000 NBA Draft","Monticello  in  Monticello,        Minnesota",0,/players/p/przybjo01.html,Monticello,Minnesota,Monticello ,Center
 6.1,-,0.6,28.5,-,0.6,Center,Right,,,0,/players/p/pughle01.html,,,,Center
 1.4,-,0.4,25.5,-,-0.2,Center,Right,"Philadelphia Warriors, 1948 BAA Draft",,0,/players/p/pughro01.html,,,,Center
@@ -3514,7 +3514,7 @@ ppg,trb,ast,fgp,per,ws,position,shooting_hand,draft,high_school,hof,url,hs_city,
 6.6,1.3,2.3,41.1,13.0,7.4,Point Guard,Right,,"Saint John's  in  Toledo,        Ohio",0,/players/r/roberbr01.html,Toledo,Ohio,Saint John's ,Guard
 7.3,2.8,1.2,50.2,12.6,26.2,Power Forward,Right,"Milwaukee Bucks, 2nd round (4th pick, 27th overall), 1982 NBA Draft","Bingham  in  South Jordan,        Utah",0,/players/r/roberfr01.html,South Jordan,Utah,Bingham ,Forward
 5.8,4.9,0.6,38.1,9.6,2.4,Power Forward,Right,"Syracuse Nationals, 3rd round (5th pick, 21st overall), 1960 NBA Draft","East  in  Columbus,        Ohio",0,/players/r/roberjo01.html,Columbus,Ohio,East ,Forward
-3.8,3.6,0.4,45.2,13.5,2.5,Power Forward,Right,"Seattle SuperSonics, 2nd round (25th pick, 55th overall), 2005 NBA Draft","Lamar  in  Houston,        Texas",0,/players/r/roberla01.html,Houston,Texas,Lamar ,Forward
+3.8,3.6,0.4,45.2,13.5,2.5,Center,Right,"Seattle SuperSonics, 2nd round (25th pick, 55th overall), 2005 NBA Draft","Lamar  in  Houston,        Texas",0,/players/r/roberla01.html,Houston,Texas,Lamar ,Center
 8.3,3.9,1.3,43.3,12.3,11.4,Power Forward,Right,"Detroit Pistons, 3rd round (10th pick, 45th overall), 1971 NBA Draft","Wingate  in  Brooklyn,        New York",0,/players/r/roberma01.html,Brooklyn,New York,Wingate ,Forward
 8.5,5.2,0.6,49.9,13.6,8.1,Center,Right,"Orlando Magic, 1st round (23rd pick, 23rd overall), 1991 NBA Draft","Lower Richland  in  Hopkins,        South Carolina",0,/players/r/roberst01.html,Hopkins,South Carolina,Lower Richland ,Center
 14.0,5.2,5.0,47.7,17.0,52.1,Shooting Guard,Right,"San Antonio Spurs, 1st round (7th pick, 7th overall), 1984 NBA Draft","Barberton  in  Barberton,        Ohio",0,/players/r/roberal01.html,Barberton,Ohio,Barberton ,Guard
@@ -3582,7 +3582,7 @@ ppg,trb,ast,fgp,per,ws,position,shooting_hand,draft,high_school,hof,url,hs_city,
 4.2,1.8,0.4,32.7,12.4,-0.7,Small Forward,Right,"Philadelphia Warriors, 1st round (6th pick, 6th overall), 1957 NBA Draft","Staunton Military Academy  in  Staunton,        Virginia",0,/players/r/rosenle01.html,Staunton,Virginia,Staunton Military Academy ,Forward
 6.4,-,0.6,30.5,-,4.6,Small Forward,Right,,"Boys  in  Brooklyn,        New York",0,/players/r/rosenha01.html,Brooklyn,New York,Boys ,Forward
 6.8,4.1,2.0,36.2,12.9,1.9,Small Forward,Right,"Fort Wayne Pistons, 1st round (4th pick, 4th overall), 1954 NBA Draft","McBride  in  St. Louis,        Missouri",0,/players/r/rosendi01.html,St. Louis,Missouri,McBride ,Forward
-4.1,2.1,0.9,41.9,7.8,7.7,Shooting Guard,Right,,"Justin F. Kimball  in  Dallas,        Texas",0,/players/r/rossqu01.html,Dallas,Texas,Justin F. Kimball ,Guard
+4.1,2.1,0.9,41.9,7.8,7.7,Small Forward,Right,,"Justin F. Kimball  in  Dallas,        Texas",0,/players/r/rossqu01.html,Dallas,Texas,Justin F. Kimball ,Forward
 10.5,2.8,1.1,42.3,12.6,19.2,Shooting Guard,Right,"Toronto Raptors, 1st round (8th pick, 8th overall), 2012 NBA Draft","Jefferson  in  Portland,        Oregon",0,/players/r/rosste01.html,Portland,Oregon,Jefferson ,Guard
 1.9,2.9,0.5,43.0,8.2,0.4,Center,Right,"Washington Bullets, 2nd round (14th pick, 41st overall), 1989 NBA Draft","Karns  in  Knoxville,        Tennessee",0,/players/r/rothdo01.html,Knoxville,Tennessee,Karns ,Center
 4.7,1.3,1.2,37.5,10.3,1.1,Small Forward,Left,"San Antonio Spurs, 4th round (12th pick, 82nd overall), 1985 NBA Draft","Brecksville  in  Brecksville,        Ohio",0,/players/r/rothsc01.html,Brecksville,Ohio,Brecksville ,Forward
@@ -3646,7 +3646,7 @@ ppg,trb,ast,fgp,per,ws,position,shooting_hand,draft,high_school,hof,url,hs_city,
 0.5,0.6,1.3,27.3,12.3,0.4,Point Guard,Left,,"EEM No. 3  in  Bahia Blanca,      Argentina  ",0,/players/s/sanchpe01.html,Bahia Blanca,Argentina,EEM No. 3 ,Guard
 2.0,1.3,0.0,100.0,6.6,0.1,Power Forward,Right,"Baltimore Bullets, 4th round (9th pick, 56th overall), 1972 NBA Draft","Baton Rouge  in  Baton Rouge,        Louisiana",0,/players/s/sandeal01.html,Baton Rouge,Louisiana,Baton Rouge ,Forward
 5.1,1.9,1.0,43.0,13.6,0.5,Small Forward,Right,"San Antonio Spurs, 1st round (20th pick, 20th overall), 1978 NBA Draft","Stivers  in  Dayton,        Ohio",0,/players/s/sandefr01.html,Dayton,Ohio,Stivers ,Forward
-2.0,1.9,0.5,39.5,7.1,-0.1,Power Forward,Right,"Chicago Bulls, 1st round (20th pick, 20th overall), 1989 NBA Draft","T.W. Josey  in  Augusta,        Georgia",0,/players/s/sandeje01.html,Augusta,Georgia,T.W. Josey ,Forward
+2.0,1.9,0.5,39.5,7.1,-0.1,Small Forward,Right,"Chicago Bulls, 1st round (20th pick, 20th overall), 1989 NBA Draft","T.W. Josey  in  Augusta,        Georgia",0,/players/s/sandeje01.html,Augusta,Georgia,T.W. Josey ,Forward
 6.4,5.7,0.7,48.0,15.4,10.3,Center,Right,"Milwaukee Bucks, 1st round (15th pick, 15th overall), 2010 NBA Draft","Port St. Lucie  in  Port St. Lucie,        Florida",0,/players/s/sandela01.html,Port St. Lucie,Florida,Port St. Lucie ,Center
 2.6,1.4,0.2,48.5,10.5,0.2,Shooting Guard,Right,,"Liberal  in  Liberal,        Kansas",0,/players/s/sandeme01.html,Liberal,Kansas,Liberal ,Guard
 8.0,3.0,1.4,48.2,11.9,17.9,Small Forward,Right,"Kansas City Kings, 4th round (5th pick, 74th overall), 1982 NBA Draft","DeRidder  in  DeRidder,        Louisiana",0,/players/s/sandemi01.html,DeRidder,Louisiana,DeRidder ,Forward
@@ -3719,7 +3719,7 @@ ppg,trb,ast,fgp,per,ws,position,shooting_hand,draft,high_school,hof,url,hs_city,
 1.5,0.0,0.3,33.3,5.6,0.0,Small Forward,Right,"New Orleans Jazz, 5th round (10th pick, 82nd overall), 1974 NBA Draft","Power Memorial  in  New York,        New York",0,/players/s/searced01.html,New York,New York,Power Memorial ,Forward
 13.9,7.8,1.6,45.5,18.4,55.8,Power Forward,Right,"Rochester Royals, 1953 NBA Draft, and New York Knicks, 1st round (4th pick, 4th overall), 1955 NBA Draft","Watsonville Union  in  Watsonville,        California",0,/players/s/searske01.html,Watsonville,California,Watsonville Union ,Forward
 5.2,-,2.3,37.3,-,1.6,Point Guard,Right,,,0,/players/s/seewa01.html,,,,Guard
-5.9,3.8,1.4,45.0,11.5,38.6,Shooting Guard,Right,"Philadelphia 76ers, 1st round (13th pick, 13th overall), 2006 NBA Draft",,0,/players/s/sefolth01.html,,,,Guard
+5.9,3.8,1.4,45.0,11.5,38.6,Small Forward,Right,"Philadelphia 76ers, 1st round (13th pick, 13th overall), 2006 NBA Draft",,0,/players/s/sefolth01.html,,,,Forward
 14.7,9.5,1.3,48.4,15.7,37.3,Center,Right,"Miami Heat, 1st round (9th pick, 9th overall), 1988 NBA Draft","American School  in  Athens,      Greece  ",0,/players/s/seikaro01.html,Athens,Greece,American School ,Center
 3.2,-,1.8,19.6,-,-0.2,Point Guard,Right,"Toronto Huskies, 1st round (2nd pick, 2nd overall), 1947 BAA Draft",,0,/players/s/selbogl01.html,,,,Guard
 2.2,0.5,0.9,33.0,2.7,-0.7,Point Guard,Right,"Memphis Grizzlies, 2nd round (19th pick, 49th overall), 2011 NBA Draft","Lake Clifton  in  Baltimore,        Maryland",0,/players/s/selbyjo01.html,Baltimore,Maryland,Lake Clifton ,Guard
@@ -3813,14 +3813,14 @@ ppg,trb,ast,fgp,per,ws,position,shooting_hand,draft,high_school,hof,url,hs_city,
 6.5,2.9,0.8,41.8,9.5,10.0,Small Forward,Right,"Detroit Pistons, 2nd round (3rd pick, 33rd overall), 2011 NBA Draft","South Medford  in  Medford,        Oregon",0,/players/s/singlky01.html,Medford,Oregon,South Medford ,Forward
 2.4,0.9,0.8,36.5,6.7,0.0,Point Guard,Right,"Sacramento Kings, 2nd round (12th pick, 42nd overall), 2008 NBA Draft","William Penn Charter School  in  Philadelphia,        Pennsylvania",0,/players/s/singlse01.html,Philadelphia,Pennsylvania,William Penn Charter School ,Guard
 4.1,3.2,0.6,37.6,8.2,2.3,Power Forward,Right,"Washington Wizards, 1st round (18th pick, 18th overall), 2011 NBA Draft","Dunwoody  in  Dunwoody,        Georgia",0,/players/s/singlch01.html,Dunwoody,Georgia,Dunwoody ,Forward
-3.9,3.7,0.4,46.2,14.0,8.1,Power Forward,Right,,"Hirsch Metro  in  Chicago,        Illinois",0,/players/s/singlja01.html,Chicago,Illinois,Hirsch Metro ,Forward
+3.9,3.7,0.4,46.2,14.0,8.1,Small Forward,Right,,"Hirsch Metro  in  Chicago,        Illinois",0,/players/s/singlja01.html,Chicago,Illinois,Hirsch Metro ,Forward
 2.0,0.0,0.5,66.7,13.3,0.0,Point Guard,Right,"Milwaukee Bucks, 6th round (4th pick, 120th overall), 1984 NBA Draft","Booker T. Washington  in  Memphis,        Tennessee",0,/players/s/singlmc01.html,Memphis,Tennessee,Booker T. Washington ,Guard
 1.1,0.2,0.3,25.0,-3.4,-0.2,Point Guard,Right,"Fort Wayne Pistons, 1st round (4th pick, 4th overall), 1951 NBA Draft","Benjamin Franklin  in  New York,        New York",0,/players/s/sinicze01.html,New York,New York,Benjamin Franklin ,Guard
 2.1,1.4,0.6,41.5,8.0,0.1,Small Forward,Right,"Dallas Mavericks, 2nd round (14th pick, 38th overall), 1984 NBA Draft","McMinnville  in  McMinnville,        Oregon",0,/players/s/sittoch01.html,McMinnville,Oregon,McMinnville ,Forward
 2.3,0.6,1.4,31.6,5.7,-0.2,Shooting Guard,Right,"Detroit Pistons, 2nd round (26th pick, 56th overall), 2013 NBA Draft","Franklin  in  Seattle,        Washington",0,/players/s/sivape01.html,Seattle,Washington,Franklin ,Guard
 11.1,2.5,6.5,43.5,14.4,30.4,Point Guard,Right,"Milwaukee Bucks, 1st round (22nd pick, 22nd overall), 1986 NBA Draft","Plymouth  in  Plymouth,        Indiana",0,/players/s/skilesc01.html,Plymouth,Indiana,Plymouth ,Guard
 9.1,3.3,2.8,45.2,13.8,13.2,Shooting Guard,Left,"Boston Celtics, 9th round (16th pick, 160th overall), 1974 NBA Draft","Malverne  in  Malverne,        New York",0,/players/s/skinnal01.html,Malverne,New York,Malverne ,Guard
-4.7,4.7,0.5,49.4,12.0,15.8,Center,Right,"Los Angeles Clippers, 1st round (22nd pick, 22nd overall), 1998 NBA Draft","Temple  in  Temple,        Texas",0,/players/s/skinnbr01.html,Temple,Texas,Temple ,Center
+4.7,4.7,0.5,49.4,12.0,15.8,Power Forward,Right,"Los Angeles Clippers, 1st round (22nd pick, 22nd overall), 1998 NBA Draft","Temple  in  Temple,        Texas",0,/players/s/skinnbr01.html,Temple,Texas,Temple ,Forward
 4.6,4.2,1.0,43.4,9.5,3.4,Small Forward,Right,"Seattle SuperSonics, 3rd round (8th pick, 44th overall), 1974 NBA Draft","Worcester  in  Newark,        Maryland",0,/players/s/skinnta01.html,Newark,Maryland,Worcester ,Forward
 8.2,3.3,2.6,38.8,10.9,14.3,Shooting Guard,Right,"Minneapolis Lakers, 1951 NBA Draft (territorial selection)","Brainerd  in  Brainerd,        Minnesota",0,/players/s/skoogwh01.html,Brainerd,Minnesota,Brainerd ,Guard
 1.3,2.3,0.0,40.0,5.8,0.0,Small Forward,Right,"Chicago Zephyrs, 11th round (1st pick, 85th overall), 1962 NBA Draft",,0,/players/s/sladeje01.html,,,,Forward
@@ -3863,7 +3863,7 @@ ppg,trb,ast,fgp,per,ws,position,shooting_hand,draft,high_school,hof,url,hs_city,
 7.4,2.4,3.8,42.7,13.5,11.0,Point Guard,Right,,"Central Cabarrus  in  Concord,        North Carolina",0,/players/s/smithis01.html,Concord,North Carolina,Central Cabarrus ,Guard
 12.5,3.2,2.1,41.9,14.0,46.4,Small Forward,Right,"New Orleans Hornets, 1st round (18th pick, 18th overall), 2004 NBA Draft","Saint Benedict's Preparatory School  in  Newark,        New Jersey",0,/players/s/smithjr01.html,Newark,New Jersey,Saint Benedict's Preparatory School ,Forward
 3.0,1.6,0.6,41.3,9.7,1.3,Center,Right,"Sacramento Kings, 2nd round (16th pick, 45th overall), 2000 NBA Draft","Booker T. Washington  in  Atlanta,        Georgia",0,/players/s/smithja01.html,Atlanta,Georgia,Booker T. Washington ,Center
-6.1,3.4,0.7,46.8,12.9,14.1,Center,Right,"Miami Heat, 1st round (20th pick, 20th overall), 2007 NBA Draft","Platte Valley  in  Kersey,        Colorado",0,/players/s/smithja02.html,Kersey,Colorado,Platte Valley ,Center
+6.1,3.4,0.7,46.8,12.9,14.1,Power Forward,Right,"Miami Heat, 1st round (20th pick, 20th overall), 2007 NBA Draft","Platte Valley  in  Kersey,        Colorado",0,/players/s/smithja02.html,Kersey,Colorado,Platte Valley ,Forward
 1.4,1.4,0.8,21.4,7.8,0.0,Point Guard,Right,,"East  in  Wauwatosa,        Wisconsin",0,/players/s/smithje01.html,Wauwatosa,Wisconsin,East ,Guard
 2.9,2.5,0.6,51.4,9.3,0.7,Power Forward,Right,"San Diego Clippers, 3rd round (8th pick, 54th overall), 1981 NBA Draft","East Technical  in  Cleveland,        Ohio",0,/players/s/smithji01.html,Cleveland,Ohio,East Technical ,Forward
 10.9,6.4,1.0,45.5,15.4,60.3,Small Forward,Right,"Golden State Warriors, 1st round (1st pick, 1st overall), 1995 NBA Draft","Maury  in  Norfolk,        Virginia",0,/players/s/smithjo02.html,Norfolk,Virginia,Maury ,Forward
@@ -3908,7 +3908,7 @@ ppg,trb,ast,fgp,per,ws,position,shooting_hand,draft,high_school,hof,url,hs_city,
 8.4,4.1,1.8,37.9,14.1,7.2,Point Guard,Right,"Fort Wayne Pistons, 1st round (6th pick, 6th overall), 1956 NBA Draft","Saint Bonaventure Academy  in  Sturtevant,        Wisconsin",0,/players/s/sobiero01.html,Sturtevant,Wisconsin,Saint Bonaventure Academy ,Guard
 8.7,6.5,0.9,48.0,13.7,8.2,Center,Right,"Atlanta Hawks, 1st round (10th pick, 10th overall), 1974 NBA Draft","Germantown  in  Philadelphia,        Pennsylvania",0,/players/s/sojoumi01.html,Philadelphia,Pennsylvania,Germantown ,Center
 6.0,4.8,0.7,48.6,13.7,10.8,Center,Right,"Chicago Bulls, 2nd round (3rd pick, 20th overall), 1971 NBA Draft","Germantown  in  Philadelphia,        Pennsylvania",0,/players/s/sojouwi01.html,Philadelphia,Pennsylvania,Germantown ,Center
-5.1,1.1,2.0,37.8,10.5,0.0,Shooting Guard,Right,"Memphis Grizzlies, 2nd round (4th pick, 33rd overall), 2001 NBA Draft","East Hartford  in  East Hartford,        Connecticut",0,/players/s/solomwi01.html,East Hartford,Connecticut,East Hartford ,Guard
+5.1,1.1,2.0,37.8,10.5,0.0,Point Guard,Right,"Memphis Grizzlies, 2nd round (4th pick, 33rd overall), 2001 NBA Draft","East Hartford  in  East Hartford,        Connecticut",0,/players/s/solomwi01.html,East Hartford,Connecticut,East Hartford ,Guard
 21.9,4.6,3.6,42.5,18.0,14.8,Point Guard,Right,"Baltimore Bullets, 7th round (3rd pick, 56th overall), 1965 NBA Draft","Farrell  in  Farrell,        Pennsylvania",0,/players/s/somerwi01.html,Farrell,Pennsylvania,Farrell ,Guard
 6.9,3.4,1.2,49.9,13.3,15.9,Center,Right,"Boston Celtics, 2nd round (21st pick, 50th overall), 2002 NBA Draft","New Hampton School  in  New Hampton,        New Hampshire",0,/players/s/songada01.html,New Hampton,New Hampshire,New Hampton School ,Center
 8.1,4.7,1.3,44.2,14.5,5.4,Power Forward,Right,"Cleveland Cavaliers, 2nd round (9th pick, 26th overall), 1970 NBA Draft","Findlay  in  Findlay,        Ohio",0,/players/s/sorenda01.html,Findlay,Ohio,Findlay ,Forward
@@ -3935,7 +3935,7 @@ ppg,trb,ast,fgp,per,ws,position,shooting_hand,draft,high_school,hof,url,hs_city,
 7.2,4.6,1.0,39.1,11.9,8.6,Center,Right,"Rochester Royals, 4th round (7th pick, 34th overall), 1954 NBA Draft","Godwin Heights  in  Grand Rapids,        Michigan",0,/players/s/spoelar01.html,Grand Rapids,Michigan,Godwin Heights ,Center
 12.2,4.7,0.9,44.6,18.0,4.3,Small Forward,Right,"Philadelphia Warriors, 5th round (6th pick, 47th overall), 1961 NBA Draft",,0,/players/s/spragbr01.html,,,,Forward
 18.3,4.1,4.0,42.5,15.1,56.3,Shooting Guard,Right,"Golden State Warriors, 1st round (24th pick, 24th overall), 1992 NBA Draft","Washington  in  Milwaukee,        Wisconsin",0,/players/s/sprewla01.html,Milwaukee,Wisconsin,Washington ,Guard
-5.2,2.3,1.3,51.7,11.3,3.4,Power Forward,Right,"Houston Rockets, 4th round (12th pick, 81st overall), 1981 NBA Draft","Northwestern  in  North Brentwood,        Maryland",0,/players/s/sprigla01.html,North Brentwood,Maryland,Northwestern ,Forward
+5.2,2.3,1.3,51.7,11.3,3.4,Small Forward,Right,"Houston Rockets, 4th round (12th pick, 81st overall), 1981 NBA Draft","Northwestern  in  North Brentwood,        Maryland",0,/players/s/sprigla01.html,North Brentwood,Maryland,Northwestern ,Forward
 0.5,-,0.0,-,-,0.0,Center,Right,,,0,/players/s/sprinji01.html,,,,Center
 2.0,-,0.0,33.3,-,0.0,Point Guard,Right,,"Dublin  in  Dublin,        Texas",0,/players/s/spruiji01.html,Dublin,Texas,Dublin ,Guard
 2.3,1.8,0.2,35.2,7.2,0.2,Power Forward,Right,"Cleveland Cavaliers, 2nd round (19th pick, 48th overall), 1998 NBA Draft","Cheatham County  in  Chapmansboro,        Tennessee",0,/players/s/stackry01.html,Chapmansboro,Tennessee,Cheatham County ,Forward
@@ -3973,7 +3973,7 @@ ppg,trb,ast,fgp,per,ws,position,shooting_hand,draft,high_school,hof,url,hs_city,
 10.1,3.4,2.0,42.4,12.8,29.5,Shooting Guard,Right,"Denver Nuggets, 1st round (13th pick, 13th overall), 1992 NBA Draft","Brunswick  in  Lawrenceville,        Virginia",0,/players/s/stithbr01.html,Lawrenceville,Virginia,Brunswick ,Guard
 4.4,1.6,1.9,36.4,7.9,-0.1,Shooting Guard,Right,"Cincinnati Royals, 8th round (1st pick, 56th overall), 1960 NBA Draft","Saint Francis Preparatory School  in  Brooklyn,        New York",0,/players/s/stithsa01.html,Brooklyn,New York,Saint Francis Preparatory School ,Guard
 3.1,1.6,0.7,33.6,6.5,-0.6,Small Forward,Right,"New York Knicks, 1st round (2nd pick, 2nd overall), 1961 NBA Draft","Saint Francis Preparatory School  in  Brooklyn,        New York",0,/players/s/stithto01.html,Brooklyn,New York,Saint Francis Preparatory School ,Forward
-2.0,1.0,0.2,46.5,10.5,-0.1,Small Forward,Right,"Seattle SuperSonics, 4th round (5th pick, 75th overall), 1985 NBA Draft","East  in  Lincoln,        Nebraska",0,/players/s/stivral01.html,Lincoln,Nebraska,East ,Forward
+2.0,1.0,0.2,46.5,10.5,-0.1,Power Forward,Right,"Seattle SuperSonics, 4th round (5th pick, 75th overall), 1985 NBA Draft","East  in  Lincoln,        Nebraska",0,/players/s/stivral01.html,Lincoln,Nebraska,East ,Forward
 3.0,0.3,1.5,44.4,15.7,0.1,Point Guard,Right,,"Gonzaga Prep  in  Spokane,        Washington",0,/players/s/stockda01.html,Spokane,Washington,Gonzaga Prep ,Guard
 13.1,2.7,10.5,51.5,21.8,207.7,Point Guard,Right,"Utah Jazz, 1st round (16th pick, 16th overall), 1984 NBA Draft","Gonzaga Preparatory School  in  Spokane,        Washington",1,/players/s/stockjo01.html,Spokane,Washington,Gonzaga Preparatory School ,Guard
 17.0,4.7,1.8,45.0,17.1,82.6,Small Forward,Right,"Sacramento Kings, 1st round (14th pick, 14th overall), 1996 NBA Draft",,0,/players/s/stojape01.html,,,,Forward
@@ -3985,11 +3985,11 @@ ppg,trb,ast,fgp,per,ws,position,shooting_hand,draft,high_school,hof,url,hs_city,
 5.7,3.6,0.5,47.8,9.9,0.3,Power Forward,Right,,"Bellevue  in  Seattle,        Washington",0,/players/s/stollra01.html,Seattle,Washington,Bellevue ,Forward
 1.4,0.9,0.0,23.1,-1.2,-0.1,Center,Right,"New Orleans Pelicans, 2nd round (10th pick, 40th overall), 2016 NBA Draft","Dominican  in  Whitefish Bay,        Wisconsin",0,/players/s/stonedi01.html,Whitefish Bay,Wisconsin,Dominican ,Center
 13.6,5.7,1.3,44.4,15.7,13.9,Small Forward,Right,"Los Angeles Lakers, 9th round (9th pick, 115th overall), 1968 NBA Draft","William Grant  in  Covington,        Kentucky",0,/players/s/stonege01.html,Covington,Kentucky,William Grant ,Forward
-1.1,1.1,1.1,44.4,9.5,0.9,Shooting Guard,Right,,"Dos Pueblos  in  Goleta,        California",0,/players/s/stoneju01.html,Goleta,California,Dos Pueblos ,Guard
+1.1,1.1,1.1,44.4,9.5,0.9,Point Guard,Right,,"Dos Pueblos  in  Goleta,        California",0,/players/s/stoneju01.html,Goleta,California,Dos Pueblos ,Guard
 2.4,1.4,0.4,41.4,10.5,0.3,Shooting Guard,Right,,"Proviso West  in  Hillside,        Illinois",0,/players/s/storeaw01.html,Hillside,Illinois,Proviso West ,Guard
 13.4,3.5,6.1,40.6,15.4,55.4,Point Guard,Left,"Toronto Raptors, 1st round (7th pick, 7th overall), 1995 NBA Draft","Woodrow Wilson  in  Portland,        Oregon",0,/players/s/stoudda01.html,Portland,Oregon,Woodrow Wilson ,Guard
 8.0,1.4,1.0,40.7,11.8,2.2,Shooting Guard,Left,"Atlanta Hawks, 2nd round (1st pick, 31st overall), 2005 NBA Draft","Lake Oswego  in  Lake Oswego,        Oregon",0,/players/s/stoudsa01.html,Lake Oswego,Oregon,Lake Oswego ,Guard
-18.9,7.8,1.2,53.7,21.8,92.5,Power Forward,Right,"Phoenix Suns, 1st round (9th pick, 9th overall), 2002 NBA Draft","Cypress Creek  in  Orlando,        Florida",0,/players/s/stoudam01.html,Orlando,Florida,Cypress Creek ,Forward
+18.9,7.8,1.2,53.7,21.8,92.5,Center,Right,"Phoenix Suns, 1st round (9th pick, 9th overall), 2002 NBA Draft","Cypress Creek  in  Orlando,        Florida",0,/players/s/stoudam01.html,Orlando,Florida,Cypress Creek ,Center
 4.6,3.1,0.7,41.6,12.1,0.2,Small Forward,Right,"Los Angeles Lakers, 2nd round (9th pick, 22nd overall), 1972 NBA Draft",,0,/players/s/stovapa01.html,,,,Forward
 2.2,0.8,0.9,31.5,6.2,-0.2,Shooting Guard,Right,"Phoenix Suns, 2nd round (29th pick, 59th overall), 2007 NBA Draft","Mater Dei  in  Corona,        California",0,/players/s/strawdj01.html,Corona,California,Mater Dei ,Guard
 8.6,9.9,1.1,42.6,11.3,10.8,Center,Right,"Boston Celtics, 4th round (9th pick, 34th overall), 1964 NBA Draft",,0,/players/s/strawjo01.html,,,,Center
@@ -4116,11 +4116,11 @@ ppg,trb,ast,fgp,per,ws,position,shooting_hand,draft,high_school,hof,url,hs_city,
 4.5,0.9,1.7,40.9,13.4,2.0,Point Guard,Left,"Orlando Magic, 1st round (27th pick, 27th overall), 1994 NBA Draft","Littleton  in  Littleton,        Colorado",0,/players/t/thompbr01.html,Littleton,Colorado,Littleton ,Guard
 2.8,2.7,0.8,31.4,6.0,-0.1,Power Forward,Right,"Dallas Mavericks, 3rd round (4th pick, 50th overall), 1982 NBA Draft","Middletown  in  Middletown,        Connecticut",0,/players/t/thompco01.html,Middletown,Connecticut,Middletown ,Forward
 22.7,4.1,3.3,50.5,19.9,63.3,Shooting Guard,Right,"Atlanta Hawks, 1st round (1st pick, 1st overall), 1975 NBA Draft","Crest  in  Shelby,        North Carolina",1,/players/t/thompda01.html,Shelby,North Carolina,Crest ,Guard
-2.8,1.2,0.2,42.5,16.4,0.2,Small Forward,Right,"New York Knicks, 2nd round (24th pick, 54th overall), 2005 NBA Draft","Redondo Union  in  Redondo Beach,        California",0,/players/t/thompdi01.html,Redondo Beach,California,Redondo Union ,Forward
+2.8,1.2,0.2,42.5,16.4,0.2,Shooting Guard,Right,"New York Knicks, 2nd round (24th pick, 54th overall), 2005 NBA Draft","Redondo Union  in  Redondo Beach,        California",0,/players/t/thompdi01.html,Redondo Beach,California,Redondo Union ,Guard
 18.6,3.3,3.6,46.5,17.4,30.9,Point Guard,Right,"Boston Celtics, 5th round (9th pick, 66th overall), 1969 NBA Draft","Erasmus Hall  in  Brooklyn,        New York",0,/players/t/thompge01.html,Brooklyn,New York,Erasmus Hall ,Guard
 7.7,3.1,1.1,41.3,9.6,6.5,Shooting Guard,Right,,"Loyola  in  Los Angeles,        California",0,/players/t/thompho01.html,Los Angeles,California,Loyola ,Guard
 1.0,0.5,1.0,33.3,5.0,0.0,Point Guard,Right,"Baltimore Bullets, 3rd round (11th pick, 33rd overall), 1968 NBA Draft",,0,/players/t/thompja01.html,,,,Guard
-8.9,6.6,1.1,49.6,13.5,23.8,Power Forward,Right,"Sacramento Kings, 1st round (12th pick, 12th overall), 2008 NBA Draft","Lenape  in  Medford,        New Jersey",0,/players/t/thompja02.html,Medford,New Jersey,Lenape ,Forward
+8.9,6.6,1.1,49.6,13.5,23.8,Center,Right,"Sacramento Kings, 1st round (12th pick, 12th overall), 2008 NBA Draft","Lenape  in  Medford,        New Jersey",0,/players/t/thompja02.html,Medford,New Jersey,Lenape ,Center
 3.5,3.5,0.3,41.0,10.2,2.1,Center,Right,"Boston Celtics, 3rd round (9th pick, 25th overall), 1964 NBA Draft","Archbishop Carroll  in  Washington,        District of Columbia",0,/players/t/thompjo01.html,Washington,District of Columbia,Archbishop Carroll ,Center
 0.9,0.9,0.2,42.9,4.9,0.0,Center,Right,"Portland Trail Blazers, 2nd round (21st pick, 48th overall), 1993 NBA Draft","Glenn  in  Winston-Salem,        North Carolina",0,/players/t/thompke01.html,Winston-Salem,North Carolina,Glenn ,Center
 19.5,3.5,2.3,45.9,16.4,46.8,Shooting Guard,Right,"Golden State Warriors, 1st round (11th pick, 11th overall), 2011 NBA Draft","Santa Margarita Catholic  in  Rancho Santa Margarita,        California",0,/players/t/thompkl01.html,Rancho Santa Margarita,California,Santa Margarita Catholic ,Guard
@@ -4151,7 +4151,7 @@ ppg,trb,ast,fgp,per,ws,position,shooting_hand,draft,high_school,hof,url,hs_city,
 1.0,1.5,0.5,25.0,-0.1,0.0,Center,Right,,"Blair Academy  in  Blairstown,        New Jersey",0,/players/t/tobeymi01.html,Blairstown,New Jersey,Blair Academy ,Center
 11.0,6.9,2.9,30.9,-,5.3,Power Forward,Right,,"Soldan  in  St. Louis,        Missouri",0,/players/t/todormi01.html,St. Louis,Missouri,Soldan ,Forward
 3.6,2.3,0.5,49.5,9.8,2.9,Power Forward,Right,"New Jersey Nets, 1st round (18th pick, 18th overall), 1981 NBA Draft","Madison Heights  in  Anderson,        Indiana",0,/players/t/tolbera01.html,Anderson,Indiana,Madison Heights ,Forward
-6.5,4.0,0.9,46.0,10.5,6.6,Small Forward,Right,"Charlotte Hornets, 2nd round (9th pick, 34th overall), 1988 NBA Draft","Artesia HS  in  Lakewood,        California",0,/players/t/tolbeto01.html,Lakewood,California,Artesia HS ,Forward
+6.5,4.0,0.9,46.0,10.5,6.6,Power Forward,Right,"Charlotte Hornets, 2nd round (9th pick, 34th overall), 1988 NBA Draft","Artesia HS  in  Lakewood,        California",0,/players/t/tolbeto01.html,Lakewood,California,Artesia HS ,Forward
 6.4,3.4,0.9,41.8,11.2,25.4,Small Forward,Right,,"Kickapoo  in  Springfield,        Missouri",0,/players/t/tollian01.html,Springfield,Missouri,Kickapoo ,Forward
 5.0,2.2,0.4,54.6,20.1,2.2,Power Forward,Right,"Seattle SuperSonics, 5th round (8th pick, 80th overall), 1974 NBA Draft","Central  in  Kansas City,        Missouri",0,/players/t/tolsode01.html,Kansas City,Missouri,Central ,Forward
 17.4,8.1,2.0,50.1,16.9,70.4,Power Forward,Right,"San Diego Rockets, 1st round (2nd pick, 2nd overall), 1970 NBA Draft","Hamtramck  in  Hamtramck,        Michigan",0,/players/t/tomjaru01.html,Hamtramck,Michigan,Hamtramck ,Forward
@@ -4193,7 +4193,7 @@ ppg,trb,ast,fgp,per,ws,position,shooting_hand,draft,high_school,hof,url,hs_city,
 4.1,1.0,0.3,42.3,13.0,0.4,Shooting Guard,Right,"Phoenix Suns, 1st round (29th pick, 29th overall), 2007 NBA Draft","Township  in  Lockport,        Illinois",0,/players/t/tuckeal02.html,Lockport,Illinois,Township ,Guard
 3.9,2.7,1.1,45.7,9.2,0.6,Small Forward,Right,,"McKinley  in  Washington,        District of Columbia",0,/players/t/tuckean01.html,Washington,District of Columbia,McKinley ,Forward
 4.1,3.5,0.5,34.9,8.5,1.3,Power Forward,Right,"Syracuse Nationals, 3rd round (6th pick, 24th overall), 1954 NBA Draft",,0,/players/t/tuckeji01.html,,,,Forward
-7.4,5.7,1.4,42.2,10.9,30.0,Small Forward,Right,"Toronto Raptors, 2nd round (5th pick, 35th overall), 2006 NBA Draft","Enloe  in  Raleigh,        North Carolina",0,/players/t/tuckepj01.html,Raleigh,North Carolina,Enloe ,Forward
+7.4,5.7,1.4,42.2,10.9,30.0,Shooting Guard,Right,"Toronto Raptors, 2nd round (5th pick, 35th overall), 2006 NBA Draft","Enloe  in  Raleigh,        North Carolina",0,/players/t/tuckepj01.html,Raleigh,North Carolina,Enloe ,Guard
 8.2,2.0,2.0,46.1,12.9,34.3,Shooting Guard,Right,"New York Knicks, 1st round (6th pick, 6th overall), 1982 NBA Draft","Flint Northwestern  in  Flint,        Michigan",0,/players/t/tucketr01.html,Flint,Michigan,Flint Northwestern ,Guard
 4.7,3.7,1.3,53.3,13.8,19.2,Center,Right,"Los Angeles Lakers, 2nd round (7th pick, 37th overall), 2005 NBA Draft","Institut National du Sport et de l'Education Physique  in  Paris,      France  ",0,/players/t/turiaro01.html,Paris,France,Institut National du Sport et de l'Education Physique ,Center
 1.9,1.9,0.3,36.8,11.1,0.0,Power Forward,Right,"Houston Rockets, 1st round (18th pick, 18th overall), 1998 NBA Draft",,0,/players/t/turkcmi01.html,,,,Forward
@@ -4219,9 +4219,9 @@ ppg,trb,ast,fgp,per,ws,position,shooting_hand,draft,high_school,hof,url,hs_city,
 10.2,5.4,1.2,48.4,14.6,40.8,Power Forward,Right,"Detroit Pistons, 2nd round (1st pick, 23rd overall), 1978 NBA Draft","Northwestern  in  Detroit,        Michigan",0,/players/t/tylerte01.html,Detroit,Michigan,Northwestern ,Forward
 8.9,7.4,0.9,38.7,11.9,5.0,Center,Right,"Detroit Pistons, 1st round (2nd pick, 2nd overall), 1957 NBA Draft","Atherton  in  Louisville,        Kentucky",0,/players/t/tyrach01.html,Louisville,Kentucky,Atherton ,Center
 3.5,2.5,0.3,27.8,7.3,0.0,Small Forward,Right,,"Saint Thomas More  in  Oakdale,        Connecticut",0,/players/u/ubileed01.html,Oakdale,Connecticut,Saint Thomas More ,Forward
-3.5,2.9,0.7,45.3,12.0,10.4,Power Forward,Right,"Golden State Warriors, 1st round (6th pick, 6th overall), 2010 NBA Draft","Sante Fe  in  Edmond,        Oklahoma",0,/players/u/udohek01.html,Edmond,Oklahoma,Sante Fe ,Forward
-5.2,2.9,1.0,41.7,10.8,8.8,Shooting Guard,Right,,"Jefferson  in  Portland,        Oregon",0,/players/u/udokaim01.html,Portland,Oregon,Jefferson ,Guard
-8.4,2.1,3.4,46.3,14.0,31.4,Point Guard,Left,"San Antonio Spurs, 1st round (28th pick, 28th overall), 2004 NBA Draft",,0,/players/u/udrihbe01.html,,,,Guard
+3.5,2.9,0.7,45.3,12.0,10.4,Center,Right,"Golden State Warriors, 1st round (6th pick, 6th overall), 2010 NBA Draft","Sante Fe  in  Edmond,        Oklahoma",0,/players/u/udohek01.html,Edmond,Oklahoma,Sante Fe ,Center
+5.2,2.9,1.0,41.7,10.8,8.8,Power Forward,Right,,"Jefferson  in  Portland,        Oregon",0,/players/u/udokaim01.html,Portland,Oregon,Jefferson ,Forward
+8.4,2.1,3.4,46.3,14.0,31.4,Shooting Guard,Left,"San Antonio Spurs, 1st round (28th pick, 28th overall), 2004 NBA Draft",,0,/players/u/udrihbe01.html,,,,Guard
 4.0,0.9,1.9,38.7,10.0,-0.2,Point Guard,Right,"Toronto Raptors, 2nd round (11th pick, 41st overall), 2005 NBA Draft",,0,/players/u/ukicro01.html,,,,Guard
 7.5,1.7,4.0,40.3,11.3,0.5,Point Guard,Right,"Phoenix Suns, 2nd round (4th pick, 34th overall), 2016 NBA Draft","Marian Catholic  in  Chicago Heights,        Illinois",0,/players/u/ulisty01.html,Chicago Heights,Illinois,Marian Catholic ,Guard
 10.8,14.0,3.9,50.9,16.0,110.1,Center,Right,"Baltimore Bullets, 1st round (2nd pick, 2nd overall), 1968 NBA Draft","Seneca  in  Louisville,        Kentucky",1,/players/u/unselwe01.html,Louisville,Kentucky,Seneca ,Center
@@ -4252,7 +4252,7 @@ ppg,trb,ast,fgp,per,ws,position,shooting_hand,draft,high_school,hof,url,hs_city,
 5.5,1.7,3.0,41.8,10.9,0.0,Point Guard,Right,,"Montgomery Blair  in  Silver Spring,        Maryland",0,/players/v/vanteda01.html,Silver Spring,Maryland,Montgomery Blair ,Guard
 8.3,2.2,3.3,41.2,14.4,9.2,Point Guard,Right,,"Auburn  in  Rockford,        Illinois",0,/players/v/vanvlfr01.html,Rockford,Illinois,Auburn ,Guard
 5.0,1.0,0.0,66.7,15.0,0.0,Center,Right,,,0,/players/v/vardara01.html,,,,Center
-7.3,7.2,1.2,51.0,15.6,46.4,Center,Right,"Orlando Magic, 2nd round (1st pick, 30th overall), 2004 NBA Draft",,0,/players/v/varejan01.html,,,,Center
+7.3,7.2,1.2,51.0,15.6,46.4,Power Forward,Right,"Orlando Magic, 2nd round (1st pick, 30th overall), 2004 NBA Draft",,0,/players/v/varejan01.html,,,,Forward
 2.9,1.9,0.4,58.2,11.5,0.7,Power Forward,Right,"Miami Heat, 2nd round (11th pick, 41st overall), 2010 NBA Draft","Haywood  in  Brownsville,        Tennessee",0,/players/v/varnaja01.html,Brownsville,Tennessee,Haywood ,Forward
 9.0,2.5,4.8,41.8,13.7,12.6,Shooting Guard,Right,"Memphis Grizzlies, 1st round (28th pick, 28th overall), 2010 NBA Draft","Montrose Christian School  in  Rockville,        Maryland",0,/players/v/vasqugr01.html,Rockville,Maryland,Montrose Christian School ,Guard
 11.9,2.5,2.1,39.2,12.1,18.0,Shooting Guard,Right,"St. Louis Hawks, 4th round (1st pick, 26th overall), 1962 NBA Draft","Tamms  in  Tamms,        Illinois",0,/players/v/vaughch01.html,Tamms,Illinois,Tamms ,Guard
@@ -4402,7 +4402,7 @@ ppg,trb,ast,fgp,per,ws,position,shooting_hand,draft,high_school,hof,url,hs_city,
 3.0,1.1,0.7,42.0,12.9,0.1,Small Forward,Right,"Houston Rockets, 5th round (5th pick, 77th overall), 1974 NBA Draft","English  in  Boston,        Massachusetts",0,/players/w/wellsow01.html,Boston,Massachusetts,English ,Forward
 0.7,2.0,2.3,14.3,-0.2,-0.2,Point Guard,Right,,"Marshall  in  Chicago,        Illinois",0,/players/w/wellsra01.html,Chicago,Illinois,Marshall ,Guard
 3.3,2.4,0.4,44.6,8.7,1.0,Center,Left,"Philadelphia 76ers, 1st round (16th pick, 16th overall), 1987 NBA Draft","Olympic  in  Silverdale,        Washington",0,/players/w/welpch01.html,Silverdale,Washington,Olympic ,Center
-6.1,2.4,1.5,40.3,11.2,5.7,Shooting Guard,Right,"Philadelphia 76ers, 1st round (16th pick, 16th overall), 2002 NBA Draft",,0,/players/w/welscji01.html,,,,Guard
+6.1,2.4,1.5,40.3,11.2,5.7,Small Forward,Right,"Philadelphia 76ers, 1st round (16th pick, 16th overall), 2002 NBA Draft",,0,/players/w/welscji01.html,,,,Forward
 1.6,0.4,0.5,53.8,16.1,0.1,Center,Right,"Denver Nuggets, 2nd round (28th pick, 58th overall), 2018 NBA Draft","Loyola HS  in  Los Angeles,        California",0,/players/w/welshth01.html,Los Angeles,California,Loyola HS ,Center
 4.6,3.0,0.6,45.9,10.9,17.7,Center,Right,"Dallas Mavericks, 1st round (16th pick, 16th overall), 1985 NBA Draft","Long Island Lutheran  in  Brookville,        New York",0,/players/w/wennibi01.html,Brookville,New York,Long Island Lutheran ,Center
 1.6,1.1,0.0,60.0,15.6,0.1,Center,Right,,"Mayde Creek  in  Houston,        Texas",0,/players/w/wenstma01.html,Houston,Texas,Mayde Creek ,Center
@@ -4428,18 +4428,18 @@ ppg,trb,ast,fgp,per,ws,position,shooting_hand,draft,high_school,hof,url,hs_city,
 4.0,0.0,2.0,100.0,76.1,0.1,Point Guard,Right,"Toronto Raptors, 2nd round (18th pick, 47th overall), 1998 NBA Draft","New London  in  New London,        Connecticut",0,/players/w/wheelty01.html,New London,Connecticut,New London ,Guard
 0.7,0.3,0.3,16.7,-8.7,-0.1,Point Guard,Right,"Indianapolis Olympians, 1952 NBA Draft","Sarasota  in  Sarasota,        Florida",0,/players/w/whitask01.html,Sarasota,Florida,Sarasota ,Guard
 4.6,2.3,0.4,34.2,5.8,-0.1,Small Forward,Right,,"Miller School of Albemarle  in  Charlottesville,        Virginia",0,/players/w/whitean01.html,Charlottesville,Virginia,Miller School of Albemarle ,Forward
-5.9,3.2,0.6,50.7,14.5,3.8,Center,Right,"Detroit Pistons, 1st round (29th pick, 29th overall), 2008 NBA Draft","Hillcrest  in  Tuscaloosa,        Alabama",0,/players/w/whitedj01.html,Tuscaloosa,Alabama,Hillcrest ,Center
+5.9,3.2,0.6,50.7,14.5,3.8,Power Forward,Right,"Detroit Pistons, 1st round (29th pick, 29th overall), 2008 NBA Draft","Hillcrest  in  Tuscaloosa,        Alabama",0,/players/w/whitedj01.html,Tuscaloosa,Alabama,Hillcrest ,Forward
 8.5,3.3,3.2,47.9,14.9,4.1,Point Guard,Right,"San Antonio Spurs, 1st round (29th pick, 29th overall), 2017 NBA Draft","Legend  in  Parker,        Colorado",0,/players/w/whitede01.html,Parker,Colorado,Legend ,Guard
 6.1,2.4,0.5,52.5,12.5,1.3,Small Forward,Right,"Detroit Pistons, 3rd round (19th pick, 65th overall), 1987 NBA Draft","Sacred Heart  in  San Francisco,        California",0,/players/w/whiteer01.html,San Francisco,California,Sacred Heart ,Forward
 2.4,1.3,1.2,40.5,8.4,0.1,Point Guard,Right,"Atlanta Hawks, 8th round (14th pick, 133rd overall), 1970 NBA Draft","Decatur  in  Decatur,        Georgia",0,/players/w/whitehe01.html,Decatur,Georgia,Decatur ,Guard
 4.8,2.2,0.9,36.6,8.5,-0.8,Shooting Guard,Right,"San Francisco Warriors, 2nd round (7th pick, 14th overall), 1962 NBA Draft",,0,/players/w/whitehu01.html,,,,Guard
 5.9,5.8,0.2,51.0,14.2,10.4,Center,Right,"Washington Wizards, 2nd round (14th pick, 43rd overall), 1998 NBA Draft","Cardinal Ritter  in  St. Louis,        Missouri",0,/players/w/whiteja01.html,St. Louis,Missouri,Cardinal Ritter ,Center
-2.7,1.0,0.5,43.8,9.9,0.8,Shooting Guard,Right,"Portland Trail Blazers, 2nd round (1st pick, 31st overall), 2006 NBA Draft","Hargrave Military Academy  in  Chatham,        Virginia",0,/players/w/whiteja02.html,Chatham,Virginia,Hargrave Military Academy ,Guard
+2.7,1.0,0.5,43.8,9.9,0.8,Small Forward,Right,"Portland Trail Blazers, 2nd round (1st pick, 31st overall), 2006 NBA Draft","Hargrave Military Academy  in  Chatham,        Virginia",0,/players/w/whiteja02.html,Chatham,Virginia,Hargrave Military Academy ,Forward
 17.2,4.0,4.9,44.4,14.2,54.0,Point Guard,Right,"Boston Celtics, 1st round (9th pick, 9th overall), 1969 NBA Draft","McKinley  in  St. Louis,        Missouri",1,/players/w/whitejo01.html,St. Louis,Missouri,McKinley ,Guard
 2.7,2.2,0.5,38.1,7.6,0.8,Power Forward,Right,,"Clearwater  in  Clearwater,        Florida",0,/players/w/whiteok01.html,Clearwater,Florida,Clearwater ,Forward
 7.4,4.9,0.6,40.1,11.0,1.9,Power Forward,Right,"Dallas Mavericks, 1st round (8th pick, 8th overall), 1989 NBA Draft","Huntington  in  Shreveport,        Louisiana",0,/players/w/whitera01.html,Shreveport,Louisiana,Huntington ,Forward
-7.1,2.2,1.1,42.4,12.3,1.8,Small Forward,Right,"Detroit Pistons, 1st round (9th pick, 9th overall), 2001 NBA Draft","Newport School  in  Silver Spring,        Maryland",0,/players/w/whitero02.html,Silver Spring,Maryland,Newport School ,Forward
-7.4,2.3,0.7,50.6,12.4,6.5,Power Forward,Right,"Phoenix Suns, 4th round (17th pick, 86th overall), 1982 NBA Draft","Tuskegee  in  Tuskegee,        Alabama",0,/players/w/whitero01.html,Tuskegee,Alabama,Tuskegee ,Forward
+7.1,2.2,1.1,42.4,12.3,1.8,Shooting Guard,Right,"Detroit Pistons, 1st round (9th pick, 9th overall), 2001 NBA Draft","Newport School  in  Silver Spring,        Maryland",0,/players/w/whitero02.html,Silver Spring,Maryland,Newport School ,Guard
+7.4,2.3,0.7,50.6,12.4,6.5,Small Forward,Right,"Phoenix Suns, 4th round (17th pick, 86th overall), 1982 NBA Draft","Tuskegee  in  Tuskegee,        Alabama",0,/players/w/whitero01.html,Tuskegee,Alabama,Tuskegee ,Forward
 0.0,0.0,0.0,0.0,-8.3,0.0,Power Forward,Right,"Houston Rockets, 1st round (16th pick, 16th overall), 2012 NBA Draft","Hopkins  in  Hopkins,        Minnesota",0,/players/w/whitero03.html,Hopkins,Minnesota,Hopkins ,Forward
 3.1,1.0,0.9,40.8,9.2,0.2,Shooting Guard,Right,"Houston Rockets, 3rd round (11th pick, 47th overall), 1975 NBA Draft","Union  in  Phoenix,        Arizona",0,/players/w/whiteru01.html,Phoenix,Arizona,Union ,Guard
 5.3,0.6,1.2,44.6,9.4,-0.3,Point Guard,Right,"Chicago Bulls, 2nd round (10th pick, 33rd overall), 1987 NBA Draft","Independence  in  Charlotte,        North Carolina",0,/players/w/whiteto01.html,Charlotte,North Carolina,Independence ,Guard
@@ -4498,10 +4498,10 @@ ppg,trb,ast,fgp,per,ws,position,shooting_hand,draft,high_school,hof,url,hs_city,
 8.9,4.0,0.7,43.4,13.4,14.1,Small Forward,Right,"Minnesota Timberwolves, 1st round (2nd pick, 2nd overall), 2011 NBA Draft","La Mirada  in  La Mirada,        California",0,/players/w/willide02.html,La Mirada,California,La Mirada ,Forward
 6.6,1.4,2.4,44.7,8.6,-0.3,Point Guard,Right,"New Orleans Jazz, 5th round (8th pick, 96th overall), 1978 NBA Draft","Mackin  in  Washington,        District of Columbia",0,/players/w/willidu01.html,Washington,District of Columbia,Mackin ,Guard
 4.5,5.6,0.9,43.2,15.2,2.7,Center,Right,"Phoenix Suns, 3rd round (13th pick, 49th overall), 1974 NBA Draft","Woodrow Wilson  in  Levittown,        Pennsylvania",0,/players/w/williea01.html,Levittown,Pennsylvania,Woodrow Wilson ,Center
-4.9,1.5,0.9,42.1,9.5,0.7,Shooting Guard,Left,"Portland Trail Blazers, 1st round (22nd pick, 22nd overall), 2010 NBA Draft","St. George's Independent School  in  Collierville,        Tennessee",0,/players/w/williel01.html,Collierville,Tennessee,St. George's Independent School ,Guard
+4.9,1.5,0.9,42.1,9.5,0.7,Point Guard,Left,"Portland Trail Blazers, 1st round (22nd pick, 22nd overall), 2010 NBA Draft","St. George's Independent School  in  Collierville,        Tennessee",0,/players/w/williel01.html,Collierville,Tennessee,St. George's Independent School ,Guard
 8.6,3.3,1.4,41.5,11.7,23.2,Shooting Guard,Right,"Boston Celtics, 1st round (14th pick, 14th overall), 1995 NBA Draft","Malcolm X Shabazz  in  Newark,        New Jersey",0,/players/w/willier01.html,Newark,New Jersey,Malcolm X Shabazz ,Guard
 9.4,2.5,2.0,46.2,11.8,-0.3,Shooting Guard,Right,"Philadelphia 76ers, 9th round (12th pick, 152nd overall), 1976 NBA Draft","Glen Springs Academy  in  Lakemont,        New York",0,/players/w/willifl01.html,Lakemont,New York,Glen Springs Academy ,Guard
-2.9,0.9,1.9,35.2,9.2,0.1,Point Guard,Right,"Denver Nuggets, 1st round (25th pick, 25th overall), 2002 NBA Draft","Manual  in  Peoria,        Illinois",0,/players/w/willifr02.html,Peoria,Illinois,Manual ,Guard
+2.9,0.9,1.9,35.2,9.2,0.1,Shooting Guard,Right,"Denver Nuggets, 1st round (25th pick, 25th overall), 2002 NBA Draft","Manual  in  Peoria,        Illinois",0,/players/w/willifr02.html,Peoria,Illinois,Manual ,Guard
 14.7,1.6,1.6,46.7,17.9,10.0,Shooting Guard,Right,"Boston Celtics, 1st round (8th pick, 8th overall), 1978 NBA Draft","Manual Arts  in  Los Angeles,        California",0,/players/w/willifr01.html,Los Angeles,California,Manual Arts ,Guard
 0.0,0.0,0.0,0.0,-22.7,0.0,Small Forward,Right,"Phoenix Suns, 2nd round (9th pick, 24th overall), 1969 NBA Draft","Galileo  in  San Francisco,        California",0,/players/w/willige01.html,San Francisco,California,Galileo ,Forward
 17.1,2.7,5.6,46.1,18.5,67.9,Point Guard,Right,"Golden State Warriors, 2nd round (2nd pick, 20th overall), 1975 NBA Draft","Mount Vernon  in  Mount Vernon,        New York",0,/players/w/willigu01.html,Mount Vernon,New York,Mount Vernon ,Guard
@@ -4545,9 +4545,9 @@ ppg,trb,ast,fgp,per,ws,position,shooting_hand,draft,high_school,hof,url,hs_city,
 6.3,4.5,0.6,50.0,13.7,9.0,Power Forward,Right,"Golden State Warriors, 2nd round (10th pick, 33rd overall), 1981 NBA Draft","Westchester  in  Los Angeles,        California",0,/players/w/willisa02.html,Los Angeles,California,Westchester ,Forward
 5.1,4.7,0.6,46.7,13.3,26.4,Power Forward,Right,,"Glen A. Wilson  in  Hacienda Heights,        California",0,/players/w/willisc01.html,Hacienda Heights,California,Glen A. Wilson ,Forward
 4.2,3.4,0.3,51.1,12.4,3.0,Center,Right,"New Jersey Nets, 1st round (17th pick, 17th overall), 2007 NBA Draft","Mansfield  in  Mansfield,        Texas",0,/players/w/willise01.html,Mansfield,Texas,Mansfield ,Center
-5.8,1.6,2.4,40.1,13.3,8.8,Point Guard,Right,"Chicago Bulls, 2nd round (5th pick, 34th overall), 1998 NBA Draft","Fork Union Military Academy  in  Fork Union,        Virginia",0,/players/w/willish01.html,Fork Union,Virginia,Fork Union Military Academy ,Guard
+5.8,1.6,2.4,40.1,13.3,8.8,Shooting Guard,Right,"Chicago Bulls, 2nd round (5th pick, 34th overall), 1998 NBA Draft","Fork Union Military Academy  in  Fork Union,        Virginia",0,/players/w/willish01.html,Fork Union,Virginia,Fork Union Military Academy ,Guard
 5.6,3.0,0.7,40.3,10.5,6.7,Shooting Guard,Right,"Indiana Pacers, 1st round (17th pick, 17th overall), 2006 NBA Draft","Laurinburg Institute  in  Laurinburg,        North Carolina",0,/players/w/willish03.html,Laurinburg,North Carolina,Laurinburg Institute ,Guard
-4.5,4.3,0.5,46.2,12.5,9.9,Power Forward,Right,"Atlanta Hawks, 1st round (5th pick, 5th overall), 2006 NBA Draft","Midwest City  in  Midwest City,        Oklahoma",0,/players/w/willish02.html,Midwest City,Oklahoma,Midwest City ,Forward
+4.5,4.3,0.5,46.2,12.5,9.9,Center,Right,"Atlanta Hawks, 1st round (5th pick, 5th overall), 2006 NBA Draft","Midwest City  in  Midwest City,        Oklahoma",0,/players/w/willish02.html,Midwest City,Oklahoma,Midwest City ,Center
 10.9,4.2,2.0,47.8,16.0,13.4,Power Forward,Right,"New York Knicks, 1st round (21st pick, 21st overall), 1979 NBA Draft","Lee  in  New Haven,        Connecticut",0,/players/w/willisl01.html,New Haven,Connecticut,Lee ,Forward
 7.1,3.6,2.4,41.2,11.5,-0.2,Shooting Guard,Right,"New Jersey Nets, 1st round (11th pick, 11th overall), 2009 NBA Draft","Rainier Beach  in  Seattle,        Washington",0,/players/w/willite01.html,Seattle,Washington,Rainier Beach ,Guard
 3.2,2.4,0.5,47.0,13.0,0.5,Small Forward,Left,,"Richland NE  in  Richland,        South Carolina",0,/players/w/willitr01.html,Richland,South Carolina,Richland NE ,Forward
@@ -4600,7 +4600,7 @@ ppg,trb,ast,fgp,per,ws,position,shooting_hand,draft,high_school,hof,url,hs_city,
 7.4,1.4,2.2,50.1,11.2,17.2,Shooting Guard,Right,"Washington Bullets, 1st round (22nd pick, 22nd overall), 1983 NBA Draft","Ben Davis  in  Indianapolis,        Indiana",0,/players/w/wittmra01.html,Indianapolis,Indiana,Ben Davis ,Guard
 2.9,1.3,0.8,58.3,9.5,1.1,Small Forward,Right,"Washington Bullets, 5th round (11th pick, 103rd overall), 1981 NBA Draft","St. Joseph  in  Metuchen,        New Jersey",0,/players/w/wittsga01.html,Metuchen,New Jersey,St. Joseph ,Forward
 6.2,1.4,3.4,43.0,11.0,6.1,Point Guard,Left,"Philadelphia 76ers, 3rd round (11th pick, 46th overall), 1971 NBA Draft","East Brunswick  in  East Brunswick,        New Jersey",0,/players/w/wohlda01.html,East Brunswick,New Jersey,East Brunswick ,Guard
-4.2,3.3,1.0,42.3,7.8,3.5,Center,Right,"Los Angeles Clippers, 1st round (13th pick, 13th overall), 1987 NBA Draft","Kohler  in  Kohler,        Wisconsin",0,/players/w/wolfjo01.html,Kohler,Wisconsin,Kohler ,Center
+4.2,3.3,1.0,42.3,7.8,3.5,Power Forward,Right,"Los Angeles Clippers, 1st round (13th pick, 13th overall), 1987 NBA Draft","Kohler  in  Kohler,        Wisconsin",0,/players/w/wolfjo01.html,Kohler,Wisconsin,Kohler ,Forward
 2.0,1.1,0.1,32.5,6.0,-0.1,Power Forward,Right,,,0,/players/w/wolkoru01.html,,,,Forward
 5.5,2.2,2.5,42.3,11.3,0.9,Point Guard,Right,"Washington Wizards, 2nd round (8th pick, 38th overall), 2013 NBA Draft","St. Cloud Tech  in  St. Cloud,        Minnesota",0,/players/w/woltena01.html,St. Cloud,Minnesota,St. Cloud Tech ,Guard
 11.8,3.0,1.8,46.5,13.9,15.4,Small Forward,Right,"Atlanta Hawks, 1st round (4th pick, 4th overall), 1981 NBA Draft","Jones County  in  Gray,        Georgia",0,/players/w/woodal01.html,Gray,Georgia,Jones County ,Forward
@@ -4608,7 +4608,7 @@ ppg,trb,ast,fgp,per,ws,position,shooting_hand,draft,high_school,hof,url,hs_city,
 5.3,2.9,0.3,49.2,18.9,1.4,Power Forward,Right,,"Findlay College Prep  in  Henderson,        Nevada",0,/players/w/woodch01.html,Henderson,Nevada,Findlay College Prep ,Forward
 3.9,2.4,0.7,44.9,10.0,10.2,Power Forward,Right,,"Hudson's Bay  in  Vancouver,        Washington",0,/players/w/woodda01.html,Vancouver,Washington,Hudson's Bay ,Forward
 3.4,1.5,0.2,45.8,12.0,0.3,Small Forward,Right,"Utah Jazz, 2nd round (4th pick, 27th overall), 1981 NBA Draft","East Hampton  in  East Hampton,        New York",0,/players/w/woodho01.html,East Hampton,New York,East Hampton ,Forward
-6.4,1.2,3.2,39.2,12.6,6.7,Shooting Guard,Right,"Philadelphia 76ers, 1st round (10th pick, 10th overall), 1984 NBA Draft","St. Monica  in  Santa Monica,        California",0,/players/w/woodle01.html,Santa Monica,California,St. Monica ,Guard
+6.4,1.2,3.2,39.2,12.6,6.7,Point Guard,Right,"Philadelphia 76ers, 1st round (10th pick, 10th overall), 1984 NBA Draft","St. Monica  in  Santa Monica,        California",0,/players/w/woodle01.html,Santa Monica,California,St. Monica ,Guard
 2.6,3.2,0.3,41.9,11.2,3.1,Center,Right,"Minnesota Timberwolves, 2nd round (17th pick, 46th overall), 2001 NBA Draft","Cardinal Ritter  in  St. Louis,        Missouri",0,/players/w/woodslo01.html,St. Louis,Missouri,Cardinal Ritter ,Center
 4.1,2.3,0.6,45.2,11.1,1.4,Power Forward,Right,"Portland Trail Blazers, 1st round (21st pick, 21st overall), 2002 NBA Draft","Carver  in  Memphis,        Tennessee",0,/players/w/woodsqy01.html,Memphis,Tennessee,Carver ,Forward
 2.4,0.6,1.7,34.0,11.6,0.6,Point Guard,Right,"Los Angeles Clippers, 1st round (16th pick, 16th overall), 1992 NBA Draft","Benjamin Franklin  in  Philadelphia,        Pennsylvania",0,/players/w/woodsra01.html,Philadelphia,Pennsylvania,Benjamin Franklin ,Guard
@@ -4658,7 +4658,7 @@ ppg,trb,ast,fgp,per,ws,position,shooting_hand,draft,high_school,hof,url,hs_city,
 4.6,1.8,0.5,46.5,15.5,1.1,Small Forward,Right,"Boston Celtics, 1st round (24th pick, 24th overall), 1984 NBA Draft","Jack Yates  in  Houston,        Texas",0,/players/y/youngmi01.html,Houston,Texas,Jack Yates ,Forward
 11.4,2.0,1.0,41.8,12.9,18.6,Shooting Guard,Right,"Washington Wizards, 1st round (16th pick, 16th overall), 2007 NBA Draft","Cleveland  in  Reseda,        California",0,/players/y/youngni01.html,Reseda,California,Cleveland ,Guard
 1.4,0.9,0.8,28.6,3.0,-0.1,Shooting Guard,Right,"Portland Trail Blazers, 3rd round (14th pick, 61st overall), 1985 NBA Draft","Hebron  in  Ellicott City,        Maryland",0,/players/y/youngpe01.html,Ellicott City,Maryland,Hebron ,Guard
-5.8,2.3,0.7,44.2,11.5,5.2,Small Forward,Right,"Memphis Grizzlies, 2nd round (6th pick, 36th overall), 2009 NBA Draft","Hargrave Military Academy  in  Chatham,        Virginia",0,/players/y/youngsa01.html,Chatham,Virginia,Hargrave Military Academy ,Forward
+5.8,2.3,0.7,44.2,11.5,5.2,Shooting Guard,Right,"Memphis Grizzlies, 2nd round (6th pick, 36th overall), 2009 NBA Draft","Hargrave Military Academy  in  Chatham,        Virginia",0,/players/y/youngsa01.html,Chatham,Virginia,Hargrave Military Academy ,Guard
 13.4,6.0,1.7,50.1,16.4,59.7,Power Forward,Left,"Philadelphia 76ers, 1st round (12th pick, 12th overall), 2007 NBA Draft","Mitchell  in  Memphis,        Tennessee",0,/players/y/youngth01.html,Memphis,Tennessee,Mitchell ,Forward
 2.2,1.4,0.2,33.3,11.7,0.2,Center,Right,"Golden State Warriors, 2nd round (27th pick, 56th overall), 1999 NBA Draft","Harbor  in  Santa Cruz,        California",0,/players/y/youngti01.html,Santa Cruz,California,Harbor ,Center
 19.1,3.7,8.1,41.8,17.0,3.3,Point Guard,Right,"Dallas Mavericks, 1st round (5th pick, 5th overall), 2018 NBA Draft","Norman North HS  in  Norman,        Oklahoma",0,/players/y/youngtr01.html,Norman,Oklahoma,Norman North HS ,Guard
