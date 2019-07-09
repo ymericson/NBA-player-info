@@ -11,28 +11,30 @@ To analyze which current and recently-retired players will become inducted into 
 ## Data & Methods
 Based on the data I web scraped from [Basketball Reference](https://www.basketball-reference.com/), I created a database of all historical ABA/NBA players since 1947 who played at least one game. For these players, I retrieved the following stats:
 
-- name: full name of player, first name and last name
-- active_from: year started playing for the NBA
-- active_to: last year playing for the NBA (2018 is still active)
-- career_length: seasons played in league (disregards if retired during)
-- birth_date: datetime variable, date of birth
-- position: five positions classification - most common approach in modern ear
-- trad_position: three positions classification - traditional approach of describing positions
-- ppg: float variable, total points per game
-- trb: float variable, total rebounds per game
-- ast: float variable, total assists per game
-- per: float variable, [player efficiency rating](https://www.basketball-reference.com/about/per.html)
-- ws: float variable, [win shares](https://www.basketball-reference.com/about/ws.html)
-- height_inches: float variable, height measured in inches
-- weight: float variable, weight measured in pounds
-- shooting hand: prefered shooting hand
-- hof: 0 or 1, inducted into Naismith Memorial Basketball Hall of Fame as player
+Column | Description
+-------|-------------
+'name' | full name of player, first name and last name
+'active_from' | year started playing for the NBA
+'active_to' | last year playing for the NBA (2018 is still active)
+'areer_lengt' | seasons played in league (disregards if retired during)
+'birth_date' | datetime variable, date of birth
+'position' | five positions classification - most common approach in modern ear
+'trad_position' | three positions classification - traditional approach of describing positions
+'ppg' | float variable, total points per game
+'trb' | float variable, total rebounds per game
+'ast' | float variable, total assists per game
+'per' | float variable, [player efficiency rating](https://www.basketball-reference.com/about/per.html)
+'ws' | float variable, [win shares](https://www.basketball-reference.com/about/ws.html)
+'height_inches' | float variable, height measured in inches
+'weight' | float variable, weight measured in pounds
+'shooting hand' | prefered shooting hand
+'hof' | 0 or 1, inducted into Naismith Memorial Basketball Hall of Fame as player
     * 0 if inducted as coach, contributor, etc.
-- college: college basketball programs of participation
-- hs_name: name of high school attended
-- hs_city: city of high school location
-- hs_state: state or country (if foreign player) of high school
-- url: player page in www.basketball-reference.com
+'college' | college basketball programs of participation
+'hs_name' | name of high school attended
+'hs_city' | city of high school location
+'hs_state' | state or country (if foreign player) of high school
+'url' | player page in www.basketball-reference.com
 
 Using all the counting statistics, such as career per-game statstics and advanced stats, I created four models to predict a player's hall of fame induction probability. 
 
