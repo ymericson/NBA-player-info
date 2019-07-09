@@ -28,8 +28,7 @@ Column | Description
 'height_inches' | float variable, height measured in inches
 'weight' | float variable, weight measured in pounds
 'shooting hand' | prefered shooting hand
-'hof' | 0 or 1, inducted into Naismith Memorial Basketball Hall of Fame as player
-0 if inducted as coach, contributor, etc.
+'hof' | 0 or 1, inducted into Naismith Memorial Basketball Hall of Fame as player \n 0 if inducted as coach, contributor, etc.
 'college' | college basketball programs of participation
 'hs_name' | name of high school attended
 'hs_city' | city of high school location
