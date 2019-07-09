@@ -16,7 +16,7 @@ Column | Description
 'name' | full name of player, first name and last name
 'active_from' | year started playing for the NBA
 'active_to' | last year playing for the NBA (2018 is still active)
-'areer_lengt' | seasons played in league (disregards if retired during)
+'career_length' | seasons played in league (disregards if retired during)
 'birth_date' | datetime variable, date of birth
 'position' | five positions classification - most common approach in modern ear
 'trad_position' | three positions classification - traditional approach of describing positions
@@ -29,7 +29,7 @@ Column | Description
 'weight' | float variable, weight measured in pounds
 'shooting hand' | prefered shooting hand
 'hof' | 0 or 1, inducted into Naismith Memorial Basketball Hall of Fame as player
-    * 0 if inducted as coach, contributor, etc.
+0 if inducted as coach, contributor, etc.
 'college' | college basketball programs of participation
 'hs_name' | name of high school attended
 'hs_city' | city of high school location
