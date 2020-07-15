@@ -49,3 +49,4 @@ The models were trained and tested on hall of fame data from 1947-2015, and then
 The model predicts tha LeBron James - based on current achievements - has the highest likelyhood of becoming inducted into the hall of fame. Recently-retired players like Tim Duncan, Kevin Garnett, and Kobe Bryant - all likely to be in the hall of fame class of 2021 - will be inducted within a few years. We also saw the model's limitations, since it does not take account for international career, team success, awards, cultural impact, etc. However, the model is mostly accurate in predicting which active and recently-retired players will be inducted.
 
 
+test
