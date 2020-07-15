@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <meta name="description" content="NBA Player Hall of Fame Analysis : analysis of all historical nba players">
+
+    <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
+
+    <title>NBA Player Hall of Fame Analysis</title>
+  </head>
+
+  <body>
+
+    <!-- HEADER -->
+    <div id="header_wrap" class="outer">
+        <header class="inner">
+          <a id="forkme_banner" href="https://github.com/ymericson/nba-player-info">View on GitHub</a>
+
+          <h1 id="project_title">NBA Player Hall of Fame Analysis</h1>
+          <h2 id="project_tagline">analysis of all historical nba players</h2>
+
+            <section id="downloads">
+              <a class="zip_download_link" href="https://github.com/ymericson/nba-player-info/zipball/master">Download this project as a .zip file</a>
+              <a class="tar_download_link" href="https://github.com/ymericson/nba-player-info/tarball/master">Download this project as a tar.gz file</a>
+            </section>
+        </header>
+    </div>
+
+    <!-- MAIN CONTENT -->
+    <div id="main_content_wrap" class="outer">
+      <section id="main_content" class="inner">
+        <h2>
+<a id="summary" class="anchor" href="#summary" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Summary</h2>
+<p>Based on NBA career statistics from all Basketball Hall of Fame inductees, a predictive model is used to calculate the probability of hall of fame induction for all current and recently-retired players</p>
+<h2>
+<a id="introduction" class="anchor" href="#introduction" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Introduction</h2>
+<p>Since 1959, the Naismith Memorial Basketball Hall of Fame has inducted almost 400 coaches, players, referees, contributors, and teams. It honors individuals who have shown exceptional skill at basketball, all-time great coaches, referees, and other major contributors to the sport (broadcasters, journalists, etc.).</p>
+<p>Several people have been inducted multiple times, either as players/coaches or as coaches/contributors. A players does have to play in the NBA to be inducted, as career achievements in college, WNBA, international teams, and other platforms are considered. For a player to be eligible on the ballot, he or she must be fully retired for at least three years. They can also become inducted as a part of a historically-significant team, such as the 1992 US men's Olympic basketball team - widely regarded as the greatest team ever assembled in any sports.</p>
+<p>To analyze which current and recently-retired players will become inducted into the hall of fame in the future, I created various models based on almost 60 years of previous data.</p>
+<h2>
+<a id="data--methods" class="anchor" href="#data--methods" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Data &amp; Methods</h2>
+<p>Based on the data I web scraped from <a href="https://www.basketball-reference.com/">Basketball Reference</a>, I created a database of all historical ABA/NBA players since 1947 who played at least one game. For these players, I retrieved the following stats:</p>
+<table>
+<thead>
+<tr>
+<th>Column</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>'name'</td>
+<td>full name of player, first name and last name</td>
+</tr>
+<tr>
+<td>'active_from'</td>
+<td>year started playing for the NBA</td>
+</tr>
+<tr>
+<td>'active_to'</td>
+<td>last year playing for the NBA (2018 is still active)</td>
+</tr>
+<tr>
+<td>'career_length'</td>
+<td>seasons played in league (disregards if retired during)</td>
+</tr>
+<tr>
+<td>'birth_date'</td>
+<td>datetime variable, date of birth</td>
+</tr>
+<tr>
+<td>'position'</td>
+<td>five positions classification - most common approach in modern ear</td>
+</tr>
+<tr>
+<td>'trad_position'</td>
+<td>three positions classification - traditional approach of describing positions</td>
+</tr>
+<tr>
+<td>'ppg'</td>
+<td>float variable, total points per game</td>
+</tr>
+<tr>
+<td>'trb'</td>
+<td>float variable, total rebounds per game</td>
+</tr>
+<tr>
+<td>'ast'</td>
+<td>float variable, total assists per game</td>
+</tr>
+<tr>
+<td>'per'</td>
+<td>float variable, <a href="https://www.basketball-reference.com/about/per.html">player efficiency rating</a>
+</td>
+</tr>
+<tr>
+<td>'ws'</td>
+<td>float variable, <a href="https://www.basketball-reference.com/about/ws.html">win shares</a>
+</td>
+</tr>
+<tr>
+<td>'height_inches'</td>
+<td>float variable, height measured in inches</td>
+</tr>
+<tr>
+<td>'weight'</td>
+<td>float variable, weight measured in pounds</td>
+</tr>
+<tr>
+<td>'shooting hand'</td>
+<td>prefered shooting hand</td>
+</tr>
+<tr>
+<td>'hof'</td>
+<td>0 or 1, inducted into Naismith Memorial Basketball Hall of Fame as player. 0 if inducted as coach, contributor, etc.</td>
+</tr>
+<tr>
+<td>'college'</td>
+<td>college basketball programs of participation</td>
+</tr>
+<tr>
+<td>'hs_name'</td>
+<td>name of high school attended</td>
+</tr>
+<tr>
+<td>'hs_city'</td>
+<td>city of high school location</td>
+</tr>
+<tr>
+<td>'hs_state'</td>
+<td>state or country (if foreign player) of high school</td>
+</tr>
+<tr>
+<td>'url'</td>
+<td>player page in <a href="http://www.basketball-reference.com">www.basketball-reference.com</a>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Using all the counting statistics, such as career per-game statstics and advanced stats, I created four models to predict a player's hall of fame induction probability.</p>
+<p>With these inputs and outputs, I created four models:</p>
+<ul>
+<li>Logistic regression</li>
+<li>Decision tree and random forest classifier</li>
+<li>Naive Bayes classifier</li>
+<li>Support vector regression (SVM)</li>
+</ul>
+<p>The models were trained and tested on hall of fame data from 1947-2015, and then made predictions for current players and players retired since 2015.</p>
+<h2>
+<a id="conclusion" class="anchor" href="#conclusion" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Conclusion</h2>
+<p><img src="https://raw.githubusercontent.com/ymericson/nba-player-info/master/all-graphs/hof_pred.png" alt=""></p>
+<p>The model predicts tha LeBron James - based on current achievements - has the highest likelyhood of becoming inducted into the hall of fame. Recently-retired players like Tim Duncan, Kevin Garnett, and Kobe Bryant - all likely to be in the hall of fame class of 2021 - will be inducted within a few years. We also saw the model's limitations, since it does not take account for international career, team success, awards, cultural impact, etc. However, the model is mostly accurate in predicting which active and recently-retired players will be inducted.</p>
+      </section>
+    </div>
+
+    <!-- FOOTER  -->
+    <div id="footer_wrap" class="outer">
+      <footer class="inner">
+        <p class="copyright">NBA Player Hall of Fame Analysis maintained by <a href="https://github.com/ymericson">ymericson</a></p>
+        <p>Published with <a href="https://pages.github.com">GitHub Pages</a></p>
+      </footer>
+    </div>
+
+    
+
+  </body>
+</html>
